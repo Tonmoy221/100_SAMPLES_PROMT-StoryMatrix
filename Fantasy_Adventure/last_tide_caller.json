@@ -1,0 +1,204 @@
+{
+  "story_name": "The Last Tide Caller",
+  "story_overview": "In a world where the ocean is slowly rising and swallowing coastal cities, a teenage girl named Maris discovers she is the last of the Tide Callers \u2014 people with the power to speak to the sea. Armed with only a broken conch shell and a stubborn heart, she must dive to the sunken ruins beneath the waves to find the ancient Song that can call the water back \u2014 before the last island disappears.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Dawn over a half-submerged coastal city. Broken towers rise from still water. Wooden platforms and rope bridges connect what remains of the buildings. A quiet, melancholy beauty. Wide cinematic shot, teal and gold palette.",
+        "Maris, 16, with dark braided hair and sun-darkened skin, stands at the edge of a platform staring at the water. She holds a cracked conch shell pressed to her ear. A distant sound seems to reach her alone. Medium close-up, pensive."
+      ],
+      "first_frame_prompt": [
+        "Half-submerged coastal city at dawn; broken towers rising from gently rippling water; rope bridges between buildings swaying slightly; teal-gold color palette with soft mist rising; water lapping gently.",
+        "Maris at platform edge; dark braided hair moving slightly in sea breeze; cracked conch shell pressed to her ear; eyes closed, listening intently; expression peaceful and focused."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Once, there were cities that touched the sky. Now they touch the sea. The water came slowly, then all at once.",
+        "Maris had grown up listening to what the water said. The trouble was \u2014 she was the only one who could."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Maris dives off the platform into the crystal-clear water. Below the surface \u2014 a drowned city in eerie perfect preservation. Streets, market stalls, doorways all visible. She swims downward. Wide underwater shot, blue-green light.",
+        "She pushes open an ancient door and floats into what was once a grand library. Waterlogged books drift around her. On the wall \u2014 a carved mural of a figure calling the ocean back with open hands. Close-up of the mural in the blue underwater light."
+      ],
+      "first_frame_prompt": [
+        "Maris diving beneath the surface with streaming light trails; below her, a perfectly preserved drowned city \u2014 streets and market stalls visible in blue-green light; particles floating and swirling around.",
+        "Maris floating gracefully in an underwater library; drifting waterlogged books slowly floating around her; a carved mural on the far wall glowing faintly in the blue light; water gently moving."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "She dove into the world the water had swallowed. Most people looked away. Maris looked down.",
+        "And there, beneath the sea, she found the story of what she was."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Close-up of the carved mural \u2014 a woman standing in raging surf, arms raised, and the water parting before her. Text etched below in an ancient language. Maris traces it with her finger. The conch shell at her side glows faintly.",
+        "Maris surfaces, gasping. She climbs back onto the platform. An old fisherman, her grandfather Coran, waits. He sees her face and knows immediately. He closes his eyes with a mix of pride and sorrow. Medium two-shot."
+      ],
+      "first_frame_prompt": [
+        "Carved underwater mural close-up; robed figure in raging surf with arms raised, water visibly parting in the carving; ancient text below glowing slightly; Maris's finger tracing the words with reverence.",
+        "Maris surfacing rapidly and climbing back to platform, breathing hard; water streaming off her; old fisherman Coran waiting with knowing eyes that already understand what she discovered."
+      ],
+      "cut": [
+        false,
+        true
+      ],
+      "speech": [
+        "The mural showed a woman the sea obeyed. And below it, a single carved sentence that Maris somehow already knew how to read.",
+        "'The last tide caller will come when the last island needs her most.' Her grandfather had known. He had always known."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Coran sits with Maris in a small firelit room, telling her the history \u2014 the Tide Callers, the ancient Song, the broken conch. His hands mime the waves as he speaks. Warm medium shot, intimate and important.",
+        "He takes the broken conch from her and shows her where the second piece should be \u2014 a matching fracture. The missing half is somewhere in the deep ruins. Close-up of the two pieces, one held by each of them, fitting together in gesture."
+      ],
+      "first_frame_prompt": [
+        "Coran and Maris in small firelit room; firelight dancing and flickering; Coran's weathered hands gesturing and miming flowing ocean waves as he speaks; Maris listening with complete rapt attention.",
+        "Coran's hand holding the broken conch next to Maris's; the fracture line clearly visible; the empty air between them where the missing piece should fit; firelight glinting off the shell."
+      ],
+      "cut": [
+        false,
+        true
+      ],
+      "speech": [
+        "Her grandfather told her what the ocean had been trying to tell her for years. History. Heritage. And a very hard task.",
+        "The conch was broken. The Song was incomplete. And the other half of both waited somewhere far below."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Maris prepares for a deep dive \u2014 wrapping waterproof cloth around her waist, tucking the conch shell carefully. Other platform-dwellers watch with confusion and worry. Wide shot of the community watching her.",
+        "She stands at the edge of the deepest part of the submerged city \u2014 a black descent beyond where light reaches. She breathes. She jumps. Wide shot \u2014 her small form cutting the surface and disappearing into darkness."
+      ],
+      "first_frame_prompt": [
+        "Maris at platform edge preparing for deep dive, tightening wrappings; other community members watching with concern and tension; her expression calm and absolutely resolute.",
+        "Maris at the edge of a dark water descent, arms slightly extended and poised; mid-jump as she enters the black water below the reach of light; water splashing around her; darkness below receiving her."
+      ],
+      "cut": [
+        false,
+        true
+      ],
+      "speech": [
+        "The people she had grown up with watched her with worried eyes. She didn't blame them. She was worried too.",
+        "But some things you do not because they are safe. You do them because you are the only one who can."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Deep underwater \u2014 nearly dark, only bioluminescent life providing pale blue light. Maris swims through the ruins of what was once a great cathedral. Enormous pillars rise around her. Wide shot, cathedral scale emphasized.",
+        "On the altar of the underwater cathedral \u2014 a glowing conch shell half, perfectly preserved. Maris swims toward it through shafts of faint blue light. Slow medium shot, reverent and dreamlike.",
+        "Her hand closes around it. The moment she touches it, a sound resonates through the water \u2014 the beginning of a song. Her eyes go wide. Close-up, her face bathed in soft blue light."
+      ],
+      "first_frame_prompt": [
+        "Maris swimming gracefully through drowned cathedral; enormous columns towering around her; bioluminescent creatures drifting and providing pale blue light in deep darkness; water flowing around her.",
+        "A glowing conch half resting on an underwater altar in shafts of shimmering blue light; Maris approaching slowly and carefully, hand extended toward it; light particles floating around.",
+        "Maris's hand closing around the glowing conch piece; face bathed in intensifying blue light; mouth slightly open as a resonant sound visibly travels through the deep water around her in waves."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "The cathedral had not been destroyed. It had been preserved. As if the sea itself was waiting to give something back.",
+        "The missing piece was exactly where it had been left. A thousand years ago. For her.",
+        "When she touched it, the water sang. And Maris \u2014 for the first time in her life \u2014 sang back."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Maris joins the two pieces of the conch. A perfect seal. The whole shell glows brilliant white. The water around her begins to swirl in a slow, ordered spiral. Wide underwater shot \u2014 the light expanding outward.",
+        "She swims upward \u2014 fast. The water around her is changing. Pulling. She breaks the surface in a cascade of glowing water. The people on the platforms watch in stunned silence. Wide shot from above the water."
+      ],
+      "first_frame_prompt": [
+        "Maris joining the two conch halves underwater with a decisive motion; brilliant white glow erupting explosively from the seam; water spiraling rapidly in a perfect ordered pattern around her.",
+        "Maris breaking the surface forcefully in a burst of glowing white water and light; platform community watching in frozen silence above; brilliant light everywhere, illuminating everything; mist and steam rising."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "The conch became whole. And she felt the ocean \u2014 all of it \u2014 listen.",
+        "She came up through the light. And the sea came with her."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Maris stands on the platform, holds the completed conch to her lips, and blows. A haunting, powerful note rings out. The water responds \u2014 waves receding, then receding further. Wide shot \u2014 the water pulling back revealing lost streets below.",
+        "Buildings emerge from the water \u2014 dripping, ancient, intact. Streets appear. Plazas. Fountains running again with clear water. The camera sweeps over the re-emerging city. Sweeping cinematic aerial shot."
+      ],
+      "first_frame_prompt": [
+        "Maris standing with conch raised to her lips, playing a powerful haunting note; water around the platforms visibly receding rapidly in waves; sunken city beginning to emerge from below; light spreading.",
+        "Aerial view of the re-emerging city \u2014 buildings dripping heavily as water recedes in flowing currents; streets and plazas becoming visible and drying; fountains beginning to flow again with clear water."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "She played the Song she had never been taught, but somehow always known. The sea listened the way it had always listened to her kind.",
+        "And the city\u2026 came home."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The community watches in joy and disbelief as their old city is restored. People weep. Children run onto the newly dry streets. Coran watches from the platform, hand over his heart. Wide joyful crowd shot.",
+        "Maris lowers the conch. Exhausted. The water is settled now \u2014 no longer rising. It rests at a new, honest level. She sits on the platform edge, feet dangling above the calm water. Medium shot, peaceful and earned."
+      ],
+      "first_frame_prompt": [
+        "Community members animated in joy and disbelief as city re-emerges around them; children running excitedly on dry streets; Coran at the back with hand over his heart, visibly moved.",
+        "Maris sitting on the platform edge, conch in her lap, feet dangling above now calm and gently rippling water; exhausted but deeply peaceful; the restored city behind her with people moving throughout."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "She had given them back what the sea had taken. Not all of it. But enough. Enough to begin again.",
+        "And sometimes, enough is everything."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Sunset over the partially restored city. Gold and rose light on wet stones. Maris walks along a reclaimed street, trailing her fingers along old walls. Wide walking shot, warm and reflective.",
+        "She pauses at a doorway and looks in \u2014 it was a bakery once. She can tell by the old wooden sign. She smiles. Continues walking. Close-medium shot, intimate and hopeful.",
+        "Final shot \u2014 wide aerial view of the city at golden hour. Whole and quiet. And one small figure walking the streets below, conch shell at her side. Slow fade to deep ocean blue."
+      ],
+      "first_frame_prompt": [
+        "Maris walking restored cobblestone street at sunset; gold-rose light dancing on wet stone still glistening with moisture; old buildings on either side, some windows still dark, some lit warmly; ocean visible beyond.",
+        "Maris pausing at an old bakery doorway; faded wooden sign gently swaying above in sea breeze; a quiet, private, knowing smile on her face as she looks in.",
+        "Aerial golden-hour view of restored coastal city; streets quiet with occasional movement; one tiny figure walking contemplatively below with a conch shell at her side; waves lapping gently; slow fade to deep ocean blue."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "The city was not the same as it had been. It was wetter, older, a little broken in places. But it was here.",
+        "Maris walked the streets that the sea had returned. She touched every wall like a question answered.",
+        "The ocean was quiet now. Not silent \u2014 it never is. But quiet. The way things are when they have finally been heard."
+      ]
+    }
+  ]
+}

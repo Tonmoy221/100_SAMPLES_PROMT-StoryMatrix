@@ -1,0 +1,204 @@
+{
+  "story_name": "The Cartographer of Lost Worlds",
+  "story_overview": "Twelve-year-old Finn inherits a mysterious map from his late grandfather \u2014 a map that doesn't show places, but shows worlds. When he discovers the map is a portal key, he is pulled into a realm of living landscapes, ancient map-guardians, and a forgotten kingdom that desperately needs to be found again before it fades from existence forever.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "A small cluttered attic room filled with old maps, compasses, and globes. Afternoon light slants through a dusty window. A boy, Finn \u2014 12, red-haired, freckled \u2014 sits at a wooden desk, carefully unrolling an ancient scroll. Medium shot, warm amber tones.",
+        "Close-up of the map as it unrolls \u2014 hand-drawn in faded ink, but the lines seem to shimmer faintly as if alive. Strange symbols border the edges. Finn's finger traces a line that seems to pulse under his touch. Extreme close-up, magical realism."
+      ],
+      "first_frame_prompt": [
+        "Cluttered attic with maps and compasses; Finn seated at wooden desk in slanted afternoon light; dust particles floating and drifting in the light beams; ancient scroll partially unrolled before him.",
+        "Ancient map in close-up; faded hand-drawn ink with faintly shimmering lines that gently pulse; strange border symbols glowing softly; Finn's finger tracing a line that pulses and brightens under his touch."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Every great journey begins the same way \u2014 with something left behind. In Finn's case, it was a map. His grandfather's last gift.",
+        "But this was no ordinary map. Because the moment he touched it\u2026 it touched him back."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The map begins to glow \u2014 a warm golden light spreading from the center. Finn stumbles back, knocking over a globe. The light intensifies, wrapping around his hands. Wide shot, the whole attic bathed in gold.",
+        "A swirling vortex opens above the desk \u2014 not dark and frightening, but luminous, like the inside of a compass rose. Wind rises from nowhere. Maps and papers spiral upward. Finn holds onto the desk, eyes wide. Dynamic wide shot."
+      ],
+      "first_frame_prompt": [
+        "Map on desk erupting with warm golden light expanding outward; Finn stumbling backward, globe rolling off; entire attic filling with swirling amber-gold radiance; light waves pulsing.",
+        "Luminous vortex forming above the desk like a glowing compass rose spinning and rotating; maps spiraling rapidly upward in rising wind; Finn gripping desk edge, eyes wide; papers fluttering chaotically."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "He had read about portals in his grandfather's journals. He had always assumed they were metaphors.",
+        "They were not metaphors."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Finn is pulled through the vortex. A rush of color and light \u2014 landscapes flashing past like turning pages. Mountains, oceans, floating islands, crystal deserts. Disorienting and beautiful. Fast-cut montage sequence with sweeping motion.",
+        "Finn lands hard on soft mossy ground. He sits up, gasping. Around him \u2014 an impossible landscape: purple-leafed trees, a sky with two suns, rivers flowing upward into clouds. Wide establishing shot, awe-inspiring."
+      ],
+      "first_frame_prompt": [
+        "Finn mid-fall through a vortex of rushing color swirling around him; flashing landscapes of mountains, oceans, crystal deserts surrounding him in rapid motion; light trails streaking past.",
+        "Finn sitting up from mossy ground; purple-leafed forest around him with leaves gently swaying; two suns in a lavender sky with soft clouds drifting; rivers flowing upward in the distance with luminous water."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "He fell through every world at once. Or perhaps every world fell through him. It is hard to say.",
+        "When he landed, the ground was soft and smelled like rain. Everything else was impossible."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "A figure approaches through the purple-leafed forest \u2014 an ancient map-guardian: a tall being made of parchment and compass lines, its face a living constellation. It speaks without a mouth. Wide shot, otherworldly and serene.",
+        "The guardian kneels before Finn, extending a hand. In its palm \u2014 a compass that points in no direction Finn recognizes. Close-up of the compass face, its needle spinning wildly then settling on a symbol. Intimate close-up."
+      ],
+      "first_frame_prompt": [
+        "Ancient guardian made of parchment and compass lines slowly emerging from purple forest; constellation-face glowing and shimmering softly; Finn facing it from below with wonder.",
+        "Guardian's parchment hand extended toward Finn, holding an unusual compass; needle spinning rapidly then settling deliberately on an unknown symbol; warm close light pulsing around it."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "He was not alone. In this world, the maps had guardians. And the guardians had been waiting.",
+        "Waiting, it turned out, for exactly someone like Finn."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The guardian leads Finn through the living landscape \u2014 the forest shifts and reforms around their path, trees bowing and moving aside. The ground shows faint map-lines glowing underfoot. Wide tracking shot, dreamlike.",
+        "They reach the edge of a great empty void \u2014 a place on the map with no lines, no detail. Just blank white space. The guardian points to it gravely. Wide shot with dramatic negative space."
+      ],
+      "first_frame_prompt": [
+        "Finn walking beside the parchment guardian; forest actively reforming around their path, trees bowing and swaying aside smoothly; glowing map-lines visible and pulsing in the mossy ground beneath their feet.",
+        "Finn and guardian at the edge of a void \u2014 a vast blank whiteness where landscape simply ceases with a sharp boundary; guardian pointing gravely and meaningfully into the emptiness; wind swirling at the edge."
+      ],
+      "cut": [
+        false,
+        true
+      ],
+      "speech": [
+        "The guardian showed him where they were going, by first showing him what had been lost.",
+        "On every map there is a blank space. This one was not empty. It was forgotten."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Finn opens the inherited map again. The blank space on his map corresponds exactly to the void before him. As he holds the map up, lines begin to appear \u2014 faint traces of a kingdom emerging. Wide shot, map and void aligned.",
+        "Finn steps into the void, map held out before him. Where he walks, the world solidifies \u2014 streets appear, fountains form, buildings rise faintly like breath fogging glass. Medium tracking shot, pure wonder."
+      ],
+      "first_frame_prompt": [
+        "Finn holding his grandfather's map up toward the void; faint golden lines of a kingdom slowly tracing themselves on the blank area, drawing themselves into existence.",
+        "Finn walking into the void with map extended; ground solidifying under each step in ripples; ghostly buildings and fountains materialize and form around him as he moves, becoming more solid."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "His grandfather had always told him \u2014 a map does not just show you where things are. It shows you where things want to be.",
+        "Finn walked into nothing. And nothing\u2026 became something."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "A forgotten kingdom materializes around Finn \u2014 beautiful and worn, like a city waking from a long sleep. Ghostly citizens flicker into view, transparent but present. Wide establishing shot, golden restoration light spreading outward.",
+        "At the center of the kingdom, a great clock tower that has stopped. Its hands are frozen. Finn approaches. The compass in his hand spins and then points directly at the tower. Medium shot, full of meaning."
+      ],
+      "first_frame_prompt": [
+        "Ancient kingdom materializing around Finn with flowing, golden restoration light; worn beautiful buildings rising up gracefully; ghostly transparent citizens appearing mid-gesture, frozen in time with soft glowing outlines.",
+        "A great clock tower with frozen hands at the kingdom's center; Finn approaching slowly with compass outstretched before him; compass needle pointing directly and deliberately at the tower; light shimmering around it."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "The kingdom had not been destroyed. It had simply\u2026 stopped. Time had forgotten it, just as the maps had.",
+        "But there, at the heart of it all, was a clock that had been waiting for someone to wind it."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Finn climbs the clock tower \u2014 spiraling stone steps, crumbling but holding. Through a narrow window, he can see the ghostly kingdom spread out below. Dramatic upward tracking shot, building tension.",
+        "At the top, Finn presses the compass into a slot in the clock face. A perfect fit. He turns it. The hands begin to move with a deep resonant toll. Close-up of clock hands moving \u2014 first slowly, then with growing confidence.",
+        "The bell rings. Once. Twice. Three times. The ghostly citizens below become solid, vivid, alive \u2014 color flooding back into the kingdom. Wide shot of the transformation from above, joyful and triumphant."
+      ],
+      "first_frame_prompt": [
+        "Finn climbing narrow spiral tower steps with determination; crumbling stone around him shifting slightly; kingdom visible through a slit window far below with distant movement.",
+        "Finn pressing compass into the clock face slot at the top of the tower; compass fitting perfectly with a satisfying click; hands beginning to move smoothly with spreading golden glow radiating outward.",
+        "Bell ringing above the kingdom with sound waves visible; ghostly citizens below solidifying rapidly into full vibrant color and life; color flooding the streets like a sunrise wave spreading outward."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "He climbed not because he was sure it would work. He climbed because his grandfather's maps always led somewhere true.",
+        "The compass fit. As if it had always known where it belonged.",
+        "And when the bell rang \u2014 the kingdom remembered itself."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The citizens of the restored kingdom gather around Finn, overjoyed. An elderly queen steps forward and bows her head. The guardian watches from the edge of the crowd. Wide celebratory shot, warm and golden.",
+        "Finn looks at his map \u2014 the blank space is now fully detailed, every street and tower beautifully drawn. The map glows warmly in his hands. Close-up of the completed map, then Finn's satisfied face."
+      ],
+      "first_frame_prompt": [
+        "Crowd of restored kingdom citizens gathered around Finn, faces animated with joy and movement; elderly queen bowing before him gracefully; guardian watching from the edge in parchment stillness.",
+        "Finn's map now fully detailed where once was blank; every street and spire beautifully drawn in glowing golden ink that shimmers; Finn's face warm and awed above it; light dancing across the map surface."
+      ],
+      "cut": [
+        false,
+        true
+      ],
+      "speech": [
+        "They thanked him in a language older than words. And Finn, who had never been thanked for anything much, stood very straight.",
+        "He looked at the map his grandfather had left him. It was complete now. All except for one small corner \u2014 the way home."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "The guardian opens the return portal \u2014 another compass-rose of light. Finn steps toward it, then pauses and turns back for one last look at the living kingdom. Wide shot \u2014 Finn silhouetted against the glowing portal, kingdom behind him.",
+        "Finn steps through. Back in the attic \u2014 quiet, dusty, golden afternoon still slanting through the window. He looks down at the map. All the worlds it showed. All the world it held. Medium close-up, thoughtful.",
+        "He rolls the map carefully and tucks it under his arm. Then he looks out the attic window at the ordinary street below \u2014 and smiles like someone who knows something the rest of the world doesn't. Fade slowly to warm gold."
+      ],
+      "first_frame_prompt": [
+        "Finn at the threshold of a glowing compass-rose portal spinning and rotating; restored kingdom behind him in full vibrant color; one hand on the portal's swirling light, head turned back; light trails at the portal edges.",
+        "Finn back in the dusty attic, afternoon light unchanged and dust particles drifting; map in hand; quiet wonder on his face as he looks at it; soft light moving across the map surface.",
+        "Finn at the attic window looking down at an ordinary street with gentle activity; knowing half-smile on his face; world outside oblivious; warm gold light flowing in; slow fade to warm gold."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "He took one last look. Because that is what you do when you have seen something beautiful \u2014 you make sure to truly see it.",
+        "The attic was exactly as he had left it. The world outside was exactly the same. And yet.",
+        "Finn was not the same at all. And he had a map that proved there was so much more to find."
+      ]
+    }
+  ]
+}
