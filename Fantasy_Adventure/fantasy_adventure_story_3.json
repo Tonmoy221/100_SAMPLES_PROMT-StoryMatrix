@@ -1,0 +1,183 @@
+{
+    "story_name": "The Alchemist's Last Flame",
+    "story_overview": "In a world freezing over, Elara seeks the Eternal Flame to reignite the world's heart.",
+    "scenes": [
+        {
+            "scene_num": 1,
+            "video_prompts": [
+                "Elara stands in a frozen workshop.",
+                "She holds a vial with a tiny ember."
+            ],
+            "first_frame_prompt": [
+                "Elara in a frosty workshop.",
+                "Elara's hands holding a glowing vial."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "The frost came with silence.",
+                "If this ember goes out, the world goes with it."
+            ]
+        },
+        {
+            "scene_num": 2,
+            "video_prompts": [
+                "Elara treks toward a dragon-shaped mountain."
+            ],
+            "first_frame_prompt": [
+                "Elara in deep snow near a mountain."
+            ],
+            "cut": [
+                true
+            ],
+            "speech": [
+                "I'm giving the fire back to the mountain."
+            ]
+        },
+        {
+            "scene_num": 3,
+            "video_prompts": [
+                "Ice sculptures of people in a cave.",
+                "Elara walks past a frozen knight."
+            ],
+            "first_frame_prompt": [
+                "Cave of ice statues.",
+                "Elara by an ice knight."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "Moments of life, trapped in winter.",
+                "I won't be a statue."
+            ]
+        },
+        {
+            "scene_num": 4,
+            "video_prompts": [
+                "Magma heart pulsing under a frozen lake."
+            ],
+            "first_frame_prompt": [
+                "Elara on a clear frozen lake."
+            ],
+            "cut": [
+                true
+            ],
+            "speech": [
+                "The heart is just sleeping."
+            ]
+        },
+        {
+            "scene_num": 5,
+            "video_prompts": [
+                "Elara mixes potions on the ice.",
+                "Blue and red liquids react."
+            ],
+            "first_frame_prompt": [
+                "Elara with potions on ice.",
+                "Close up of reacting chemicals."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "Alchemy is change.",
+                "Focus is everything."
+            ]
+        },
+        {
+            "scene_num": 6,
+            "video_prompts": [
+                "Ember turns into a white flame.",
+                "Heat melts the frost on Elara."
+            ],
+            "first_frame_prompt": [
+                "White fire erupting from vial.",
+                "Elara lit by white light."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "Wake up, little flame.",
+                "A spark that refuses to die."
+            ]
+        },
+        {
+            "scene_num": 7,
+            "video_prompts": [
+                "She smashes the vial on the lake.",
+                "White fire spreads across ice."
+            ],
+            "first_frame_prompt": [
+                "Elara throwing the vial.",
+                "White fire on the ice lake."
+            ],
+            "cut": [
+                true,
+                true
+            ],
+            "speech": [
+                "Return to us!",
+                "The thaw is coming."
+            ]
+        },
+        {
+            "scene_num": 8,
+            "video_prompts": [
+                "Steam fills cave, statues drip."
+            ],
+            "first_frame_prompt": [
+                "Elara running through steam."
+            ],
+            "cut": [
+                true
+            ],
+            "speech": [
+                "Run!"
+            ]
+        },
+        {
+            "scene_num": 9,
+            "video_prompts": [
+                "Snow turns to water, flower blooms."
+            ],
+            "first_frame_prompt": [
+                "Elara on green grass.",
+                "Purple flower blooming."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "The silence is broken.",
+                "Spring is earned."
+            ]
+        },
+        {
+            "scene_num": 10,
+            "video_prompts": [
+                "Sun shines on silver hair.",
+                "Landscape is lush green."
+            ],
+            "first_frame_prompt": [
+                "Elara in sunny meadow.",
+                "Lush green valley."
+            ],
+            "cut": [
+                true,
+                true
+            ],
+            "speech": [
+                "No more cold hands.",
+                "Life always finds a way."
+            ]
+        }
+    ]
+}

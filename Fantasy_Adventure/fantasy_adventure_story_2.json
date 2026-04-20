@@ -1,0 +1,180 @@
+{
+    "story_name": "Echoes of the Sky Island",
+    "story_overview": "Lyra, a daring sky-sailor with aviator goggles and a red scarf, seeks the mythical floating island of Zephyria. Guided by an ancient compass, she navigates treacherous storm clouds and sky-beasts to uncover a civilization forgotten by time.",
+    "scenes": [
+        {
+            "scene_num": 1,
+            "video_prompts": [
+                "Lyra stands at the helm of a flying ship. She looks at an old brass compass.",
+                "The compass spins wildly then points up."
+            ],
+            "first_frame_prompt": [
+                "Lyra with goggles and a red scarf at the helm.",
+                "Hands holding a spinning brass compass."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "The maps were finished, they said.",
+                "But the needle always dances when there's magic to find."
+            ]
+        },
+        {
+            "scene_num": 2,
+            "video_prompts": [
+                "Ship flies into a lightning storm. Lyra struggles with the wheel."
+            ],
+            "first_frame_prompt": [
+                "Lyra gripping the wheel, lit by lightning."
+            ],
+            "cut": [
+                true
+            ],
+            "speech": [
+                "Legends are guarded by the fury of the wind."
+            ]
+        },
+        {
+            "scene_num": 3,
+            "video_prompts": [
+                "Sky-serpent shadow moves in clouds.",
+                "Serpent breaches, glowing scales."
+            ],
+            "first_frame_prompt": [
+                "Lyra looking at a massive shadow in clouds.",
+                "Glowing sky-serpent rising above the ship."
+            ],
+            "cut": [
+                true,
+                true
+            ],
+            "speech": [
+                "Titans of the wind don't notice us.",
+                "We are just leaves in the gale."
+            ]
+        },
+        {
+            "scene_num": 4,
+            "video_prompts": [
+                "Ship breaks into sunlight. Lyra lowers goggles."
+            ],
+            "first_frame_prompt": [
+                "Lyra lowering goggles in bright sun."
+            ],
+            "cut": [
+                false
+            ],
+            "speech": [
+                "Beyond the storm, the world finally opens."
+            ]
+        },
+        {
+            "scene_num": 5,
+            "video_prompts": [
+                "Floating island Zephyria comes into view."
+            ],
+            "first_frame_prompt": [
+                "View of a lush floating island with waterfalls."
+            ],
+            "cut": [
+                true
+            ],
+            "speech": [
+                "It wasn't a bedtime story. It's real."
+            ]
+        },
+        {
+            "scene_num": 6,
+            "video_prompts": [
+                "Lyra anchors at a white stone dock.",
+                "She gazes at a clock tower."
+            ],
+            "first_frame_prompt": [
+                "Lyra stepping onto a white dock.",
+                "Lyra looking at a massive brass tower."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "The air smells of ancient machinery.",
+                "A city where time stands still."
+            ]
+        },
+        {
+            "scene_num": 7,
+            "video_prompts": [
+                "Lyra enters tower, mechanical birds fly around.",
+                "Bird lands on her finger."
+            ],
+            "first_frame_prompt": [
+                "Lyra surrounded by metal birds.",
+                "Metal bird on Lyra's finger."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "These are the keepers of memory.",
+                "Where did everyone go?"
+            ]
+        },
+        {
+            "scene_num": 8,
+            "video_prompts": [
+                "Bird projects a blue hologram."
+            ],
+            "first_frame_prompt": [
+                "Lyra's face lit by blue hologram."
+            ],
+            "cut": [
+                true
+            ],
+            "speech": [
+                "History is written in light."
+            ]
+        },
+        {
+            "scene_num": 9,
+            "video_prompts": [
+                "Lyra takes a golden key.",
+                "She returns to ship, island glows amber."
+            ],
+            "first_frame_prompt": [
+                "Lyra holding a golden key.",
+                "Lyra walking to ship; island glowing behind."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "I found a key, and a burden.",
+                "The sky needs a guardian."
+            ]
+        },
+        {
+            "scene_num": 10,
+            "video_prompts": [
+                "Ship sails into sunset.",
+                "Island disappears in mist."
+            ],
+            "first_frame_prompt": [
+                "Ship at sunset.",
+                "Island fading in white mist."
+            ],
+            "cut": [
+                true,
+                true
+            ],
+            "speech": [
+                "The journey didn't end. It began.",
+                "The sky is finally home."
+            ]
+        }
+    ]
+}

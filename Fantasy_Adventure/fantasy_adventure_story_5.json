@@ -1,0 +1,192 @@
+{
+    "story_name": "The Warden of the Stone Oasis",
+    "story_overview": "Zara protects the last tree in a world of sand from a glass storm.",
+    "scenes": [
+        {
+            "scene_num": 1,
+            "video_prompts": [
+                "Zara stands by a giant gnarled tree.",
+                "Tree bark glows where she touches."
+            ],
+            "first_frame_prompt": [
+                "Zara by a lone tree in sand.",
+                "Golden tattoos glowing on bark."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "Green is precious.",
+                "I am the last warden."
+            ]
+        },
+        {
+            "scene_num": 2,
+            "video_prompts": [
+                "Glass storm on the horizon.",
+                "Zara squints at reflections."
+            ],
+            "first_frame_prompt": [
+                "Shimmering storm in distance.",
+                "Zara shielding eyes."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "The Glass Storm shatters.",
+                "It's coming for the life I guard."
+            ]
+        },
+        {
+            "scene_num": 3,
+            "video_prompts": [
+                "Zara slams fists into sand.",
+                "Sandstone pillars rise."
+            ],
+            "first_frame_prompt": [
+                "Zara kneeling on sand.",
+                "Stone pillars rising."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "Earth, listen!",
+                "I won't let the wind take her."
+            ]
+        },
+        {
+            "scene_num": 4,
+            "video_prompts": [
+                "Glass shards hit the stone wall.",
+                "Zara stands with arms raised."
+            ],
+            "first_frame_prompt": [
+                "Glass shards in rock.",
+                "Zara under the tree."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "The void is trying to get in.",
+                "Hold on!"
+            ]
+        },
+        {
+            "scene_num": 5,
+            "video_prompts": [
+                "Shard cuts Zara's shoulder.",
+                "Wound glows gold."
+            ],
+            "first_frame_prompt": [
+                "Shard cutting shoulder.",
+                "Glowing gold wound."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "My life for yours.",
+                "I am the root."
+            ]
+        },
+        {
+            "scene_num": 6,
+            "video_prompts": [
+                "Storm passes, wall is shredded.",
+                "Zara collapses, tree safe."
+            ],
+            "first_frame_prompt": [
+                "Desert of glass.",
+                "Zara on knees by tree."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "It's gone.",
+                "Are you there, Mother?"
+            ]
+        },
+        {
+            "scene_num": 7,
+            "video_prompts": [
+                "Tree drops a glowing seed.",
+                "Zara buries it in sand."
+            ],
+            "first_frame_prompt": [
+                "Glowing seed in palm.",
+                "Zara burying seed."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "A promise of a sister.",
+                "We need a forest."
+            ]
+        },
+        {
+            "scene_num": 8,
+            "video_prompts": [
+                "Green shoots break through glass.",
+                "Zara laughs as garden grows."
+            ],
+            "first_frame_prompt": [
+                "Shoots through glass.",
+                "Zara smiling in vines."
+            ],
+            "cut": [
+                true,
+                false
+            ],
+            "speech": [
+                "They aren't afraid.",
+                "Nature conquers."
+            ]
+        },
+        {
+            "scene_num": 9,
+            "video_prompts": [
+                "Oasis has expanded to a grove."
+            ],
+            "first_frame_prompt": [
+                "Lush grove in glass desert."
+            ],
+            "cut": [
+                true
+            ],
+            "speech": [
+                "The desert is no longer empty."
+            ]
+        },
+        {
+            "scene_num": 10,
+            "video_prompts": [
+                "Zara walks into horizon.",
+                "Aerial view of green oasis."
+            ],
+            "first_frame_prompt": [
+                "Zara walking away.",
+                "Green jewel in silver world."
+            ],
+            "cut": [
+                true,
+                true
+            ],
+            "speech": [
+                "The trees will tell the story.",
+                "The oasis is forever."
+            ]
+        }
+    ]
+}
