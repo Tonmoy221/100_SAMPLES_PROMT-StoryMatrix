@@ -1,0 +1,164 @@
+{
+  "story_name": "Osiris's Cycle: Death and Rebirth as Natural Law",
+  "character_description": "Osiris, god of rebirth with green skin representing growth and transformation, luminous emerald eyes reflecting cyclical wisdom, bearing marks of death yet radiating life. His body represents both destruction and renewal\u2014mummified yet eternal, dead yet continually reborn.",
+  "setting": "Underworld, Nile's cycles, sacred spaces of transformation and renewal",
+  "theme": "Understanding that death and rebirth are not opposites but single natural cycle\u2014and that accepting this brings peace",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Osiris rules as god of civilization and fertility\u2014bringing order and growth to Egypt."
+      ],
+      "first_frame_prompt": [
+        "Osiris manifests as living god, green skin radiating vitality, luminous emerald eyes reflecting mastery of agriculture and civilization. He brings order to chaos, teaches growth to mortals, establishes laws. He is symbol of thriving civilization. The future seems eternal and unchanging. He does not yet understand impermanence."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have brought order and growth. This will endure eternally."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Osiris rules as god of civilization and fertility\u2014bringing order and growth to Egypt."
+      ],
+      "first_frame_prompt": [
+        "Osiris manifests as living god, green skin radiating vitality, luminous emerald eyes reflecting mastery of agriculture and civilization. He brings order to chaos, teaches growth to mortals, establishes laws. He is symbol of thriving civilization. The future seems eternal and unchanging. He does not yet understand impermanence."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have brought order and growth. This will endure eternally.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "In underworld, Osiris perceives something unexpected\u2014death is not ending but transformation."
+      ],
+      "first_frame_prompt": [
+        "Osiris in underworld experiences death differently than expected. Green skin begins to glow with new understanding. Luminous emerald eyes perceive that death is not cessation but transition. In underworld, he continues\u2014not as he was but transformed. Death is neither punishment nor ending but necessary stage of cycle."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Death is not end. It is transition. Transformation. Continuation in different form."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "In underworld, Osiris perceives something unexpected\u2014death is not ending but transformation.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Osiris in underworld experiences death differently than expected. Green skin begins to glow with new understanding. Luminous emerald eyes perceive that death is not cessation but transition. In underworld, he continues\u2014not as he was but transformed. Death is neither punishment nor ending but necessary stage of cycle."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Death is not end. It is transition. Transformation. Continuation in different form."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Osiris accepts underworld role\u2014not as defeat but as natural progression in cosmic cycle.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Osiris assumes role as lord of underworld, green skin glowing with settled purpose. Luminous emerald eyes perceive that his role has changed but not diminished. He moves from surface-world growth to underworld transformation. Both are necessary. Both are expressions of same cosmic principle."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My reign continues\u2014not in form I expected but in form the cycle requires."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Osiris accepts underworld role\u2014not as defeat but as natural progression in cosmic cycle."
+      ],
+      "first_frame_prompt": [
+        "Osiris assumes role as lord of underworld, green skin glowing with settled purpose. Luminous emerald eyes perceive that his role has changed but not diminished. He moves from surface-world growth to underworld transformation. Both are necessary. Both are expressions of same cosmic principle."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My reign continues\u2014not in form I expected but in form the cycle requires."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Osiris recognizes himself in Nile's cycles\u2014death and rebirth, flood and drought, eternal and ever-changing."
+      ],
+      "first_frame_prompt": [
+        "Osiris perceives his own cycle reflected in Nile's pattern. Green skin seems to merge with river itself. Luminous emerald eyes recognize that nature teaches what he had to learn through death\u2014that cycles are law. Nothing is permanent. Everything transforms. Change is only constant."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am the Nile. I am the flood that destroys and the flow that sustains. Both are me."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Osiris recognizes himself in Nile's cycles\u2014death and rebirth, flood and drought, eternal and ever-changing."
+      ],
+      "first_frame_prompt": [
+        "Osiris perceives his own cycle reflected in Nile's pattern. Green skin seems to merge with river itself. Luminous emerald eyes recognize that nature teaches what he had to learn through death\u2014that cycles are law. Nothing is permanent. Everything transforms. Change is only constant."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am the Nile. I am the flood that destroys and the flow that sustains. Both are me."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Osiris becomes eternal teacher of cycle\u2014showing that every ending contains seeds of new beginning."
+      ],
+      "first_frame_prompt": [
+        "Osiris moves through underworld and surface worlds, green skin representing eternal cycle. Luminous emerald eyes perceive beginnings and endings as dance partners. He teaches that every death enables new growth, every ending contains new beginning. The cycle is perfection itself."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "End and beginning are not opposite\u2014they are same moment perceived from different vantage points.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Osiris becomes eternal teacher of cycle\u2014showing that every ending contains seeds of new beginning."
+      ],
+      "first_frame_prompt": [
+        "Osiris moves through underworld and surface worlds, green skin representing eternal cycle. Luminous emerald eyes perceive beginnings and endings as dance partners. He teaches that every death enables new growth, every ending contains new beginning. The cycle is perfection itself."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "End and beginning are not opposite\u2014they are same moment perceived from different vantage points."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

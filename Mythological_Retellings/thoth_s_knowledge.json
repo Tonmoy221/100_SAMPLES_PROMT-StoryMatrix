@@ -1,0 +1,164 @@
+{
+  "story_name": "Thoth's Knowledge: Wisdom as Recording and Transmission",
+  "character_description": "Thoth, ibis-headed god with luminous white plumage catching light, brilliant golden eyes reflecting all knowledge, carrying sacred texts and measurement tools. His power comes from precision, documentation, and transmission of wisdom across time.",
+  "setting": "Libraries and halls of knowledge, scales of cosmic justice, spaces where wisdom is preserved",
+  "theme": "Understanding that wisdom's true power lies in accurate documentation and transmission to future generations",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Thoth perceives that knowledge unrecorded is knowledge lost\u2014begins sacred work of documenting all wisdom."
+      ],
+      "first_frame_prompt": [
+        "Thoth manifests with ibis head held high, white plumage radiating pure clarity, golden eyes perceiving all knowledge. He recognizes terrifying truth\u2014wisdom dies with those who hold it unless documented. He begins sacred work of recording, measuring, preserving. Every scroll he creates is act of infinite compassion toward future beings."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Knowledge is only power if it is transmitted. Recording is sacred act."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Thoth perceives that knowledge unrecorded is knowledge lost\u2014begins sacred work of documenting all wisdom."
+      ],
+      "first_frame_prompt": [
+        "Thoth manifests with ibis head held high, white plumage radiating pure clarity, golden eyes perceiving all knowledge. He recognizes terrifying truth\u2014wisdom dies with those who hold it unless documented. He begins sacred work of recording, measuring, preserving. Every scroll he creates is act of infinite compassion toward future beings."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Knowledge is only power if it is transmitted. Recording is sacred act.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Thoth serves as scribe in divine court\u2014recording deeds with perfect accuracy and without judgment."
+      ],
+      "first_frame_prompt": [
+        "Thoth attends every divine judgment, white plumage pristine, golden eyes recording with perfect accuracy. He writes neither to praise nor condemn but to document. His role is preservation of truth for all time. He learns that accurate recording is greatest service\u2014not interpretation or bias, just clear documentation of what occurred."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My role is to record truth perfectly. Let others draw conclusions."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Thoth serves as scribe in divine court\u2014recording deeds with perfect accuracy and without judgment.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Thoth attends every divine judgment, white plumage pristine, golden eyes recording with perfect accuracy. He writes neither to praise nor condemn but to document. His role is preservation of truth for all time. He learns that accurate recording is greatest service\u2014not interpretation or bias, just clear documentation of what occurred."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My role is to record truth perfectly. Let others draw conclusions."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Thoth teaches that knowledge requires both documentation AND understanding\u2014writing alone is insufficient.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Thoth works with scholars, ibis head guiding their studies, white plumage radiating patient wisdom. Golden eyes perceive that knowledge ununderstood is knowledge misused. He teaches that recording is first step\u2014true transmission requires helping others understand and apply wisdom. Documentation and education are inseparable."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Recording knowledge is first step. Teaching understanding is continuation of sacred work."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Thoth teaches that knowledge requires both documentation AND understanding\u2014writing alone is insufficient."
+      ],
+      "first_frame_prompt": [
+        "Thoth works with scholars, ibis head guiding their studies, white plumage radiating patient wisdom. Golden eyes perceive that knowledge ununderstood is knowledge misused. He teaches that recording is first step\u2014true transmission requires helping others understand and apply wisdom. Documentation and education are inseparable."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Recording knowledge is first step. Teaching understanding is continuation of sacred work."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Thoth develops medicine and mathematics\u2014precise systems that preserve and transmit healing knowledge."
+      ],
+      "first_frame_prompt": [
+        "Thoth works with healers, ibis head studying their techniques, white plumage glowing with focused attention. Golden eyes perceive patterns and principles. He documents healing practices, creates mathematical formulas for dosages, preserves techniques. His work ensures medical knowledge improves across generations rather than dying with individual healers."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "By documenting and improving healing methods, I extend life across generations."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Thoth develops medicine and mathematics\u2014precise systems that preserve and transmit healing knowledge."
+      ],
+      "first_frame_prompt": [
+        "Thoth works with healers, ibis head studying their techniques, white plumage glowing with focused attention. Golden eyes perceive patterns and principles. He documents healing practices, creates mathematical formulas for dosages, preserves techniques. His work ensures medical knowledge improves across generations rather than dying with individual healers."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "By documenting and improving healing methods, I extend life across generations."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Thoth mentors scribes and scholars\u2014teaching that their role is sacred work of knowledge transmission."
+      ],
+      "first_frame_prompt": [
+        "Thoth trains future scribes and scholars, ibis head patient with each student, white plumage steady and supportive. Golden eyes recognize that each scribe becomes link in chain of transmission stretching across time. He honors their work as sacred service. He teaches that small act of careful documentation echoes forever."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Your careful work today preserves wisdom for beings centuries from now. Your role is sacred.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Thoth mentors scribes and scholars\u2014teaching that their role is sacred work of knowledge transmission."
+      ],
+      "first_frame_prompt": [
+        "Thoth trains future scribes and scholars, ibis head patient with each student, white plumage steady and supportive. Golden eyes recognize that each scribe becomes link in chain of transmission stretching across time. He honors their work as sacred service. He teaches that small act of careful documentation echoes forever."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Your careful work today preserves wisdom for beings centuries from now. Your role is sacred."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

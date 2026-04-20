@@ -1,0 +1,164 @@
+{
+  "story_name": "Orpheus Unbound: Music of the Soul",
+  "character_description": "Orpheus, musician-poet with flowing silver-white hair that moves to inner music, luminous gray eyes holding infinite sorrow and depth, classical Greek robes adorned with lyre strings that glow. Without his lyre, learning strength comes from within, not external power.",
+  "setting": "Underworld, Greek Isles, and ethereal realms between life and death",
+  "theme": "Finding that true power comes from within, not from external enchantment",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Orpheus stands at gates of Underworld, lyre destroyed by grief-maddened maenads. His silver-white hair flows with sorrow as he confronts loss of both love and power."
+      ],
+      "first_frame_prompt": [
+        "Orpheus kneels at Underworld gates, lyre shattered at his feet. His silver-white hair flows upward as if moved by inner wind. Luminous gray eyes stream with tears that manifest as light touching ground. Without magic music, his form seems diminished yet somehow more authentically human. The destroyed lyre represents loss of external power."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My magic is gone. I am just a man now, and it seems man is not enough."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Orpheus stands at gates of Underworld, lyre destroyed by grief-maddened maenads. His silver-white hair flows with sorrow as he confronts loss of both love and power."
+      ],
+      "first_frame_prompt": [
+        "Orpheus kneels at Underworld gates, lyre shattered at his feet. His silver-white hair flows upward as if moved by inner wind. Luminous gray eyes stream with tears that manifest as light touching ground. Without magic music, his form seems diminished yet somehow more authentically human. The destroyed lyre represents loss of external power."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My magic is gone. I am just a man now, and it seems man is not enough.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Underworld beings are moved not by music but by Orpheus's unfiltered human pain and courage."
+      ],
+      "first_frame_prompt": [
+        "Hades and Persephone listen to Orpheus's raw voice. His silver-white hair trembles with emotional truth. Luminous gray eyes hold nothing back\u2014no enchantment, no beauty crafted for effect, just pure human vulnerability. Underworld itself responds to authenticity that transcends magical manipulation."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I cannot enchant you. I can only show you my breaking heart."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Underworld beings are moved not by music but by Orpheus's unfiltered human pain and courage.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Hades and Persephone listen to Orpheus's raw voice. His silver-white hair trembles with emotional truth. Luminous gray eyes hold nothing back\u2014no enchantment, no beauty crafted for effect, just pure human vulnerability. Underworld itself responds to authenticity that transcends magical manipulation."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I cannot enchant you. I can only show you my breaking heart."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "At threshold between Underworld and living world, Orpheus faces deepest temptation to look back at Eurydice.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "At gates between worlds, Orpheus feels Eurydice's presence behind him, luminous and alive. Every cell screams to look back. His silver-white hair streams upward from internal struggle. Luminous gray eyes strain forward while every emotion pulls backward. The choice is entirely internal\u2014no external magic, just will."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "One glance. Just one glance to confirm she's there."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "At threshold between Underworld and living world, Orpheus faces deepest temptation to look back at Eurydice."
+      ],
+      "first_frame_prompt": [
+        "At gates between worlds, Orpheus feels Eurydice's presence behind him, luminous and alive. Every cell screams to look back. His silver-white hair streams upward from internal struggle. Luminous gray eyes strain forward while every emotion pulls backward. The choice is entirely internal\u2014no external magic, just will."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "One glance. Just one glance to confirm she's there."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Orpheus rebuilds life not through magical music but through genuine human connection and creativity."
+      ],
+      "first_frame_prompt": [
+        "Orpheus teaches others to sing without magic, finding power in authentic expression. His silver-white hair shines with purpose. Luminous gray eyes glow with joy as he discovers human connection transcends enchanted performance. Community forms around genuine presence, not spectacle."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "True art comes from vulnerability, not control."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Orpheus rebuilds life not through magical music but through genuine human connection and creativity."
+      ],
+      "first_frame_prompt": [
+        "Orpheus teaches others to sing without magic, finding power in authentic expression. His silver-white hair shines with purpose. Luminous gray eyes glow with joy as he discovers human connection transcends enchanted performance. Community forms around genuine presence, not spectacle."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "True art comes from vulnerability, not control."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Years pass\u2014Orpheus's community becomes place where authentic human connection flourishes."
+      ],
+      "first_frame_prompt": [
+        "Orpheus moves through thriving community, his presence now powerful without magic. Silver-white hair flows with peace. Luminous gray eyes reflect transformation of entire civilization from relying on enchantment to valuing authenticity."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "When we release need to control others, we liberate ourselves.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Years pass\u2014Orpheus's community becomes place where authentic human connection flourishes."
+      ],
+      "first_frame_prompt": [
+        "Orpheus moves through thriving community, his presence now powerful without magic. Silver-white hair flows with peace. Luminous gray eyes reflect transformation of entire civilization from relying on enchantment to valuing authenticity."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "When we release need to control others, we liberate ourselves."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

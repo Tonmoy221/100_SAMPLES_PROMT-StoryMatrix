@@ -1,0 +1,164 @@
+{
+  "story_name": "Persephone's Agency: Queen of Seasons",
+  "character_description": "Persephone, goddess with dual nature\u2014above ground shows spring maiden beauty with golden hair and warm eyes, in Underworld becomes dark queen with silver-black hair and eyes reflecting all mysteries. Her transformation is her power, not her imprisonment.",
+  "setting": "Surface world of eternal spring and Underworld kingdom of profound truth",
+  "theme": "Claiming power through choice and understanding duality",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Persephone gathers flowers in eternal spring, unaware her destiny transcends her mother's protective boundaries."
+      ],
+      "first_frame_prompt": [
+        "Young Persephone moves through infinite spring flowers, golden hair glowing with sunlight, eyes warm and curious. Around her, world perpetually blooms in Demeter's protection. Yet her gaze reaches beyond visible horizon\u2014sensing deeper meaning hidden beneath eternal spring. The flowers seem to whisper secrets she's not yet ready to hear."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "There must be more than eternal spring. Somewhere, there is autumn and winter."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Persephone gathers flowers in eternal spring, unaware her destiny transcends her mother's protective boundaries."
+      ],
+      "first_frame_prompt": [
+        "Young Persephone moves through infinite spring flowers, golden hair glowing with sunlight, eyes warm and curious. Around her, world perpetually blooms in Demeter's protection. Yet her gaze reaches beyond visible horizon\u2014sensing deeper meaning hidden beneath eternal spring. The flowers seem to whisper secrets she's not yet ready to hear."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "There must be more than eternal spring. Somewhere, there is autumn and winter.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Persephone chooses to descend to Underworld, reclaiming agency her mother attempted to deny her."
+      ],
+      "first_frame_prompt": [
+        "Persephone walks willingly downward, her transformation visible and profound. Golden hair becomes silver-black with mystery. Warm eyes transform into depths reflecting all Underworld truths. She descends not as victim but as explorer choosing to comprehend complete reality. Her power emerges through this choice."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I choose to understand all seasons, not just eternal spring."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Persephone chooses to descend to Underworld, reclaiming agency her mother attempted to deny her.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Persephone walks willingly downward, her transformation visible and profound. Golden hair becomes silver-black with mystery. Warm eyes transform into depths reflecting all Underworld truths. She descends not as victim but as explorer choosing to comprehend complete reality. Her power emerges through this choice."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I choose to understand all seasons, not just eternal spring."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Demeter's grief causes world to freeze\u2014consequences of controlling daughter's reality.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Winter covers earth as Demeter's grief-rage manifestation. But Persephone perceives this from Underworld\u2014not as mother's love but as attempt to control her will. Her silver-black eyes penetrate surface world, understanding her choice triggered mother's refusal to accept her daughter's autonomy."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Her grief is just another form of control."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Demeter's grief causes world to freeze\u2014consequences of controlling daughter's reality."
+      ],
+      "first_frame_prompt": [
+        "Winter covers earth as Demeter's grief-rage manifestation. But Persephone perceives this from Underworld\u2014not as mother's love but as attempt to control her will. Her silver-black eyes penetrate surface world, understanding her choice triggered mother's refusal to accept her daughter's autonomy."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Her grief is just another form of control."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Persephone teaches women throughout Greece about claiming agency and honoring their full complexity."
+      ],
+      "first_frame_prompt": [
+        "Persephone becomes teacher and guide for women learning to reclaim their own power. Her dual hair and eyes become symbol of integrated self. She moves between communities, showing women how to honor all seasons of their lives, not remain frozen in perpetual maiden status."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You do not need permission to become yourself."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Persephone teaches women throughout Greece about claiming agency and honoring their full complexity."
+      ],
+      "first_frame_prompt": [
+        "Persephone becomes teacher and guide for women learning to reclaim their own power. Her dual hair and eyes become symbol of integrated self. She moves between communities, showing women how to honor all seasons of their lives, not remain frozen in perpetual maiden status."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You do not need permission to become yourself."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Persephone's example transforms divine families across pantheons toward respecting autonomy and choice."
+      ],
+      "first_frame_prompt": [
+        "Gods and goddesses witness Persephone's transformation and learn that love means respecting another's agency. Her silver-black and golden hair represents new paradigm\u2014integration rather than domination. Underworld and surface kingdoms both thrive under shared governance."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Love that denies freedom is merely control dressed in affection.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Persephone's example transforms divine families across pantheons toward respecting autonomy and choice."
+      ],
+      "first_frame_prompt": [
+        "Gods and goddesses witness Persephone's transformation and learn that love means respecting another's agency. Her silver-black and golden hair represents new paradigm\u2014integration rather than domination. Underworld and surface kingdoms both thrive under shared governance."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Love that denies freedom is merely control dressed in affection."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

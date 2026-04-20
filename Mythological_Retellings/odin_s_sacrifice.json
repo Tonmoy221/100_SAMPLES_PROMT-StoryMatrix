@@ -1,0 +1,164 @@
+{
+  "story_name": "Odin's Sacrifice: The Price of Wisdom",
+  "character_description": "Odin, Norse all-father with one blazing eye that sees all timelines, flowing silver beard adorned with runes glowing with ancient magic. Wears deep blue cloak that seems to contain starlight. Eternal seeker sacrificing endlessly for knowledge\u2014bearing both power and profound weariness.",
+  "setting": "Yggdrasil the World Tree and Nine Realms beyond",
+  "theme": "The cost of wisdom and continuous sacrifice for understanding",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom."
+      ],
+      "first_frame_prompt": [
+        "Odin stands before Yggdrasil's immense roots, ancient and eternal. His single blazing eye scans infinite timelines, glowing with knowledge and burden. Silver beard adorned with runes pulses with accumulated magic. His deep blue cloak streams with starlight energy. The weariness of infinite sacrifice visible in his posture."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "What wisdom remains undiscovered that I must sacrifice for?"
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom."
+      ],
+      "first_frame_prompt": [
+        "Odin stands before Yggdrasil's immense roots, ancient and eternal. His single blazing eye scans infinite timelines, glowing with knowledge and burden. Silver beard adorned with runes pulses with accumulated magic. His deep blue cloak streams with starlight energy. The weariness of infinite sacrifice visible in his posture."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "What wisdom remains undiscovered that I must sacrifice for?",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom."
+      ],
+      "first_frame_prompt": [
+        "At Well of Mimir, Odin kneels before ancient waters. His single blazing eye meets his reflection. The weight of ages presses down. He makes irreversible choice\u2014sacrificing perfect vision for transcendent wisdom. Beard runes pulse with intense golden light as sacrifice is made."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "To see truly requires releasing what limits sight."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "At Well of Mimir, Odin kneels before ancient waters. His single blazing eye meets his reflection. The weight of ages presses down. He makes irreversible choice\u2014sacrificing perfect vision for transcendent wisdom. Beard runes pulse with intense golden light as sacrifice is made."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "To see truly requires releasing what limits sight."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Odin hangs suspended on Yggdrasil, in ultimate position of surrender and sacrifice. His silver beard runes glow with transcendent power flowing through him. The nine days and nights of sacrifice become visible\u2014past, present, and future converging. His cloak of starlight becomes conduit for infinite magic descending into physical form."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Death and rebirth teach truths that cannot be learned while living normally."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge."
+      ],
+      "first_frame_prompt": [
+        "Odin hangs suspended on Yggdrasil, in ultimate position of surrender and sacrifice. His silver beard runes glow with transcendent power flowing through him. The nine days and nights of sacrifice become visible\u2014past, present, and future converging. His cloak of starlight becomes conduit for infinite magic descending into physical form."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Death and rebirth teach truths that cannot be learned while living normally."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice."
+      ],
+      "first_frame_prompt": [
+        "Odin moves through Nine Realms as teacher and guide. His single blazing eye perceives each being's need for transformation. Every teaching given requires sacrifice of something Odin holds dear. Beard runes glow with endless compassion for those making difficult choices."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The teacher must sacrifice most of all."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice."
+      ],
+      "first_frame_prompt": [
+        "Odin moves through Nine Realms as teacher and guide. His single blazing eye perceives each being's need for transformation. Every teaching given requires sacrifice of something Odin holds dear. Beard runes glow with endless compassion for those making difficult choices."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The teacher must sacrifice most of all."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself."
+      ],
+      "first_frame_prompt": [
+        "Odin climbs Yggdrasil endlessly, each sacrifice informing next quest for wisdom. His journey becomes eternal cycle\u2014not futile but purposeful in its commitment to understanding. Beard runes glow with acceptance that meaning comes from sincere pursuit, not ultimate achievement."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The journey of seeking is greater than any final answer.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself."
+      ],
+      "first_frame_prompt": [
+        "Odin climbs Yggdrasil endlessly, each sacrifice informing next quest for wisdom. His journey becomes eternal cycle\u2014not futile but purposeful in its commitment to understanding. Beard runes glow with acceptance that meaning comes from sincere pursuit, not ultimate achievement."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The journey of seeking is greater than any final answer."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

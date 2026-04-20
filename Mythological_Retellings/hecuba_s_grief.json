@@ -1,0 +1,164 @@
+{
+  "story_name": "Hecuba's Grief: Transformation Through Ultimate Loss",
+  "character_description": "Hecuba, queen with graying hair that reflects seasons of wisdom and suffering, luminous eyes that have witnessed both glory and devastation, bearing dignified sorrow in her posture. Her face shows transformation from maternal pride to survivor navigating apocalypse.",
+  "setting": "Troy from its height through destruction, and exile afterward",
+  "theme": "Finding purpose and wisdom through surviving ultimate loss and witnessing injustice",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Hecuba as queen of Troy in her glory\u2014mother of princes, confident in her city's strength."
+      ],
+      "first_frame_prompt": [
+        "Hecuba stands in Troy's heights, graying hair adorned with royal symbols, luminous eyes glowing with maternal pride and confidence. She has raised strong sons, protected thriving city. The future seems assured. She embodies confidence born from position and power. She does not know loss approaching."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Troy is eternal. My children are safe. All is secure."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Hecuba as queen of Troy in her glory\u2014mother of princes, confident in her city's strength."
+      ],
+      "first_frame_prompt": [
+        "Hecuba stands in Troy's heights, graying hair adorned with royal symbols, luminous eyes glowing with maternal pride and confidence. She has raised strong sons, protected thriving city. The future seems assured. She embodies confidence born from position and power. She does not know loss approaching."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Troy is eternal. My children are safe. All is secure.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Hecuba loses daughter Cassandra to enslaved fate\u2014finally understanding that virtue and innocence offer no protection."
+      ],
+      "first_frame_prompt": [
+        "Hecuba grieves Cassandra\u2014pure, devoted, destroyed by war's cruelty. Graying hair catches light of funeral pyre. Luminous eyes have seen too much death. She comprehends that righteousness offers no protection, that the world operates on cruelty beyond justice. This knowledge is devastating and clarifying."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Even the innocent are consumed. The virtuous are destroyed. There is no justice in war."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Hecuba loses daughter Cassandra to enslaved fate\u2014finally understanding that virtue and innocence offer no protection.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Hecuba grieves Cassandra\u2014pure, devoted, destroyed by war's cruelty. Graying hair catches light of funeral pyre. Luminous eyes have seen too much death. She comprehends that righteousness offers no protection, that the world operates on cruelty beyond justice. This knowledge is devastating and clarifying."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Even the innocent are consumed. The virtuous are destroyed. There is no justice in war."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Hecuba faces final cruelty\u2014murder of her last living grandchild. This becomes point of transformation.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "At moment of greatest loss\u2014final grandchild killed before her eyes\u2014something shifts in Hecuba. Graying hair seems to contain infinite sorrow yet begins to radiate something else. Luminous eyes perceive that she has survived what should have destroyed her. The ability to still exist after such devastation becomes strange power."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "They have taken everything. And yet I still exist. How?"
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Hecuba faces final cruelty\u2014murder of her last living grandchild. This becomes point of transformation."
+      ],
+      "first_frame_prompt": [
+        "At moment of greatest loss\u2014final grandchild killed before her eyes\u2014something shifts in Hecuba. Graying hair seems to contain infinite sorrow yet begins to radiate something else. Luminous eyes perceive that she has survived what should have destroyed her. The ability to still exist after such devastation becomes strange power."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "They have taken everything. And yet I still exist. How?"
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Hecuba becomes oracle and counselor\u2014her experience of devastation making her uniquely wise."
+      ],
+      "first_frame_prompt": [
+        "Hecuba moves through world carrying wisdom earned through unprecedented loss. Graying hair becomes symbol of survival and integration. Luminous eyes recognize suffering in others with perfect clarity. She offers not false comfort but honest acknowledgment of pain and wisdom for enduring it. She becomes teacher of how to survive the unsurvivable."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have lost everything. Therefore I understand that some things are worth surviving loss for."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Hecuba becomes oracle and counselor\u2014her experience of devastation making her uniquely wise."
+      ],
+      "first_frame_prompt": [
+        "Hecuba moves through world carrying wisdom earned through unprecedented loss. Graying hair becomes symbol of survival and integration. Luminous eyes recognize suffering in others with perfect clarity. She offers not false comfort but honest acknowledgment of pain and wisdom for enduring it. She becomes teacher of how to survive the unsurvivable."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have lost everything. Therefore I understand that some things are worth surviving loss for."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Hecuba's transformation becomes legend\u2014her journey from confident queen to devastated slave to wise survivor."
+      ],
+      "first_frame_prompt": [
+        "Hecuba's story spreads across civilizations. Graying hair becomes symbol of wisdom-through-suffering. Luminous eyes\u2014so capable of recognizing pain\u2014become beacon for those enduring their own devastation. She becomes archetype of how to transform catastrophe into purpose. Her life teaches that surviving is act of resistance."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "From devastation comes wisdom. From loss comes compassion. From destruction comes purpose.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Hecuba's transformation becomes legend\u2014her journey from confident queen to devastated slave to wise survivor."
+      ],
+      "first_frame_prompt": [
+        "Hecuba's story spreads across civilizations. Graying hair becomes symbol of wisdom-through-suffering. Luminous eyes\u2014so capable of recognizing pain\u2014become beacon for those enduring their own devastation. She becomes archetype of how to transform catastrophe into purpose. Her life teaches that surviving is act of resistance."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "From devastation comes wisdom. From loss comes compassion. From destruction comes purpose."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

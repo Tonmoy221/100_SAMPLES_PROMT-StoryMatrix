@@ -1,0 +1,164 @@
+{
+  "story_name": "Freyja's Sovereignty: Love and War United",
+  "character_description": "Freyja, Norse goddess with radiant golden hair that glows like sunlight, luminous bronze skin, fierce amber eyes holding both love's depth and warrior's intensity. Adorned with gold and amber jewelry that radiates energy. Embodies both fierce warrior and patron of love\u2014refusing false dichotomy.",
+  "setting": "Asgard, Midgard, and battlefields where love and war intertwine",
+  "theme": "Sovereignty means refusing to be diminished into single role or identity",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Freyja in Asgard, watching male gods attempt to define her role\u2014warrior or lover, never both."
+      ],
+      "first_frame_prompt": [
+        "Freyja stands in Asgard's golden halls, her luminous bronze skin glowing with restrained frustration. Golden hair radiates light like captured sunlight. Fierce amber eyes observe male gods debating her nature\u2014trying to limit her to single role. Her gold and amber jewelry pulses with contained power. She refus to be diminished by their limited categories."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Why must I choose? I am warrior AND lover. Both define me equally."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Freyja in Asgard, watching male gods attempt to define her role\u2014warrior or lover, never both."
+      ],
+      "first_frame_prompt": [
+        "Freyja stands in Asgard's golden halls, her luminous bronze skin glowing with restrained frustration. Golden hair radiates light like captured sunlight. Fierce amber eyes observe male gods debating her nature\u2014trying to limit her to single role. Her gold and amber jewelry pulses with contained power. She refus to be diminished by their limited categories."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Why must I choose? I am warrior AND lover. Both define me equally.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Freyja leads warriors into battle\u2014showing that love and ferocity are not opposites but expressions of same force."
+      ],
+      "first_frame_prompt": [
+        "Freyja rides into battle, warrior-woman embodiment of fierce protection and passionate commitment. Golden hair streams like banner of light. Luminous bronze skin glows with warrior's fire. Fierce amber eyes hold both murderous intent and protective love. She fights for those she cherishes\u2014love and battle inseparable. Warriors follow her willingly."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I fight with ferocity only matched by my depth of love for those I protect."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Freyja leads warriors into battle\u2014showing that love and ferocity are not opposites but expressions of same force.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Freyja rides into battle, warrior-woman embodiment of fierce protection and passionate commitment. Golden hair streams like banner of light. Luminous bronze skin glows with warrior's fire. Fierce amber eyes hold both murderous intent and protective love. She fights for those she cherishes\u2014love and battle inseparable. Warriors follow her willingly."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I fight with ferocity only matched by my depth of love for those I protect."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Freyja teaches that love is not weakness but foundation of all strength and meaningful action.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Freyja sits with warriors, teaching them that love\u2014fierce commitment to protecting what matters\u2014is foundation of all worthy action. Golden hair glows softly. Luminous bronze skin radiates wisdom earned through battle and relationship. Fierce amber eyes hold their gaze steadily. Warriors learn that strength without love becomes tyranny, love without strength becomes powerlessness."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Love is not sentimental weakness. Love is fierce commitment to protect what matters."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Freyja teaches that love is not weakness but foundation of all strength and meaningful action."
+      ],
+      "first_frame_prompt": [
+        "Freyja sits with warriors, teaching them that love\u2014fierce commitment to protecting what matters\u2014is foundation of all worthy action. Golden hair glows softly. Luminous bronze skin radiates wisdom earned through battle and relationship. Fierce amber eyes hold their gaze steadily. Warriors learn that strength without love becomes tyranny, love without strength becomes powerlessness."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Love is not sentimental weakness. Love is fierce commitment to protect what matters."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Freyja gathers followers\u2014women, men, warriors, lovers\u2014creating community honoring all aspects of human nature."
+      ],
+      "first_frame_prompt": [
+        "Freyja's hall becomes gathering place for those honoring both warrior nature and love nature. Golden hair glows as she welcomes all. Luminous bronze skin radiates acceptance of human complexity. Fierce amber eyes recognize each being's unique integration of strength and tenderness. Community forms around her model of refusal to diminish."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Here, you need not pretend to be half of yourself."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Freyja gathers followers\u2014women, men, warriors, lovers\u2014creating community honoring all aspects of human nature."
+      ],
+      "first_frame_prompt": [
+        "Freyja's hall becomes gathering place for those honoring both warrior nature and love nature. Golden hair glows as she welcomes all. Luminous bronze skin radiates acceptance of human complexity. Fierce amber eyes recognize each being's unique integration of strength and tenderness. Community forms around her model of refusal to diminish."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Here, you need not pretend to be half of yourself."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Even in final battle, Freyja refuses to diminish\u2014fighting with full intensity while maintaining compassion for fallen enemies."
+      ],
+      "first_frame_prompt": [
+        "Freyja on final battlefield, luminous bronze skin glowing with transcendent power. Golden hair blazes like captured sun. Fierce amber eyes acknowledge fallen enemies with respect even as she defeats them. She demonstrates that true strength includes honoring opponents. Love and ferocity coexist in her integrated nature."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I honor my enemies even as I defeat them. This is sovereignty.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Even in final battle, Freyja refuses to diminish\u2014fighting with full intensity while maintaining compassion for fallen enemies."
+      ],
+      "first_frame_prompt": [
+        "Freyja on final battlefield, luminous bronze skin glowing with transcendent power. Golden hair blazes like captured sun. Fierce amber eyes acknowledge fallen enemies with respect even as she defeats them. She demonstrates that true strength includes honoring opponents. Love and ferocity coexist in her integrated nature."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I honor my enemies even as I defeat them. This is sovereignty."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

@@ -1,0 +1,164 @@
+{
+  "story_name": "Sekhmet's Restraint: Controlling the Destroyer Within",
+  "character_description": "Sekhmet, lioness-headed goddess with golden mane radiating fierce power, luminous amber eyes reflecting both predatory intensity and ancient wisdom, bronze skin glowing with contained destructive energy. She embodies power so immense it must be consciously controlled.",
+  "setting": "Sacred temples where destruction and healing coexist, deserts of purification and transformation",
+  "theme": "Learning that greatest power requires greatest restraint and that destruction serves creation",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Sekhmet manifests as destroying force\u2014her rage consuming all, creating devastation across Egypt."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet appears as pure destructive force, golden mane blazing with uncontrolled fire, luminous amber eyes burning with fury. Her bronze skin radiates heat so intense it melts landscape. She destroys not from malice but from unbridled power lacking container. Egypt burns in her wake. The destruction is absolute and terrifying."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am destroyer. I am fury made manifest. I burn all I touch."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Sekhmet manifests as destroying force\u2014her rage consuming all, creating devastation across Egypt."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet appears as pure destructive force, golden mane blazing with uncontrolled fire, luminous amber eyes burning with fury. Her bronze skin radiates heat so intense it melts landscape. She destroys not from malice but from unbridled power lacking container. Egypt burns in her wake. The destruction is absolute and terrifying."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am destroyer. I am fury made manifest. I burn all I touch.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Sekhmet agrees to restraint\u2014learning to hold immense power within conscious container without diminishing it."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet sits in meditation, golden mane settling, luminous amber eyes becoming focused. She learns to contain her power\u2014not suppress it but direct it. Bronze skin no longer radiates uncontrolled heat but purposeful fire. She discovers that restraint is not weakness\u2014it is highest expression of strength. Control paradoxically increases power's effectiveness."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Restraint is not diminishment. It is mastery. I choose where and how I burn."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Sekhmet agrees to restraint\u2014learning to hold immense power within conscious container without diminishing it.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Sekhmet sits in meditation, golden mane settling, luminous amber eyes becoming focused. She learns to contain her power\u2014not suppress it but direct it. Bronze skin no longer radiates uncontrolled heat but purposeful fire. She discovers that restraint is not weakness\u2014it is highest expression of strength. Control paradoxically increases power's effectiveness."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Restraint is not diminishment. It is mastery. I choose where and how I burn."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Sekhmet teaches warriors that power without restraint becomes tool of destruction for self and others.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Sekhmet trains warriors, golden mane demonstrating controlled power. Luminous amber eyes teach through example\u2014greatest warriors are not those with most power but those with best control. Bronze skin glows as she shows how to channel force toward specific purpose. She becomes teacher of disciplined ferocity."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "True strength is using your power exactly as you intend\u2014nothing more, nothing less."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Sekhmet teaches warriors that power without restraint becomes tool of destruction for self and others."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet trains warriors, golden mane demonstrating controlled power. Luminous amber eyes teach through example\u2014greatest warriors are not those with most power but those with best control. Bronze skin glows as she shows how to channel force toward specific purpose. She becomes teacher of disciplined ferocity."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "True strength is using your power exactly as you intend\u2014nothing more, nothing less."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Sekhmet confronts her own rages\u2014learning that controlled power includes controlled emotion."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet faces moments when rage threatens to overcome her control. Golden mane flares with recalled fury. Luminous amber eyes burn but she chooses restraint. Bronze skin maintains integrity despite inner fire. She learns that mastery includes mastering her own emotions\u2014not suppressing them but channeling them consciously."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My rage is valid. My fire is real. And I choose how to express it."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Sekhmet confronts her own rages\u2014learning that controlled power includes controlled emotion."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet faces moments when rage threatens to overcome her control. Golden mane flares with recalled fury. Luminous amber eyes burn but she chooses restraint. Bronze skin maintains integrity despite inner fire. She learns that mastery includes mastering her own emotions\u2014not suppressing them but channeling them consciously."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My rage is valid. My fire is real. And I choose how to express it."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Sekhmet becomes mentor for those learning to control their own inner fire\u2014their rage, power, destructive potential."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet works with individuals learning to integrate their shadow selves. Golden mane glows with understanding of internal power that can become destructive if uncontrolled. Luminous amber eyes recognize each person's inner Sekhmet. She teaches that acknowledging and controlling inner fire is path to wholeness."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You all contain Sekhmet within. Learn to direct your fire or it will burn you.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Sekhmet becomes mentor for those learning to control their own inner fire\u2014their rage, power, destructive potential."
+      ],
+      "first_frame_prompt": [
+        "Sekhmet works with individuals learning to integrate their shadow selves. Golden mane glows with understanding of internal power that can become destructive if uncontrolled. Luminous amber eyes recognize each person's inner Sekhmet. She teaches that acknowledging and controlling inner fire is path to wholeness."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You all contain Sekhmet within. Learn to direct your fire or it will burn you."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

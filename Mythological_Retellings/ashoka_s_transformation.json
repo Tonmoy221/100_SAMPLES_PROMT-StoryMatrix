@@ -1,0 +1,164 @@
+{
+  "story_name": "Ashoka's Transformation: Conquest to Compassion",
+  "character_description": "Ashoka, emperor with features showing his evolution\u2014bearing marks of warrior-king past (scars, powerful build), gradually transforming into sage (serene expression, glowing spiritual luminescence). Dark hair showing natural aging with dignity. Eyes reflecting shifting from conquering ambition to compassionate wisdom.",
+  "setting": "Ancient India\u2014battlefields, palaces, and sacred spaces of enlightenment",
+  "theme": "The possibility of radical transformation through recognizing consequences of power",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow."
+      ],
+      "first_frame_prompt": [
+        "Ashoka stands over conquered kingdom, victorious yet unsatisfied. His scars glow with past battles. Dark hair flows with warrior's intensity. Eyes burn with ambition for more conquest. Spiritual luminescence is absent\u2014only cold power radiates from him. Victory tastes like ash despite its magnitude."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have conquered kingdoms. Yet something within me remains conquered still."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow."
+      ],
+      "first_frame_prompt": [
+        "Ashoka stands over conquered kingdom, victorious yet unsatisfied. His scars glow with past battles. Dark hair flows with warrior's intensity. Eyes burn with ambition for more conquest. Spiritual luminescence is absent\u2014only cold power radiates from him. Victory tastes like ash despite its magnitude."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have conquered kingdoms. Yet something within me remains conquered still.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions."
+      ],
+      "first_frame_prompt": [
+        "Ashoka sits with Buddhist monks, their words penetrating his consciousness. His scars seem to tell story of violence for first time. Dark hair reflects peaceful monastery setting. Eyes transform from conquest-driven ambition toward spiritual understanding. Luminescence grows brighter as realization settles. He perceives the chain of suffering his power creates."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have spent my life causing suffering. Is there any way to atone?"
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Ashoka sits with Buddhist monks, their words penetrating his consciousness. His scars seem to tell story of violence for first time. Dark hair reflects peaceful monastery setting. Eyes transform from conquest-driven ambition toward spiritual understanding. Luminescence grows brighter as realization settles. He perceives the chain of suffering his power creates."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I have spent my life causing suffering. Is there any way to atone?"
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Ashoka spreads Buddhism throughout India\u2014converting conquest into gentle awakening of consciousness.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Ashoka travels as spiritual teacher, his former warrior energy transformed into compassionate work. Scars become symbols of transformation rather than conquest. Dark hair glows with peaceful wisdom. Eyes reflect genuine care for all beings' awakening. Luminescence radiates from authentic spiritual practice. His former power becomes platform for spreading dharma."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My power is now used for awakening, not conquest."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Ashoka spreads Buddhism throughout India\u2014converting conquest into gentle awakening of consciousness."
+      ],
+      "first_frame_prompt": [
+        "Ashoka travels as spiritual teacher, his former warrior energy transformed into compassionate work. Scars become symbols of transformation rather than conquest. Dark hair glows with peaceful wisdom. Eyes reflect genuine care for all beings' awakening. Luminescence radiates from authentic spiritual practice. His former power becomes platform for spreading dharma."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My power is now used for awakening, not conquest."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice."
+      ],
+      "first_frame_prompt": [
+        "Ashoka in meditation, confronting weight of destruction he caused. Scars no longer glow with pride\u2014they pulse with acknowledged harm. Dark hair grays visibly as he contemplates lifetime of atonement. Eyes hold both sorrow and acceptance. Luminescence becomes tool of processing rather than radiating triumph."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I will spend entire lifetime attempting to undo consequences of my conquest."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice."
+      ],
+      "first_frame_prompt": [
+        "Ashoka in meditation, confronting weight of destruction he caused. Scars no longer glow with pride\u2014they pulse with acknowledged harm. Dark hair grays visibly as he contemplates lifetime of atonement. Eyes hold both sorrow and acceptance. Luminescence becomes tool of processing rather than radiating triumph."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I will spend entire lifetime attempting to undo consequences of my conquest."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Ashoka's edicts spread Buddhism peacefully across continents\u2014legacy transforms from conquest to spiritual influence."
+      ],
+      "first_frame_prompt": [
+        "Buddhist missionaries carry Ashoka's teachings across known world\u2014peaceful conversion replacing conquest. Ashoka's luminescence radiates beyond physical body, touching millions through propagated dharma. His scars represent transformation not just personal but civilizational. Dark hair reflects peaceful old age earned through spiritual practice. Eyes gaze toward future generations."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My greatest conquest is being conquered by dharma.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Ashoka's edicts spread Buddhism peacefully across continents\u2014legacy transforms from conquest to spiritual influence."
+      ],
+      "first_frame_prompt": [
+        "Buddhist missionaries carry Ashoka's teachings across known world\u2014peaceful conversion replacing conquest. Ashoka's luminescence radiates beyond physical body, touching millions through propagated dharma. His scars represent transformation not just personal but civilizational. Dark hair reflects peaceful old age earned through spiritual practice. Eyes gaze toward future generations."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My greatest conquest is being conquered by dharma."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

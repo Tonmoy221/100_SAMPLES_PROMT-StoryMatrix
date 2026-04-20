@@ -1,0 +1,164 @@
+{
+  "story_name": "Ares & Athena's War: Conflict Reimagined",
+  "character_description": "Ares and Athena, two manifestations of war\u2014Ares as primal chaos and fury (scarlet skin glowing with destructive energy), Athena as strategic wisdom (silver skin glowing with calculated light). They must learn that both forms of conflict exist and matter.",
+  "setting": "Battlefields where both chaos and strategy clash\u2014and where compromise becomes possible",
+  "theme": "Understanding that conflict comes in many forms\u2014none fully right or wrong, all containing wisdom and danger",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Ares brings chaos to battlefield\u2014pure destructive energy overwhelming all strategy. Athena watches with frustration at wasted potential."
+      ],
+      "first_frame_prompt": [
+        "Ares manifests on battlefield, scarlet skin glowing with destructive fury. His chaos overwhelms all resistance\u2014but also destroys strategic advantage. Athena observes from position of strategy, her silver skin radiating calculated frustration. She sees war Ares fights and war that could be fought. Two perspectives clash ideologically."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Strategy without ferocity is powerless. Ferocity without strategy is wasteful."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ares brings chaos to battlefield\u2014pure destructive energy overwhelming all strategy. Athena watches with frustration at wasted potential."
+      ],
+      "first_frame_prompt": [
+        "Ares manifests on battlefield, scarlet skin glowing with destructive fury. His chaos overwhelms all resistance\u2014but also destroys strategic advantage. Athena observes from position of strategy, her silver skin radiating calculated frustration. She sees war Ares fights and war that could be fought. Two perspectives clash ideologically."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Strategy without ferocity is powerless. Ferocity without strategy is wasteful.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Ares begins to understand that pure chaos leaves people broken and nations destroyed\u2014devastation without purpose."
+      ],
+      "first_frame_prompt": [
+        "Ares surveys aftermath of his destructive war\u2014people genuinely suffering, civilizations collapsed, nothing rebuilt. Scarlet skin dims slightly as understanding penetrates. His fury has power, but alone it creates only ruin. He perceives value in Athena's strategic consideration of consequences."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My destruction is real. But what does it build?"
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Ares begins to understand that pure chaos leaves people broken and nations destroyed\u2014devastation without purpose.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Ares surveys aftermath of his destructive war\u2014people genuinely suffering, civilizations collapsed, nothing rebuilt. Scarlet skin dims slightly as understanding penetrates. His fury has power, but alone it creates only ruin. He perceives value in Athena's strategic consideration of consequences."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My destruction is real. But what does it build?"
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Ares and Athena recognize that true conflict contains both elements\u2014passionate commitment AND strategic awareness.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Ares and Athena stand together, scarlet and silver energies beginning to interweave rather than clash. They perceive that greatest warriors combine both\u2014fierce commitment with clear awareness of consequences. Strategy that serves genuine values becomes noble. Passion guided by wisdom becomes sustainable."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Perhaps we are not enemies but two essential aspects of complete conflict."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Ares and Athena recognize that true conflict contains both elements\u2014passionate commitment AND strategic awareness."
+      ],
+      "first_frame_prompt": [
+        "Ares and Athena stand together, scarlet and silver energies beginning to interweave rather than clash. They perceive that greatest warriors combine both\u2014fierce commitment with clear awareness of consequences. Strategy that serves genuine values becomes noble. Passion guided by wisdom becomes sustainable."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Perhaps we are not enemies but two essential aspects of complete conflict."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Athena teaches warriors that strategy and planning matter\u2014that greatest victories require both commitment and awareness."
+      ],
+      "first_frame_prompt": [
+        "Athena works with warriors, silver skin glowing with strategic brilliance. She teaches them to think beyond immediate victory toward sustainable outcomes. She honors their passion while helping them channel it effectively. She is not diminished but enhanced by acknowledging need for passionate commitment."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Your strategy serves your passion. Plan with awareness of what you fight for."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Athena teaches warriors that strategy and planning matter\u2014that greatest victories require both commitment and awareness."
+      ],
+      "first_frame_prompt": [
+        "Athena works with warriors, silver skin glowing with strategic brilliance. She teaches them to think beyond immediate victory toward sustainable outcomes. She honors their passion while helping them channel it effectively. She is not diminished but enhanced by acknowledging need for passionate commitment."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Your strategy serves your passion. Plan with awareness of what you fight for."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Civilizations prosper because conflict is no longer binary\u2014chaos versus strategy\u2014but integrated understanding."
+      ],
+      "first_frame_prompt": [
+        "Civilizations transform under influence of integrated conflict understanding. Scarlet and silver energies appear together in all aspects\u2014justice systems, educational approaches, personal development. They learn that both passion and calculation matter. Neither alone is sufficient."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "We are wise because we embrace complexity of conflict.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Civilizations prosper because conflict is no longer binary\u2014chaos versus strategy\u2014but integrated understanding."
+      ],
+      "first_frame_prompt": [
+        "Civilizations transform under influence of integrated conflict understanding. Scarlet and silver energies appear together in all aspects\u2014justice systems, educational approaches, personal development. They learn that both passion and calculation matter. Neither alone is sufficient."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "We are wise because we embrace complexity of conflict."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

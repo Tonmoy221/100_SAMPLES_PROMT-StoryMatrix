@@ -1,0 +1,164 @@
+{
+  "story_name": "Prometheus's Gift: Fire of Rebellion",
+  "character_description": "Prometheus, titan bearing marks of eternal suffering\u2014chains, scars, unbowed spirit. Luminous golden skin despite punishment, hair that seems to contain embers, golden eyes reflecting both compassion and revolutionary defiance. His form embodies resistance to unjust authority.",
+  "setting": "Mount Caucasus, Olympus, and human civilization transformed by stolen fire",
+  "theme": "Righteous rebellion against oppressive power for sake of those not allowed to flourish",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Prometheus stands in Olympus, witnessing gods hoard fire and knowledge from humanity condemned to darkness."
+      ],
+      "first_frame_prompt": [
+        "Prometheus watches from Olympus as humans shiver in perpetual darkness, denied fire and illumination. His luminous golden skin radiates frustration at injustice. Hair containing embers flares with indignation. Golden eyes perceive human suffering clearly\u2014not abstractions but real beings denied tools for flourishing. His chains exist in spirit already, forged by moral conflict."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "How can divinity permit such suffering? The fire should belong to all."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Prometheus stands in Olympus, witnessing gods hoard fire and knowledge from humanity condemned to darkness."
+      ],
+      "first_frame_prompt": [
+        "Prometheus watches from Olympus as humans shiver in perpetual darkness, denied fire and illumination. His luminous golden skin radiates frustration at injustice. Hair containing embers flares with indignation. Golden eyes perceive human suffering clearly\u2014not abstractions but real beings denied tools for flourishing. His chains exist in spirit already, forged by moral conflict."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "How can divinity permit such suffering? The fire should belong to all.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Prometheus brings fire to humanity\u2014transformation from darkness to civilization begins."
+      ],
+      "first_frame_prompt": [
+        "Prometheus descends to human realm, fire blazing in his hands. His luminous skin illuminates human faces experiencing light for first time. Hair containing embers spreads flames across human communities. Golden eyes reflect human awakening\u2014from helpless creatures to beings capable of shaping their world. The moment transforms everything."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "This fire is yours now. With it comes responsibility and possibility."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Prometheus brings fire to humanity\u2014transformation from darkness to civilization begins.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Prometheus descends to human realm, fire blazing in his hands. His luminous skin illuminates human faces experiencing light for first time. Hair containing embers spreads flames across human communities. Golden eyes reflect human awakening\u2014from helpless creatures to beings capable of shaping their world. The moment transforms everything."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "This fire is yours now. With it comes responsibility and possibility."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Prometheus chained to Mount Caucasus, eagle consuming liver eternally\u2014punishment for rebellion against divine authority.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Prometheus bound in eternal punishment, luminous skin marked with torture yet unbroken. Hair containing embers dims but doesn't extinguish. Golden eyes maintain defiance and compassion simultaneously. The eagle's attack becomes eternal cycle\u2014destruction and renewal playing out forever. Yet his spirit remains unsubdued."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I suffer, but I do not regret. Humanity has light."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Prometheus chained to Mount Caucasus, eagle consuming liver eternally\u2014punishment for rebellion against divine authority."
+      ],
+      "first_frame_prompt": [
+        "Prometheus bound in eternal punishment, luminous skin marked with torture yet unbroken. Hair containing embers dims but doesn't extinguish. Golden eyes maintain defiance and compassion simultaneously. The eagle's attack becomes eternal cycle\u2014destruction and renewal playing out forever. Yet his spirit remains unsubdued."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I suffer, but I do not regret. Humanity has light."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Humans inspired by Prometheus's example develop revolutions of their own\u2014challenging unjust rulers and oppressive systems."
+      ],
+      "first_frame_prompt": [
+        "Human civilizations bloom\u2014art, science, culture flourishing by firelight. Yet more importantly, humans learn from Prometheus's example that rebellion against injustice is noble. Luminous skin reflects human achievements inspired by his sacrifice. His chains are no longer just punishment but teaching device."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My gift goes beyond fire\u2014it includes the possibility of choosing dignity over obedience."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Humans inspired by Prometheus's example develop revolutions of their own\u2014challenging unjust rulers and oppressive systems."
+      ],
+      "first_frame_prompt": [
+        "Human civilizations bloom\u2014art, science, culture flourishing by firelight. Yet more importantly, humans learn from Prometheus's example that rebellion against injustice is noble. Luminous skin reflects human achievements inspired by his sacrifice. His chains are no longer just punishment but teaching device."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My gift goes beyond fire\u2014it includes the possibility of choosing dignity over obedience."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Eventually, divine and human powers recognize Prometheus's sacrifice as righteous\u2014transformation of punishment into honor."
+      ],
+      "first_frame_prompt": [
+        "Even Olympus learns from Prometheus's example\u2014recognizing that resistance to injustice, though costly, holds more value than comfortable obedience. Luminous skin radiates vindication without triumph. Hair glows softly. Golden eyes reflect understanding that true power comes from alignment with justice, not domination."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Justice ultimately outlasts tyranny.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Eventually, divine and human powers recognize Prometheus's sacrifice as righteous\u2014transformation of punishment into honor."
+      ],
+      "first_frame_prompt": [
+        "Even Olympus learns from Prometheus's example\u2014recognizing that resistance to injustice, though costly, holds more value than comfortable obedience. Luminous skin radiates vindication without triumph. Hair glows softly. Golden eyes reflect understanding that true power comes from alignment with justice, not domination."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Justice ultimately outlasts tyranny."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

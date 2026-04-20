@@ -1,0 +1,164 @@
+{
+  "story_name": "Medusa's Redemption: Victim to Sovereign",
+  "character_description": "Medusa, transformed being with serpentine hair that writhes with consciousness, golden eyes that once destroyed now hold compassion, bronze skin bearing marks of curse-transformation. Not monster but survivor\u2014her appearance reflects what was done to her, not what she is.",
+  "setting": "Sacred temple, Underworld sanctuary, and eventually reclaimed empowerment spaces",
+  "theme": "Transforming victimization into sovereignty and refusing to accept others' narratives of monstrosity",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Medusa in Athena's temple before violation, young priestess with normal appearance and pure heart dedicated to service."
+      ],
+      "first_frame_prompt": [
+        "Young Medusa tends Athena's temple with devotion, her dark hair flowing beautifully, golden eyes reflecting genuine faith. She embodies priestess virtue\u2014devoted, pure, hopeful. The temple radiates peace around her. She does not know that violation approaches under guise of divine right, that her trust will become weaponized."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I serve Athena with my whole heart. I am honored to be her priestess."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Medusa in Athena's temple before violation, young priestess with normal appearance and pure heart dedicated to service."
+      ],
+      "first_frame_prompt": [
+        "Young Medusa tends Athena's temple with devotion, her dark hair flowing beautifully, golden eyes reflecting genuine faith. She embodies priestess virtue\u2014devoted, pure, hopeful. The temple radiates peace around her. She does not know that violation approaches under guise of divine right, that her trust will become weaponized."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I serve Athena with my whole heart. I am honored to be her priestess."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Medusa exiled to underworld caves, isolated and told her appearance is inherently monstrous and deadly.",
+        "Deep focus on emotional transformation visible in surroundings and light"
+      ],
+      "first_frame_prompt": [
+        "Medusa banished to cave, her serpentine hair writhes defensively, golden eyes glowing with pain and isolation. She is told her gaze is deadly weapon, that merely looking at her drives others insane. She internalizes narrative that she is monster to be feared rather than victim to be supported. Isolation compounds trauma."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "(reflection/continuation of journey)"
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Medusa exiled to underworld caves, isolated and told her appearance is inherently monstrous and deadly.",
+        "Deep focus on emotional transformation visible in surroundings and light"
+      ],
+      "first_frame_prompt": [
+        "Medusa banished to cave, her serpentine hair writhes defensively, golden eyes glowing with pain and isolation. She is told her gaze is deadly weapon, that merely looking at her drives others insane. She internalizes narrative that she is monster to be feared rather than victim to be supported. Isolation compounds trauma."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "(reflection/continuation of journey)"
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Medusa reclaims her cave as sanctuary, transforming isolation into sovereign space."
+      ],
+      "first_frame_prompt": [
+        "Medusa consciously transforms her cave from prison into sanctuary. Serpentine hair becomes her court, each serpent a protector. Golden eyes glow with reclaimed power. She chooses who enters her space\u2014and her gaze remains protection, not weapon. She has transformed victimhood into agency."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "This cave is mine now. My space. My rules. I am sovereign here."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Medusa reclaims her cave as sanctuary, transforming isolation into sovereign space."
+      ],
+      "first_frame_prompt": [
+        "Medusa consciously transforms her cave from prison into sanctuary. Serpentine hair becomes her court, each serpent a protector. Golden eyes glow with reclaimed power. She chooses who enters her space\u2014and her gaze remains protection, not weapon. She has transformed victimhood into agency."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "This cave is mine now. My space. My rules. I am sovereign here."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Medusa confronts Athena's justice\u2014demanding explanation for punishment of victim rather than perpetrator."
+      ],
+      "first_frame_prompt": [
+        "Medusa stands before Athena with serpentine hair raised proudly, golden eyes blazing with righteous demand for accountability. She asks why goddess protects institution over individual, why priestess is punished for violation in sacred space. Her confrontation forces reckon with institutional failure."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You were my goddess. You punished the wrong person."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Medusa confronts Athena's justice\u2014demanding explanation for punishment of victim rather than perpetrator."
+      ],
+      "first_frame_prompt": [
+        "Medusa stands before Athena with serpentine hair raised proudly, golden eyes blazing with righteous demand for accountability. She asks why goddess protects institution over individual, why priestess is punished for violation in sacred space. Her confrontation forces reckon with institutional failure."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You were my goddess. You punished the wrong person."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Medusa moves through world reclaiming identity\u2014no longer victim or monster but survivor who transformed trauma into power.",
+        "Deep focus on emotional transformation visible in surroundings and light"
+      ],
+      "first_frame_prompt": [
+        "Medusa walks freely, serpentine hair flowing with conscious choice. Golden eyes glow with hard-won wisdom. She has integrated her transformation\u2014not denying what was done to her but refusing to accept narratives of monstrosity. She becomes symbol for all victims reclaiming their stories."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "(reflection/continuation of journey)"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Medusa moves through world reclaiming identity\u2014no longer victim or monster but survivor who transformed trauma into power.",
+        "Deep focus on emotional transformation visible in surroundings and light"
+      ],
+      "first_frame_prompt": [
+        "Medusa walks freely, serpentine hair flowing with conscious choice. Golden eyes glow with hard-won wisdom. She has integrated her transformation\u2014not denying what was done to her but refusing to accept narratives of monstrosity. She becomes symbol for all victims reclaiming their stories."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "(reflection/continuation of journey)"
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

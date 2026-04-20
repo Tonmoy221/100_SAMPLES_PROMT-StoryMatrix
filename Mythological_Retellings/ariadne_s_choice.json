@@ -1,0 +1,164 @@
+{
+  "story_name": "Ariadne's Choice: From Savior to Self",
+  "character_description": "Ariadne, princess with copper-gold hair that catches light like thread, luminous amber eyes reflecting both intelligence and vulnerability, bronze skin bearing marks of hard choices. She transforms from supporting character in others' stories to protagonist of her own.",
+  "setting": "Labyrinth, Naxos, and eventually realms where she becomes sovereign",
+  "theme": "Moving from supporting others to claiming your own story and sovereignty",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Ariadne watches Theseus from labyrinth tower\u2014fascinated by visitor, aware of her father's cruelty, beginning to question her role."
+      ],
+      "first_frame_prompt": [
+        "Ariadne stands in tower, copper-gold hair flowing, luminous amber eyes watching Theseus with fascination and dawning moral awareness. She perceives conflict between loyalty to father and recognition of his cruelty. The labyrinth represents her own entrapment\u2014not just physical but emotional and intellectual. She begins questioning imposed role."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am my father's daughter. Yet I recognize his injustice. What does loyalty require?"
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ariadne watches Theseus from labyrinth tower\u2014fascinated by visitor, aware of her father's cruelty, beginning to question her role."
+      ],
+      "first_frame_prompt": [
+        "Ariadne stands in tower, copper-gold hair flowing, luminous amber eyes watching Theseus with fascination and dawning moral awareness. She perceives conflict between loyalty to father and recognition of his cruelty. The labyrinth represents her own entrapment\u2014not just physical but emotional and intellectual. She begins questioning imposed role."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am my father's daughter. Yet I recognize his injustice. What does loyalty require?",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Ariadne leaves with Theseus, believing they share vision of justice and partnership."
+      ],
+      "first_frame_prompt": [
+        "Ariadne leaves labyrinth and father's kingdom, copper-gold hair streaming as she embraces new possibility. Luminous amber eyes glow with hope and determination. She carries more than personal desire\u2014she carries vision of different world. She believes Theseus sees her as partner in justice, not prize to be claimed."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "We will build something new together. Something just and free."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Ariadne leaves with Theseus, believing they share vision of justice and partnership.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Ariadne leaves labyrinth and father's kingdom, copper-gold hair streaming as she embraces new possibility. Luminous amber eyes glow with hope and determination. She carries more than personal desire\u2014she carries vision of different world. She believes Theseus sees her as partner in justice, not prize to be claimed."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "We will build something new together. Something just and free."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Ariadne's grief becomes transformation\u2014recognizing that she was complicit in her own subordination.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Alone on Naxos, Ariadne confronts her own complicity. Copper-gold hair dims with acknowledgment. Luminous amber eyes see clearly that she gave power away rather than claiming it. She followed narrative of romantic salvation rather than insisting on her own agency. She begins taking responsibility for her choices."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I chose to be supporting character. I must now choose to be protagonist."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Ariadne's grief becomes transformation\u2014recognizing that she was complicit in her own subordination."
+      ],
+      "first_frame_prompt": [
+        "Alone on Naxos, Ariadne confronts her own complicity. Copper-gold hair dims with acknowledgment. Luminous amber eyes see clearly that she gave power away rather than claiming it. She followed narrative of romantic salvation rather than insisting on her own agency. She begins taking responsibility for her choices."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I chose to be supporting character. I must now choose to be protagonist."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision."
+      ],
+      "first_frame_prompt": [
+        "Ariadne and Dionysus work together creating new civilization. Copper-gold hair flows freely. Luminous amber eyes glow with power earned not from position but from choosing consciously. She is not saved\u2014she is building. She is not supporting narrative\u2014she is authoring it."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "This is what partnership looks like\u2014mutual creation, not rescue."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision."
+      ],
+      "first_frame_prompt": [
+        "Ariadne and Dionysus work together creating new civilization. Copper-gold hair flows freely. Luminous amber eyes glow with power earned not from position but from choosing consciously. She is not saved\u2014she is building. She is not supporting narrative\u2014she is authoring it."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "This is what partnership looks like\u2014mutual creation, not rescue."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Ariadne's example spreads\u2014societies transform as people learn to claim agency rather than accept subordinate roles."
+      ],
+      "first_frame_prompt": [
+        "Ariadne's transformation becomes archetypal. Copper-gold hair symbolizes those learning to claim their stories. Luminous amber eyes recognize hundreds, thousands learning her lesson\u2014that you must consciously author your own life. Societies begin honoring protagonists rather than supporting characters."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "When everyone becomes protagonist of their own story, civilization transforms.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Ariadne's example spreads\u2014societies transform as people learn to claim agency rather than accept subordinate roles."
+      ],
+      "first_frame_prompt": [
+        "Ariadne's transformation becomes archetypal. Copper-gold hair symbolizes those learning to claim their stories. Luminous amber eyes recognize hundreds, thousands learning her lesson\u2014that you must consciously author your own life. Societies begin honoring protagonists rather than supporting characters."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "When everyone becomes protagonist of their own story, civilization transforms."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}

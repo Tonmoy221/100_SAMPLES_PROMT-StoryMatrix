@@ -1,0 +1,164 @@
+{
+  "story_name": "Hephaestus's Mastery: Crafting Worth from Rejection",
+  "character_description": "Hephaestus, craftsman-god with bronze skin scarred from celestial violence, luminous eyes reflecting both creative brilliance and deep sorrow, powerful build contrasting with limping gait. His deformity becomes source of wisdom\u2014in learning to work with limitations, he achieves transcendent mastery.",
+  "setting": "Divine workshops, forges of power, and spaces where rejected beings create beauty",
+  "theme": "Finding purpose and transcendent mastery through embracing limitations and rejection",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Hephaestus thrown from Olympus by his own mother for being different\u2014physical rejection becoming existential wound."
+      ],
+      "first_frame_prompt": [
+        "Hephaestus falls from Olympus, bronze skin burning from divine violence. Luminous eyes reflect profound hurt at rejection by mother\u2014she saw his difference and cast him out. His limping gait becomes permanent reminder of abandonment. Yet in falling, something shifts. The pain becomes teacher."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Rejected. Broken. Yet I still exist. Perhaps I can create meaning from this."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Hephaestus thrown from Olympus by his own mother for being different\u2014physical rejection becoming existential wound."
+      ],
+      "first_frame_prompt": [
+        "Hephaestus falls from Olympus, bronze skin burning from divine violence. Luminous eyes reflect profound hurt at rejection by mother\u2014she saw his difference and cast him out. His limping gait becomes permanent reminder of abandonment. Yet in falling, something shifts. The pain becomes teacher."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Rejected. Broken. Yet I still exist. Perhaps I can create meaning from this.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Hephaestus creates\u2014forging weapons, tools, and objects of transcendent beauty that change the world."
+      ],
+      "first_frame_prompt": [
+        "Hephaestus works obsessively, bronze skin bearing marks of creative effort. Luminous eyes perceive possibility in raw material. His creations are legendary\u2014not despite his rejection but because of it. He has learned that purpose comes not from belonging to Olympus but from creating meaning. His craft becomes language of transformation."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I create for those who are rejected, broken, seeking meaning in limitation."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Hephaestus creates\u2014forging weapons, tools, and objects of transcendent beauty that change the world.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Hephaestus works obsessively, bronze skin bearing marks of creative effort. Luminous eyes perceive possibility in raw material. His creations are legendary\u2014not despite his rejection but because of it. He has learned that purpose comes not from belonging to Olympus but from creating meaning. His craft becomes language of transformation."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I create for those who are rejected, broken, seeking meaning in limitation."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Hephaestus's creations become so valuable that even Olympus depends on them\u2014reversing dynamic of rejection.",
+        "Camera slowly zooms into details revealing inner truth"
+      ],
+      "first_frame_prompt": [
+        "Olympus increasingly depends on Hephaestus's creations. Bronze skin glows with quiet satisfaction as he perceives irony\u2014rejected because different, now indispensable. Luminous eyes hold no bitterness, only clarity. He has learned that worth is not granted by others' recognition but discovered through authentic work. His mastery transcends Olympus's approval."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "They rejected me. Now they need what I create. Yet I do not create for their approval."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Hephaestus's creations become so valuable that even Olympus depends on them\u2014reversing dynamic of rejection."
+      ],
+      "first_frame_prompt": [
+        "Olympus increasingly depends on Hephaestus's creations. Bronze skin glows with quiet satisfaction as he perceives irony\u2014rejected because different, now indispensable. Luminous eyes hold no bitterness, only clarity. He has learned that worth is not granted by others' recognition but discovered through authentic work. His mastery transcends Olympus's approval."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "They rejected me. Now they need what I create. Yet I do not create for their approval."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation."
+      ],
+      "first_frame_prompt": [
+        "Hephaestus works with young beings learning craft. Bronze skin bears marks of years of creation. Luminous eyes recognize each apprentice's unique potential. He teaches that mastery requires embracing limitation, not transcending it. He becomes teacher of how to transform rejection into purpose. His workshop becomes school of transcendence through craft."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Mastery is not gift\u2014it is earned through daily dedicated work within your specific limitations."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation."
+      ],
+      "first_frame_prompt": [
+        "Hephaestus works with young beings learning craft. Bronze skin bears marks of years of creation. Luminous eyes recognize each apprentice's unique potential. He teaches that mastery requires embracing limitation, not transcending it. He becomes teacher of how to transform rejection into purpose. His workshop becomes school of transcendence through craft."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Mastery is not gift\u2014it is earned through daily dedicated work within your specific limitations."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Hephaestus eventually reconciles with Olympus\u2014not by proving worth but by accepting his own worth independent of their recognition."
+      ],
+      "first_frame_prompt": [
+        "Olympus eventually recognizes Hephaestus's value, but he greets this recognition with equanimity. Bronze skin no longer burns with need for approval. Luminous eyes hold peace earned through authentic work. He teaches that reconciliation is possible, but worth is not contingent on it. He has learned to value himself."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Your recognition no longer determines my worth. I have already proven it to myself.",
+        "[Inner reflection/emotional deepening]"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Hephaestus eventually reconciles with Olympus\u2014not by proving worth but by accepting his own worth independent of their recognition."
+      ],
+      "first_frame_prompt": [
+        "Olympus eventually recognizes Hephaestus's value, but he greets this recognition with equanimity. Bronze skin no longer burns with need for approval. Luminous eyes hold peace earned through authentic work. He teaches that reconciliation is possible, but worth is not contingent on it. He has learned to value himself."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Your recognition no longer determines my worth. I have already proven it to myself."
+      ]
+    }
+  ],
+  "duration_seconds": 360,
+  "duration_minutes": "6 minutes (360 seconds)"
+}
