@@ -1,0 +1,158 @@
+{
+  "story_name": "The Thunder Storm's Choice",
+  "character_description": "Vex, anime character with electric-blue and violet hair that crackles with visible electrical energy. Pale skin with glowing electric-blue tattoos. Eyes are solid electric-blue, no pupils visible. Intense, almost manic energy held barely in check.",
+  "setting": "Tempest Nexus, place where electrical storms rage eternally and power concentrates",
+  "theme": "Channeling destructive power toward creation",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Vex stands as conduit for endless electrical energy in heart of storm."
+      ],
+      "first_frame_prompt": [
+        "Vex stands at Tempest Nexus heart, living conduit for endless electricity. Lightning arcs from form, hair crackles with visible power. Strain and pain visible from channeling infinite energy. Around them, ground is blackened, metal melted, structures destroyed."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am the storm. But this power only destroys."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Vex encounters genius engineer fascinated rather than frightened by their power."
+      ],
+      "first_frame_prompt": [
+        "Engineer approaches Vex with careful respect, studying patterns of lightning discharge with wonder. They propose radical idea: what if destructive power could be channeled into creation?"
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "What if your power could power revolutionary technology?"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Vex and engineer collaborate on revolutionary technology channeling electrical power."
+      ],
+      "first_frame_prompt": [
+        "Working together in workshop. Vex learns to focus power, directing it toward creation. Solid electric-blue eyes show focused determination. Hair crackles in controlled patterns through machinery."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My power was meant to be directed, focused, used with intention."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Technology spreads to communities, bringing electrical power where needed."
+      ],
+      "first_frame_prompt": [
+        "Entire cities powered by Vex's managed electrical output. Electric light replacing darkness. Vex's form glows with purposeful luminescence, not destructive heat."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My power creates light, warmth, progress, hope."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Military leaders attempt to weaponize Vex's power."
+      ],
+      "first_frame_prompt": [
+        "War-makers offer power and dominion if Vex weaponizes abilities. Vex's eyes flash with temptation before solid determination replaces it. Hair crackles with confused energy then settles."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I will not be a weapon."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Vex defends communities against weaponizers using protective rather than destructive power."
+      ],
+      "first_frame_prompt": [
+        "Electrical power becomes shield around communities. Lightning creates barriers rather than striking targets. Vex protects innovations and communities with moral purpose."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My darkness is my strength, but I use it to protect, not destroy."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Tempest Center established as beacon of innovation powered entirely by Vex."
+      ],
+      "first_frame_prompt": [
+        "Center attracts brilliant minds. Vex's electrical presence forms vital heart of thriving hub. Solid electric-blue eyes glow with purpose and connection. Community of innovators works in synchronization."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "My power is shared, a foundation for creation."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Years pass showing continuous growth and transformation across civilizations."
+      ],
+      "first_frame_prompt": [
+        "Technology inspired by Vex's collaboration improves lives across known world. Vex shows mature wisdom\u2014power's meaning determined by choice and intention."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Channeling power toward creation is greatest strength."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Training new generation in responsible power use."
+      ],
+      "first_frame_prompt": [
+        "Vex teaches others to balance incredible abilities with ethical purpose."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Power without intention becomes destruction."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Final vision of Vex at Tempest Center heart, electrical networks illuminating entire regions."
+      ],
+      "first_frame_prompt": [
+        "Vex stands at Center heart, electrical power flowing through systems illuminating entire regions with beautiful electric light. Serene peace despite maintaining constant power flow. Transformation complete from isolated destruction to vital creation."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I am thunder and lightning. I am also light guiding people through darkness, energy powering dreams, force transforming despair into possibility."
+      ]
+    }
+  ]
+}

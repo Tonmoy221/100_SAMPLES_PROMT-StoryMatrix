@@ -1,0 +1,23 @@
+{
+  "story_name": "The Sky Dancer's Awakening",
+  "character_description": "Luna, an ethereal anime girl with flowing silver hair, violet eyes that shimmer like stars, wearing a flowing white and purple dancer outfit with ribbons that move with magical energy. She has delicate pointed ears and a gentle, determined expression.",
+  "setting": "The Floating Sky Kingdom, a realm of clouds, floating islands, and wind currents",
+  "theme": "Finding inner strength through dance and rhythm",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes."
+      ],
+      "first_frame_prompt": [
+        "Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me\u2014not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "story_name": "The Shadow Fox's Redemption",
+  "character_description": "Kiro, an anime boy with fox-like features, black and silver hair with fox ears, amber eyes that glow in darkness, wearing tactical shadow-black clothing with silver accents. He has a mischievous but ultimately good-hearted expression and carries an air of mystery.",
+  "setting": "The Obsidian Forest, a realm of eternal twilight where shadows move independently",
+  "theme": "Breaking free from a dark past to find light",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows."
+      ],
+      "first_frame_prompt": [
+        "Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I did this. My shadow did this. There's no difference anymore\u2014the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    }
+  ]
+}

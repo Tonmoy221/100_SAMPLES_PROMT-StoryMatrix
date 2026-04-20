@@ -1,0 +1,158 @@
+{
+  "story_name": "The Ocean Guardian's Tide",
+  "character_description": "Maris, an anime girl with flowing turquoise and seafoam hair that moves like liquid water, deep ocean-blue eyes with silver flecks, iridescent skin with pearl-like qualities. She wears a gown of living water adorned with shells and sea-glass.",
+  "setting": "The Tidal Kingdoms, underwater realms where water-breathing civilizations thrive",
+  "theme": "Protecting what you love by accepting change",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Establishing shot of Tidal Kingdoms with underwater cities of coral and crystal. Maris swims through, showing worry as she observes spreading corruption in the water."
+      ],
+      "first_frame_prompt": [
+        "Maris moves through Tidal Kingdoms with fluid grace, her turquoise hair flowing like independent water. Below, spreading darkness poisons the water, corrupting coral. Her ocean-blue eyes scan with deep concern as she senses a sickness she doesn't know how to cure."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Something is poisoning our waters. I must find the source and heal it before it destroys everything."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Maris discovers human pollution is the cause. She confronts surface dwellers about their careless destruction."
+      ],
+      "first_frame_prompt": [
+        "Maris stands at the shore where ocean meets land, addressing human developers. Her ocean-blue eyes fill with tears as she describes the dying coral and poisoned kingdoms below. She holds contaminated water showing its darkness."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You dump your waste into waters that are not yours alone. You're killing a civilization as complex as any on land."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Maris leads surface dwellers into the water to witness underwater damage directly."
+      ],
+      "first_frame_prompt": [
+        "Maris guides humans through water with magic allowing them to breathe. They witness devastated kingdoms\u2014dying coral, poisoned landscapes, suffering creatures. Their faces show genuine horror at the consequences."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "This is not just statistics. This is your actions destroying conscious beings' homes."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Cooperation begins. Industrial operations cease, conservation efforts transform the landscape."
+      ],
+      "first_frame_prompt": [
+        "Former developers become passionate forest protectors. Gardens grow where industrial waste once flowed. Maris works alongside them, establishing bridge between worlds."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The greatest protection comes through connection, not isolation."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Years pass showing sustained recovery and mutual growth between worlds."
+      ],
+      "first_frame_prompt": [
+        "Thriving Tidal Kingdoms alongside transformed surface communities. Maris stands at the boundary where water meets sand, her gown flowing between water and air states."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Love is the only bridge that can span the chasms between worlds. The waters flow between us in harmony."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Festival celebrations joining both surface and underwater peoples."
+      ],
+      "first_frame_prompt": [
+        "Communities celebrate together\u2014surface festivals and underwater bioluminescence celebrations. Maris connects them, symbol of alliance."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "We were willing to change and listen. And in doing so, we found that love is the foundation of strength."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "New visitors seek refuge in the protected alliance."
+      ],
+      "first_frame_prompt": [
+        "Maris welcomes travelers with genuine warmth, her ocean-blue eyes showing deep compassion as she offers sanctuary."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I once would have frozen you in crystalline perfection. Now I offer you what civilization can achieve through harmony."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Teaching continues to new generations about interconnection and mutual respect."
+      ],
+      "first_frame_prompt": [
+        "Young students from both worlds learn together about ocean and land ecosystem interdependence."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Understanding that we're connected creates responsibility. Each world protects the other."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Advanced collaboration creates healing technologies and restoration projects."
+      ],
+      "first_frame_prompt": [
+        "Scientists and shamans work together using both technology and magic to restore damaged ecosystems."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "When different wisdom traditions collaborate, we find solutions neither could achieve alone."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Final peaceful vision of balanced world under starlight."
+      ],
+      "first_frame_prompt": [
+        "Maris stands between worlds at sunset, waters flowing pure and clear. Underwater bioluminescence and surface lights create harmony. Both civilizations thrive in genuine partnership."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I was willing to leave my kingdom to protect what I loved. And in doing so, I found that love spans all boundaries."
+      ]
+    }
+  ]
+}

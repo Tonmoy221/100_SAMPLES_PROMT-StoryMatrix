@@ -1,0 +1,158 @@
+{
+  "story_name": "The Wind Rider's Liberation",
+  "character_description": "Akira, an anime adventurer with wind-tousled silver hair that moves independently of air, amber eyes that glow with kinetic energy. Practical traveler's clothes with scarves and ribbons that stream behind. Restless freedom-seeking energy visible around them.",
+  "setting": "Skypath Peaks, mountain range where wind itself guides those with will to listen",
+  "theme": "Freedom versus the chains of expectation",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Akira stands at mountain peak, scarves streaming, expressing frustration with fortress-city expectations."
+      ],
+      "first_frame_prompt": [
+        "Akira on highest peak, silver hair streaming horizontally in violent wind. Behind them, gray fortress-city looms. Their amber eyes glow with kinetic energy barely contained, body vibrating with suppressed desire to run and fly free."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The wind calls me. How much longer can I deny what my spirit screams to do?"
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Akira escapes fortress-city at night, wind magic carrying them unseen."
+      ],
+      "first_frame_prompt": [
+        "Akira's wind magic carries them silently over walls. When they reach open mountain, transformation is profound. Hair springs alive, amber eyes blaze with exhilaration, scarves stream like victory wings."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I'm free. Finally, genuinely free."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Pursued by fortress-city soldiers, Akira flees into wilderness using wind powers."
+      ],
+      "first_frame_prompt": [
+        "Soldiers pursue as Akira moves with supernatural grace through impossible terrain. Wind swirls protectively, rocks shift to impede pursuers. Akira is one with the mountain itself."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You cannot capture wind."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Akira discovers ancient temple with other wind-touched kindred spirits."
+      ],
+      "first_frame_prompt": [
+        "Temple filled with flowing ribbons and scarves. Other wind-touched individuals embrace Akira, mutual recognition and acceptance among kindred souls."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "You understand. I thought I was alone. But here you are."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Fortress-city sends military force to destroy sanctuary."
+      ],
+      "first_frame_prompt": [
+        "Army approaches mountain temple, wind-touched warriors prepare defense. Scarves stream defiantly. Wind becomes increasingly violent and powerful around them."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "They come to force us back into cages. We will show what wind is capable of."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Battle with wind-touched warriors using mountain's currents defensively."
+      ],
+      "first_frame_prompt": [
+        "Wind dances become weaponry. Akira moves at center of conflict, silver hair and scarves creating protective barriers. Wind itself fights with them."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "We fight for right to exist authentically."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Fortress-city forces driven back, mercy shown rather than vengeance."
+      ],
+      "first_frame_prompt": [
+        "Captured soldiers given choice to join community or return with message. Akira shows strength tempered with compassion."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "Wind cannot be conquered. It can only be respected."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Wind-touched community openly flourishes, fortress-city accepts coexistence."
+      ],
+      "first_frame_prompt": [
+        "Sanctuary thrives openly. Akira's silver hair glows with contentment as they lead community with transformed purpose."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "I'm no longer running. I'm defending what matters."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Teaching younger wind-touched to honor nature while defending freedom."
+      ],
+      "first_frame_prompt": [
+        "Akira trains new generation in balance\u2014freedom with responsibility, power with restraint."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "True mastery is choosing what you defend."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Final vision of Akira as guardian of community's continued freedom."
+      ],
+      "first_frame_prompt": [
+        "Akira stands confidently on mountain, silver hair and scarves streaming, amber eyes glowing with peace and purpose. Wind-touched community thrives below. Future bright with possibility."
+      ],
+      "cut": [
+        true
+      ],
+      "speech": [
+        "The cycle continues, but now with meaning beyond itself."
+      ]
+    }
+  ]
+}
