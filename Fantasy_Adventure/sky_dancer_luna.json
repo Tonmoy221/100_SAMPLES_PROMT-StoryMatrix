@@ -1,5 +1,6 @@
 {
   "story_name": "The Sky Dancer's Awakening",
+  "story_overview": "Luna embarks on a transformative journey discovering finding inner strength through dance and rhythm.",
   "character_description": "Luna, an ethereal anime girl with flowing silver hair, violet eyes that shimmer like stars, wearing a flowing white and purple dancer outfit with ribbons that move with magical energy. She has delicate pointed ears and a gentle, determined expression.",
   "setting": "The Floating Sky Kingdom, a realm of clouds, floating islands, and wind currents",
   "theme": "Finding inner strength through dance and rhythm",
@@ -7,16 +8,211 @@
     {
       "scene_num": 1,
       "video_prompts": [
-        "Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes."
+        "Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes.",
+        "Camera movement captures the fluid elegance of movement. Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiralin... The scene pulses with rhythm and motion."
       ],
       "first_frame_prompt": [
-        "Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast."
+        "Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Luna stands gracefully on a cliff overlooking floating islands, her silver hair ... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "[Internal reflection on the moment and its significance to the journey]"
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Scene 2: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 2 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 2: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 2 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 2 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 2: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me\u2014not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "Scene 2: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "What follows changes everything: Scene 2: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Scene 3: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 3 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 3 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 3 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 3: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Scene 4: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 4 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 4: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 4 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 4 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 4: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 4: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "What follows changes everything: Scene 4: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Scene 5: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 5 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 5 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 5 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 5: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Scene 6: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 6 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 6: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 6 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 6 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 6: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 6: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "What follows changes everything: Scene 6: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Scene 7: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 7 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 7 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 7 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 7: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Scene 8: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 8 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 8: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 8 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 8 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 8: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 8: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "What follows changes everything: Scene 8: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Scene 9: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 9 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 9 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 9 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 9: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Scene 10: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 10 continuation: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 10: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 10 primary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 10 secondary frame: Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 10: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 10: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
+        "What follows changes everything: Scene 10: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
       ]
     }
   ]

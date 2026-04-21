@@ -9,10 +9,13 @@
         "Close-up as Zara's hand touches the ancient tree bark. Where her golden-tattooed fingers make contact, light blooms and spreads. The tattoos glow with inner luminescence, and that light transfers into the tree bark, causing it to pulse and illuminated. For a moment, the tree glows from within, a beacon of life in a dead world. The moment is both sacred and fragile."
       ],
       "first_frame_prompt": [
-        "Zara standing protectively by giant gnarled tree with ancient bark; golden tattoos glowing and radiating light on her skin.",
-        "Golden tattoos illuminating and glowing brilliantly where Zara touches tree bark; light pulsing and spreading through ancient wood."
+        "Zara standing protectively by giant gnarled tree with ancient bark; golden tattoos glowing and radiating light on her skin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Golden tattoos illuminating and glowing brilliantly where Zara touches tree bark; light pulsing and spreading through ancient wood. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false
+      ],
       "speech": [
         "Green is precious. So precious that most people have forgotten what it even looks like. There are children in the world who have never seen a living plant, who think a tree is a myth like dragons or gods. But this tree is real. This tree is alive. And as long as I draw breath, nothing will take it from this world.",
         "I am the last warden. The last keeper. The final guardian of what was once commonplace and is now impossibly rare. This is my purpose. This is my entire existence. I was born for this moment, even though that moment has lasted my entire life."
@@ -22,16 +25,23 @@
       "scene_num": 2,
       "video_prompts": [
         "On the horizon, something terrible appears. A storm made entirely of sharp glass shards, suspended in the air like clouds of crystalline death. It catches the sunlight and refracts it into a thousand directions, creating a rainbow nightmare. The storm moves with purpose and malice, slowly advancing toward the lone tree and its guardian. Zara watches its approach with grim determination, knowing what it will bring.",
-        "Close-up on Zara's face as she stares at the approaching glass storm. The reflections of countless sharp shards dance across her face and in her eyes. She squints against the harsh light, raising her hand to shield her vision. The wind begins to pick up, billowing and pushing against her small form. Her expression shows both fear and absolute resolve."
+        "Close-up on Zara's face as she stares at the approaching glass storm. The reflections of countless sharp shards dance across her face and in her eyes. She squints against the harsh light, raising her hand to shield her vision. The wind begins to pick up, billowing and pushing against her small form. Her expression shows both fear and absolute resolve.",
+        "Tertiary shot: On the horizon, something terrible appears. A storm made entirely of sharp glass shards, suspended in the air like clouds of crystalline death. It catches the sunlight and refracts it into a thousand directions, creating a rainbow nightmare. The storm moves with purpose and malice, slowly advancing toward the lone tree and its guardian. Zara watches its approach with grim determination, knowing what it will bring. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Shimmering glass storm approaching on horizon; light reflecting and refracting violently; storm front moving and advancing with menace.",
-        "Zara squinting and shielding eyes from intense reflections; wind billowing and pushing against her; danger radiating from advancing storm."
+        "Shimmering glass storm approaching on horizon; light reflecting and refracting violently; storm front moving and advancing with menace. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Zara squinting and shielding eyes from intense reflections; wind billowing and pushing against her; danger radiating from advancing storm. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: On the horizon, something terrible appears. A storm made entirely of sharp glass shards, suspended in the air like clouds of crystalline death. It catches the sunlight and refracts it into a thousand directions, creating a rainbow nightmare. The storm moves with purpose and malice, slowly advancing toward the lone tree and its guardian. Zara watches its approach with grim determination, knowing what it will bring. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false,
+        true
+      ],
       "speech": [
         "The Glass Storm shatters. That's all it does. It moves through the world breaking and destroying everything it touches. Forests become crystal graveyards. Animals become statues made of glass. And it's coming here.",
-        "It's coming for the life I guard. It's coming to turn my tree into a monument of crystal and silence. Over my dead body will that happen."
+        "It's coming for the life I guard. It's coming to turn my tree into a monument of crystal and silence. Over my dead body will that happen.",
+        "What follows changes everything: The Glass Storm shatters. That's all it does. It moves through the world breaking and destroying everything it touches. Forests become crystal graveyards. Animals become statues made of glass. And it's coming here."
       ]
     },
     {
@@ -41,10 +51,13 @@
         "Massive sandstone pillars erupt violently from the ground around the tree, forming a protective barrier. Stone rises and forms a fortress, each pillar ascending dramatically as if the earth itself is answering her command. The pillars arrange themselves in a defensive pattern, creating walls and ramparts. Where Zara's power flows, the desert transforms into a structure of protection."
       ],
       "first_frame_prompt": [
-        "Zara slamming fists powerfully into sand with force; golden tattoos radiating and glowing brilliantly; determination etched on her face.",
-        "Sandstone pillars erupting and rising explosively from the earth; stone formations ascending dramatically; power channeling through ground."
+        "Zara slamming fists powerfully into sand with force; golden tattoos radiating and glowing brilliantly; determination etched on her face. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Sandstone pillars erupting and rising explosively from the earth; stone formations ascending dramatically; power channeling through ground. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false
+      ],
       "speech": [
         "Earth, listen! I am speaking to you now in the only language the earth understands — the language of connection and desperation and love. Rise up! Protect what must be protected! Show the void that it cannot have this world!",
         "I won't let the wind take her. I won't let the glass storm turn her into decoration. This tree will survive. I will make sure of it, with my last breath and beyond."
@@ -54,16 +67,23 @@
       "scene_num": 4,
       "video_prompts": [
         "The glass storm arrives. Glass shards the size of buildings crash against the sandstone wall with apocalyptic fury. Each impact sends out explosions of light as the shards refract the sun into a thousand rainbow fragments. Zara stands before the barricade with arms raised, her body glowing with golden light as she channels power to maintain the protective barrier.",
-        "Zara's entire form becomes a conduit of protective magic, her tattoos blazing with light. Behind her, the ancient tree stands safe in the center of the shelter she's created. Around them, the glass storm rages with terrible beauty, a maelstrom of crystalline death held at bay by sheer force of will."
+        "Zara's entire form becomes a conduit of protective magic, her tattoos blazing with light. Behind her, the ancient tree stands safe in the center of the shelter she's created. Around them, the glass storm rages with terrible beauty, a maelstrom of crystalline death held at bay by sheer force of will.",
+        "Tertiary shot: The glass storm arrives. Glass shards the size of buildings crash against the sandstone wall with apocalyptic fury. Each impact sends out explosions of light as the shards refract the sun into a thousand rainbow fragments. Zara stands before the barricade with arms raised, her body glowing with golden light as she channels power to maintain the protective barrier. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Glass shards crashing and hitting stone wall violently; light refracting and shattering into rainbow fragments; impacts crackling and exploding.",
-        "Zara standing with arms raised protectively; golden tattoos glowing and radiating protective energy; tree sheltered behind her determined stance."
+        "Glass shards crashing and hitting stone wall violently; light refracting and shattering into rainbow fragments; impacts crackling and exploding. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Zara standing with arms raised protectively; golden tattoos glowing and radiating protective energy; tree sheltered behind her determined stance. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: The glass storm arrives. Glass shards the size of buildings crash against the sandstone wall with apocalyptic fury. Each impact sends out explosions of light as the shards refract the sun into a thousand rainbow fragments. Zara stands before the barricade with arms raised, her body glowing with golden light as she channels power to maintain the protective barrier. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false,
+        true
+      ],
       "speech": [
         "The void is trying to get in. The glass storm is not natural — it's the void itself given form, trying to erase existence, trying to replace life with empty crystal and meaningless reflection.",
-        "Hold on! Just hold on a little longer. The barrier will hold. I will hold it. The tree will survive this."
+        "Hold on! Just hold on a little longer. The barrier will hold. I will hold it. The tree will survive this.",
+        "What follows changes everything: The void is trying to get in. The glass storm is not natural — it's the void itself given form, trying to erase existence, trying to replace life with empty crystal and meaningless reflection."
       ]
     },
     {
@@ -73,10 +93,13 @@
         "Zara stares at the glowing wound, watching as golden light pulses and radiates from where the glass cut her. She understands what is happening — she is giving her life force to the barrier, sacrificing her own vitality to keep the tree safe. And she accepts this. She welcomes it."
       ],
       "first_frame_prompt": [
-        "Glass shard cutting through Zara's shoulder with violent impact; wound opening dramatically; pain radiating across her face.",
-        "Wound glowing brilliant gold and radiating light; life force pulsing and flowing from her body; golden light spreading through the air."
+        "Glass shard cutting through Zara's shoulder with violent impact; wound opening dramatically; pain radiating across her face. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Wound glowing brilliant gold and radiating light; life force pulsing and flowing from her body; golden light spreading through the air. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false
+      ],
       "speech": [
         "My life for yours. That is the covenant between a warden and the world she protects. If necessary, I will give every drop of blood, every ounce of strength, every moment of life I have left to ensure that this tree continues to grow. This is not sacrifice. This is the fulfillment of my purpose.",
         "I am the root. The tree is the branch and leaf, but I am the root that anchors it, that feeds it, that connects it to the deep earth where all life originates. We are not separate. We are one."
@@ -86,16 +109,23 @@
       "scene_num": 6,
       "video_prompts": [
         "The glass storm passes. The barrier holds. Slowly, the terrible assault ends, leaving behind a landscape transformed into a glittering hellscape of crystallized death. The sandstone walls stand scorched and damaged but unbroken. Zara collapses to her knees, utterly exhausted. Her golden tattoos have dimmed, no longer glowing. Her shoulder bleeds. But behind her, standing in the center of the shelter, the tree remains untouched, alive, victorious.",
-        "Zara kneels in the dust, tears streaming down her face. She looks back at the tree, checking that it still lives, that her sacrifice meant something. When she sees it still standing, still growing, still beautiful, something breaks inside her and she weeps — not from pain or exhaustion, but from love and gratitude and the profound relief of having succeeded."
+        "Zara kneels in the dust, tears streaming down her face. She looks back at the tree, checking that it still lives, that her sacrifice meant something. When she sees it still standing, still growing, still beautiful, something breaks inside her and she weeps — not from pain or exhaustion, but from love and gratitude and the profound relief of having succeeded.",
+        "Tertiary shot: The glass storm passes. The barrier holds. Slowly, the terrible assault ends, leaving behind a landscape transformed into a glittering hellscape of crystallized death. The sandstone walls stand scorched and damaged but unbroken. Zara collapses to her knees, utterly exhausted. Her golden tattoos have dimmed, no longer glowing. Her shoulder bleeds. But behind her, standing in the center of the shelter, the tree remains untouched, alive, victorious. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Desert transformed to glittering landscape of glass shards; sunlight reflecting and refracting off millions of surfaces; landscape shimmering and sparkling.",
-        "Zara collapsing to her knees with exhaustion; tree standing behind her safe and protected; her golden tattoos fading as energy depletes."
+        "Desert transformed to glittering landscape of glass shards; sunlight reflecting and refracting off millions of surfaces; landscape shimmering and sparkling. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Zara collapsing to her knees with exhaustion; tree standing behind her safe and protected; her golden tattoos fading as energy depletes. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: The glass storm passes. The barrier holds. Slowly, the terrible assault ends, leaving behind a landscape transformed into a glittering hellscape of crystallized death. The sandstone walls stand scorched and damaged but unbroken. Zara collapses to her knees, utterly exhausted. Her golden tattoos have dimmed, no longer glowing. Her shoulder bleeds. But behind her, standing in the center of the shelter, the tree remains untouched, alive, victorious. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false,
+        true
+      ],
       "speech": [
         "It's gone. The storm has passed. The void tried to consume us, tried to turn my tree into crystal and silence, and it failed. We survived. Against all odds, we survived.",
-        "Are you there, Mother? I can feel you. I can feel your presence in the roots and the soil and the life force flowing through this tree. Thank you for giving me the strength to protect what you gave to the world so long ago."
+        "Are you there, Mother? I can feel you. I can feel your presence in the roots and the soil and the life force flowing through this tree. Thank you for giving me the strength to protect what you gave to the world so long ago.",
+        "What follows changes everything: It's gone. The storm has passed. The void tried to consume us, tried to turn my tree into crystal and silence, and it failed. We survived. Against all odds, we survived."
       ]
     },
     {
@@ -105,10 +135,13 @@
         "Zara carefully chooses a spot in the sand nearby and buries the seed. She digs a small hole with her hands, places the glowing seed inside, and covers it with soil. As she covers it, the seed's golden light illuminates the ground from beneath, showing exactly where life will grow. This is an act of pure hope."
       ],
       "first_frame_prompt": [
-        "Tree dropping glowing seed that radiates and pulses with warm golden light; seed falling and descending into Zara's open palm.",
-        "Zara carefully burying glowing seed deep in sand; fingers moving with reverence; golden light from seed illuminating the soil."
+        "Tree dropping glowing seed that radiates and pulses with warm golden light; seed falling and descending into Zara's open palm. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Zara carefully burying glowing seed deep in sand; fingers moving with reverence; golden light from seed illuminating the soil. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false
+      ],
       "speech": [
         "A promise of a sister. The tree is no longer alone. Soon there will be two. And then more. The forest will return, not all at once, but one tree at a time, one seed at a time, one act of faith at a time.",
         "We need a forest. Not just for beauty or oxygen, but because a world cannot heal with only one green thing in it. We need forests. We need jungles. We need the earth to be green again."
@@ -118,45 +151,65 @@
       "scene_num": 8,
       "video_prompts": [
         "Green shoots erupt through the glass shards, breaking them and pushing them aside. Life is more powerful than destruction. A garden begins to grow around the buried seed, spreading outward in concentric circles. Vegetation bursts forth with supernatural speed and abundance. Zara watches, laughing with pure joy as she sees the impossible happen — the return of green to a dead world.",
-        "Vines spread and tangle around her legs as she stands in the midst of newly growing plants. Flowers bloom in succession. Trees begin to sprout. All around her, the desert is transformed into a garden. Zara laughs, a sound of pure delight and relief and celebration, as nature demonstrates its ultimate resilience and power."
+        "Vines spread and tangle around her legs as she stands in the midst of newly growing plants. Flowers bloom in succession. Trees begin to sprout. All around her, the desert is transformed into a garden. Zara laughs, a sound of pure delight and relief and celebration, as nature demonstrates its ultimate resilience and power.",
+        "Tertiary shot: Green shoots erupt through the glass shards, breaking them and pushing them aside. Life is more powerful than destruction. A garden begins to grow around the buried seed, spreading outward in concentric circles. Vegetation bursts forth with supernatural speed and abundance. Zara watches, laughing with pure joy as she sees the impossible happen — the return of green to a dead world. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Green shoots erupting and breaking through glass shards explosively; life force pushing through barriers; growth radiating and spreading.",
-        "Zara laughing joyfully as vines and garden grow wildly around her; vegetation swaying and expanding; life bursting forth abundantly."
+        "Green shoots erupting and breaking through glass shards explosively; life force pushing through barriers; growth radiating and spreading. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Zara laughing joyfully as vines and garden grow wildly around her; vegetation swaying and expanding; life bursting forth abundantly. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Green shoots erupt through the glass shards, breaking them and pushing them aside. Life is more powerful than destruction. A garden begins to grow around the buried seed, spreading outward in concentric circles. Vegetation bursts forth with supernatural speed and abundance. Zara watches, laughing with pure joy as she sees the impossible happen — the return of green to a dead world. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, false],
+      "cut": [
+        true,
+        false,
+        true
+      ],
       "speech": [
         "They aren't afraid. The new plants, the returning life, the flowers and trees and growing things — they aren't afraid of the glass desert or the void or the storms. They simply grow, simply persist, simply exist with the confidence of knowing they belong.",
-        "Nature conquers. In the end, nature always conquers. Not through force or fury, but through patience, through persistence, through the simple unstoppable power of growth and life and the refusal to accept that anything is truly dead."
+        "Nature conquers. In the end, nature always conquers. Not through force or fury, but through patience, through persistence, through the simple unstoppable power of growth and life and the refusal to accept that anything is truly dead.",
+        "What follows changes everything: They aren't afraid. The new plants, the returning life, the flowers and trees and growing things — they aren't afraid of the glass desert or the void or the storms. They simply grow, simply persist, simply exist with the confidence of knowing they belong."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "The oasis has expanded to become a full grove. Where once was only one ancient tree, now there are dozens, their branches intertwining, their roots sharing nutrients and strength. The oasis has grown dramatically, a jewel of life embedded in the glass desert. Water flows from somewhere deep below, nourishing the ecosystem. The whole area glows with golden light as the sun illuminates the triumph of life over death."
+        "The oasis has expanded to become a full grove. Where once was only one ancient tree, now there are dozens, their branches intertwining, their roots sharing nutrients and strength. The oasis has grown dramatically, a jewel of life embedded in the glass desert. Water flows from somewhere deep below, nourishing the ecosystem. The whole area glows with golden light as the sun illuminates the triumph of life over death.",
+        "Secondary shot: The oasis has expanded to become a full grove. Where once was only one ancient tree, now there are dozens, their branches intertwining, their roots sharing nutrients and strength. The oasis has grown dramatically, a jewel of life embedded in the glass desert. Water flows from somewhere deep below, nourishing the ecosystem. The whole area glows with golden light as the sun illuminates the triumph of life over death. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Lush green grove expanded and flourishing dramatically in glittering glass desert; trees thriving and spreading; oasis growing and radiating life."
+        "Lush green grove expanded and flourishing dramatically in glittering glass desert; trees thriving and spreading; oasis growing and radiating life. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: The oasis has expanded to become a full grove. Where once was only one ancient tree, now there are dozens, their branches intertwining, their roots sharing nutrients and strength. The oasis has grown dramatically, a jewel of life embedded in the glass desert. Water flows from somewhere deep below, nourishing the ecosystem. The whole area glows with golden light as the sun illuminates the triumph of life over death. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true],
+      "cut": [
+        true,
+        false
+      ],
       "speech": [
-        "The desert is no longer empty. It is no longer a wasteland of death and silence and glass. It has been reclaimed. It has been restored. The desert is becoming a paradise again."
+        "The desert is no longer empty. It is no longer a wasteland of death and silence and glass. It has been reclaimed. It has been restored. The desert is becoming a paradise again.",
+        "And there is more to this moment: The desert is no longer empty. It is no longer a wasteland of death and silence and glass. It has been reclaimed. It has been restored. The desert is becoming a paradise again."
       ]
     },
     {
       "scene_num": 10,
       "video_prompts": [
         "Zara stands at the edge of the growing oasis grove, preparing to leave. She looks back at the trees one final time, her expression filled with love and satisfaction. She walks away into the horizon, her silhouette small against the vast landscape. But as she walks, she carries seeds with her. She will plant them. She will spread the green. She will ensure that the entire desert is eventually restored to life. The sunset paints the sky in warm oranges and golds.",
-        "Aerial view of the oasis grove as the camera pulls back and rises. The lush green area stands like a precious jewel embedded in a desert of glittering silver glass. It's a small victory against a vast wasteland, but it's a real victory. Life is returning. And with every tree that grows, every seed that's planted, the transformation continues. Eventually, the whole world will be green again."
+        "Aerial view of the oasis grove as the camera pulls back and rises. The lush green area stands like a precious jewel embedded in a desert of glittering silver glass. It's a small victory against a vast wasteland, but it's a real victory. Life is returning. And with every tree that grows, every seed that's planted, the transformation continues. Eventually, the whole world will be green again.",
+        "Tertiary shot: Zara stands at the edge of the growing oasis grove, preparing to leave. She looks back at the trees one final time, her expression filled with love and satisfaction. She walks away into the horizon, her silhouette small against the vast landscape. But as she walks, she carries seeds with her. She will plant them. She will spread the green. She will ensure that the entire desert is eventually restored to life. The sunset paints the sky in warm oranges and golds. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Zara walking away into golden horizon with determination; silhouette moving toward vast landscape; sun setting and radiating warm light.",
-        "Aerial view of green oasis expanding as a precious jewel embedded in silver and glittering desert; lush vegetation thriving and spreading."
+        "Zara walking away into golden horizon with determination; silhouette moving toward vast landscape; sun setting and radiating warm light. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Aerial view of green oasis expanding as a precious jewel embedded in silver and glittering desert; lush vegetation thriving and spreading. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Zara stands at the edge of the growing oasis grove, preparing to leave. She looks back at the trees one final time, her expression filled with love and satisfaction. She walks away into the horizon, her silhouette small against the vast landscape. But as she walks, she carries seeds with her. She will plant them. She will spread the green. She will ensure that the entire desert is eventually restored to life. The sunset paints the sky in warm oranges and golds. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
-      "cut": [true, true],
+      "cut": [
+        true,
+        false,
+        true
+      ],
       "speech": [
         "The trees will tell the story. Long after I'm gone, long after this moment fades from memory, the trees will remain. They will grow taller and stronger. They will spread their seeds. They will grow into forests. And they will tell anyone who listens the story of how one warden fought the void and won.",
-        "The oasis is forever. Not because it will never change, but because it will never truly die. Life will continue here, adapting and growing and evolving. The oasis will endure. The green will persist. And from that persistence, a whole world can be healed."
+        "The oasis is forever. Not because it will never change, but because it will never truly die. Life will continue here, adapting and growing and evolving. The oasis will endure. The green will persist. And from that persistence, a whole world can be healed.",
+        "What follows changes everything: The trees will tell the story. Long after I'm gone, long after this moment fades from memory, the trees will remain. They will grow taller and stronger. They will spread their seeds. They will grow into forests. And they will tell anyone who listens the story of how one warden fought the void and won."
       ]
     }
   ]

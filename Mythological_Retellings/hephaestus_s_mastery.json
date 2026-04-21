@@ -1,142 +1,190 @@
 {
   "story_name": "Hephaestus's Mastery: Crafting Worth from Rejection",
-  "character_description": "Hephaestus, craftsman-god with bronze skin scarred from celestial violence, luminous eyes reflecting both creative brilliance and deep sorrow, powerful build contrasting with limping gait. His deformity becomes source of wisdom\u2014in learning to work with limitations, he achieves transcendent mastery.",
+  "character_description": "Hephaestus, craftsman-god with bronze skin scarred from celestial violence, luminous eyes reflecting both creative brilliance and deep sorrow, powerful build contrasting with limping gait. His deformity becomes source of wisdom—in learning to work with limitations, he achieves transcendent mastery.",
   "setting": "Divine workshops, forges of power, and spaces where rejected beings create beauty",
   "theme": "Finding purpose and transcendent mastery through embracing limitations and rejection",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "Hephaestus thrown from Olympus by his own mother for being different\u2014physical rejection becoming existential wound."
+        "Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound.",
+        "Secondary shot: Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Hephaestus falls from Olympus, bronze skin burning from divine violence. Luminous eyes reflect profound hurt at rejection by mother\u2014she saw his difference and cast him out. His limping gait becomes permanent reminder of abandonment. Yet in falling, something shifts. The pain becomes teacher."
+        "Hephaestus falls from Olympus, bronze skin burning from divine violence. Luminous eyes reflect profound hurt at rejection by mother—she saw his difference and cast him out. His limping gait becomes permanent reminder of abandonment. Yet in falling, something shifts. The pain becomes teacher. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Rejected. Broken. Yet I still exist. Perhaps I can create meaning from this."
+        "Rejected. Broken. Yet I still exist. Perhaps I can create meaning from this.",
+        "And there is more to this moment: Rejected. Broken. Yet I still exist. Perhaps I can create meaning from this."
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Hephaestus thrown from Olympus by his own mother for being different\u2014physical rejection becoming existential wound."
+        "Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound.",
+        "Secondary shot: Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Hephaestus falls from Olympus, bronze skin burning from divine violence. Luminous eyes reflect profound hurt at rejection by mother\u2014she saw his difference and cast him out. His limping gait becomes permanent reminder of abandonment. Yet in falling, something shifts. The pain becomes teacher."
+        "Hephaestus falls from Olympus, bronze skin burning from divine violence. Luminous eyes reflect profound hurt at rejection by mother—she saw his difference and cast him out. His limping gait becomes permanent reminder of abandonment. Yet in falling, something shifts. The pain becomes teacher. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Hephaestus thrown from Olympus by his own mother for being different—physical rejection becoming existential wound. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "Rejected. Broken. Yet I still exist. Perhaps I can create meaning from this.",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: Rejected. Broken. Yet I still exist. Perhaps I can create meaning from this."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Hephaestus creates\u2014forging weapons, tools, and objects of transcendent beauty that change the world."
+        "Hephaestus creates—forging weapons, tools, and objects of transcendent beauty that change the world.",
+        "Secondary shot: Hephaestus creates—forging weapons, tools, and objects of transcendent beauty that change the world. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Hephaestus works obsessively, bronze skin bearing marks of creative effort. Luminous eyes perceive possibility in raw material. His creations are legendary\u2014not despite his rejection but because of it. He has learned that purpose comes not from belonging to Olympus but from creating meaning. His craft becomes language of transformation."
+        "Hephaestus works obsessively, bronze skin bearing marks of creative effort. Luminous eyes perceive possibility in raw material. His creations are legendary—not despite his rejection but because of it. He has learned that purpose comes not from belonging to Olympus but from creating meaning. His craft becomes language of transformation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus creates—forging weapons, tools, and objects of transcendent beauty that change the world. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I create for those who are rejected, broken, seeking meaning in limitation."
+        "I create for those who are rejected, broken, seeking meaning in limitation.",
+        "And there is more to this moment: I create for those who are rejected, broken, seeking meaning in limitation."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
-        "Hephaestus creates\u2014forging weapons, tools, and objects of transcendent beauty that change the world.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Hephaestus creates—forging weapons, tools, and objects of transcendent beauty that change the world.",
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Hephaestus creates—forging weapons, tools, and objects of transcendent beauty that change the world. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Hephaestus works obsessively, bronze skin bearing marks of creative effort. Luminous eyes perceive possibility in raw material. His creations are legendary\u2014not despite his rejection but because of it. He has learned that purpose comes not from belonging to Olympus but from creating meaning. His craft becomes language of transformation."
+        "Hephaestus works obsessively, bronze skin bearing marks of creative effort. Luminous eyes perceive possibility in raw material. His creations are legendary—not despite his rejection but because of it. He has learned that purpose comes not from belonging to Olympus but from creating meaning. His craft becomes language of transformation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Hephaestus creates—forging weapons, tools, and objects of transcendent beauty that change the world. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I create for those who are rejected, broken, seeking meaning in limitation."
+        "I create for those who are rejected, broken, seeking meaning in limitation.",
+        "And there is more to this moment: I create for those who are rejected, broken, seeking meaning in limitation.",
+        "What follows changes everything: I create for those who are rejected, broken, seeking meaning in limitation."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Hephaestus's creations become so valuable that even Olympus depends on them\u2014reversing dynamic of rejection.",
+        "Hephaestus's creations become so valuable that even Olympus depends on them—reversing dynamic of rejection.",
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Olympus increasingly depends on Hephaestus's creations. Bronze skin glows with quiet satisfaction as he perceives irony\u2014rejected because different, now indispensable. Luminous eyes hold no bitterness, only clarity. He has learned that worth is not granted by others' recognition but discovered through authentic work. His mastery transcends Olympus's approval."
+        "Olympus increasingly depends on Hephaestus's creations. Bronze skin glows with quiet satisfaction as he perceives irony—rejected because different, now indispensable. Luminous eyes hold no bitterness, only clarity. He has learned that worth is not granted by others' recognition but discovered through authentic work. His mastery transcends Olympus's approval. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "They rejected me. Now they need what I create. Yet I do not create for their approval."
+        "They rejected me. Now they need what I create. Yet I do not create for their approval.",
+        "And there is more to this moment: They rejected me. Now they need what I create. Yet I do not create for their approval."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Hephaestus's creations become so valuable that even Olympus depends on them\u2014reversing dynamic of rejection."
+        "Hephaestus's creations become so valuable that even Olympus depends on them—reversing dynamic of rejection.",
+        "Secondary shot: Hephaestus's creations become so valuable that even Olympus depends on them—reversing dynamic of rejection. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Hephaestus's creations become so valuable that even Olympus depends on them—reversing dynamic of rejection. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Olympus increasingly depends on Hephaestus's creations. Bronze skin glows with quiet satisfaction as he perceives irony\u2014rejected because different, now indispensable. Luminous eyes hold no bitterness, only clarity. He has learned that worth is not granted by others' recognition but discovered through authentic work. His mastery transcends Olympus's approval."
+        "Olympus increasingly depends on Hephaestus's creations. Bronze skin glows with quiet satisfaction as he perceives irony—rejected because different, now indispensable. Luminous eyes hold no bitterness, only clarity. He has learned that worth is not granted by others' recognition but discovered through authentic work. His mastery transcends Olympus's approval. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus's creations become so valuable that even Olympus depends on them—reversing dynamic of rejection. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Hephaestus's creations become so valuable that even Olympus depends on them—reversing dynamic of rejection. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "They rejected me. Now they need what I create. Yet I do not create for their approval."
+        "They rejected me. Now they need what I create. Yet I do not create for their approval.",
+        "And there is more to this moment: They rejected me. Now they need what I create. Yet I do not create for their approval.",
+        "What follows changes everything: They rejected me. Now they need what I create. Yet I do not create for their approval."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation."
+        "Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation.",
+        "Secondary shot: Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Hephaestus works with young beings learning craft. Bronze skin bears marks of years of creation. Luminous eyes recognize each apprentice's unique potential. He teaches that mastery requires embracing limitation, not transcending it. He becomes teacher of how to transform rejection into purpose. His workshop becomes school of transcendence through craft."
+        "Hephaestus works with young beings learning craft. Bronze skin bears marks of years of creation. Luminous eyes recognize each apprentice's unique potential. He teaches that mastery requires embracing limitation, not transcending it. He becomes teacher of how to transform rejection into purpose. His workshop becomes school of transcendence through craft. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Mastery is not gift\u2014it is earned through daily dedicated work within your specific limitations."
+        "Mastery is not gift—it is earned through daily dedicated work within your specific limitations.",
+        "And there is more to this moment: Mastery is not gift—it is earned through daily dedicated work within your specific limitations."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation."
+        "Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation.",
+        "Secondary shot: Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Hephaestus works with young beings learning craft. Bronze skin bears marks of years of creation. Luminous eyes recognize each apprentice's unique potential. He teaches that mastery requires embracing limitation, not transcending it. He becomes teacher of how to transform rejection into purpose. His workshop becomes school of transcendence through craft."
+        "Hephaestus works with young beings learning craft. Bronze skin bears marks of years of creation. Luminous eyes recognize each apprentice's unique potential. He teaches that mastery requires embracing limitation, not transcending it. He becomes teacher of how to transform rejection into purpose. His workshop becomes school of transcendence through craft. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Hephaestus teaches that mastery comes not from inherited power but from dedicated practice within limitation. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Mastery is not gift\u2014it is earned through daily dedicated work within your specific limitations."
+        "Mastery is not gift—it is earned through daily dedicated work within your specific limitations.",
+        "And there is more to this moment: Mastery is not gift—it is earned through daily dedicated work within your specific limitations.",
+        "What follows changes everything: Mastery is not gift—it is earned through daily dedicated work within your specific limitations."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Hephaestus eventually reconciles with Olympus\u2014not by proving worth but by accepting his own worth independent of their recognition."
+        "Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition.",
+        "Secondary shot: Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Olympus eventually recognizes Hephaestus's value, but he greets this recognition with equanimity. Bronze skin no longer burns with need for approval. Luminous eyes hold peace earned through authentic work. He teaches that reconciliation is possible, but worth is not contingent on it. He has learned to value himself."
+        "Olympus eventually recognizes Hephaestus's value, but he greets this recognition with equanimity. Bronze skin no longer burns with need for approval. Luminous eyes hold peace earned through authentic work. He teaches that reconciliation is possible, but worth is not contingent on it. He has learned to value himself. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
         "Your recognition no longer determines my worth. I have already proven it to myself.",
@@ -146,19 +194,28 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Hephaestus eventually reconciles with Olympus\u2014not by proving worth but by accepting his own worth independent of their recognition."
+        "Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition.",
+        "Secondary shot: Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Olympus eventually recognizes Hephaestus's value, but he greets this recognition with equanimity. Bronze skin no longer burns with need for approval. Luminous eyes hold peace earned through authentic work. He teaches that reconciliation is possible, but worth is not contingent on it. He has learned to value himself."
+        "Olympus eventually recognizes Hephaestus's value, but he greets this recognition with equanimity. Bronze skin no longer burns with need for approval. Luminous eyes hold peace earned through authentic work. He teaches that reconciliation is possible, but worth is not contingent on it. He has learned to value himself. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Hephaestus eventually reconciles with Olympus—not by proving worth but by accepting his own worth independent of their recognition. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Your recognition no longer determines my worth. I have already proven it to myself."
+        "Your recognition no longer determines my worth. I have already proven it to myself.",
+        "And there is more to this moment: Your recognition no longer determines my worth. I have already proven it to myself.",
+        "What follows changes everything: Your recognition no longer determines my worth. I have already proven it to myself."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Hephaestus's Mastery: Crafting Worth from Rejection explores Finding purpose and transcendent mastery through embracing limitations and rejection, set in Divine workshops, forges of power, and spaces where rejected beings create beauty."
 }

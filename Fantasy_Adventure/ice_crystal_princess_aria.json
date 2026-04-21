@@ -1,5 +1,6 @@
 {
   "story_name": "The Ice Crystal Princess's Choice",
+  "story_overview": "Aria embarks on a transformative journey discovering choosing to feel despite the pain.",
   "character_description": "Aria, an ethereal anime princess with ice-blue hair that flows like frozen water, pale complexion, wearing an elegant gown of crystalline ice and silver. Her eyes are deep blue with silver flecks. She has a composed royal bearing but carries hidden warmth beneath her icy exterior.",
   "setting": "The Frozen Citadel, a kingdom of eternal winter where emotions are frozen as literally as the landscape",
   "theme": "Choosing to feel despite the pain",
@@ -7,151 +8,211 @@
     {
       "scene_num": 1,
       "video_prompts": [
-        "Establishing shot of the Frozen Citadel gleaming under perpetual twilight, every surface covered in ice crystals that refract pale light. Aria stands on the highest tower, her form silhouetted against the frozen landscape."
+        "Establishing shot of the Frozen Citadel gleaming under perpetual twilight, every surface covered in ice crystals that refract pale light. Aria stands on the highest tower, her form silhouetted against the frozen landscape.",
+        "Crystalline structures shimmer and refract light. Establishing shot of the Frozen Citadel gleaming under perpetual twilight, every surface covered in ... Ice formations glowing and spreading."
       ],
       "first_frame_prompt": [
-        "Aria stands upon the highest frozen tower of her crystalline kingdom, her ice-blue hair cascading down her back like frozen waterfalls. Her elaborate gown of living ice glimmers with internal light, reflecting the pale sun. Below her, the Frozen Citadel stretches endlessly\u2014perfect geometric formations of ice and crystal, beautiful but utterly without life or color. Snowflakes drift in slow, deliberate patterns around her, as if obeying invisible laws. Her expression is serene and untouchable, her silver-flecked eyes reflecting the frozen landscape without warmth or emotion. Everything about her radiates control and perfection."
+        "Aria stands upon the highest frozen tower of her crystalline kingdom, her ice-blue hair cascading down her back like frozen waterfalls. Her elaborate gown of living ice glimmers with internal light, reflecting the pale sun. Below her, the Frozen Citadel stretches endlessly—perfect geometric formations of ice and crystal, beautiful but utterly without life or color. Snowflakes drift in slow, deliberate patterns around her, as if obeying invisible laws. Her expression is serene and untouchable, her silver-flecked eyes reflecting the frozen landscape without warmth or emotion. Everything about her radiates control and perfection. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Aria stands upon the highest frozen tower of her crystalline kingdom, her ice-bl... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Perfection is achievable only through the absence of feeling. My kingdom is perfect because we have transcended the messy chaos of emotion. We are crystalline, eternal, unchanging. This is the ideal."
+        "Perfection is achievable only through the absence of feeling. My kingdom is perfect because we have transcended the messy chaos of emotion. We are crystalline, eternal, unchanging. This is the ideal.",
+        "[Internal reflection on the moment and its significance to the journey]"
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Aria observes the crystalline council chamber from above as rigid subjects sit in perfect symmetry, all wearing expressions of identical neutrality. Camera shows the oppressive order."
+        "Aria observes the crystalline council chamber from above as rigid subjects sit in perfect symmetry, all wearing expressions of identical neutrality. Camera shows the oppressive order.",
+        "Crystalline structures shimmer and refract light. Aria observes the crystalline council chamber from above as rigid subjects sit in perfect symmetry, ... Ice formations glowing and spreading.",
+        "Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation."
       ],
       "first_frame_prompt": [
-        "In the council chambers of crystalline coral, Aria's expression shows the first glimmer of something\u2014curiosity? Confusion?\u2014in her frozen gaze. She extends her hand toward the plant, and where her touch might freeze anything else, the plant seems to respond with warmth."
+        "In the council chambers of crystalline coral, Aria's expression shows the first glimmer of something—curiosity? Confusion?—in her frozen gaze. She extends her hand toward the plant, and where her touch might freeze anything else, the plant seems to respond with warmth. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "In the council chambers of crystalline coral, Aria's expression shows the first ... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close dramatic frame: Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Today we ensure the stability of our kingdom. Emotional outburst in Sector Seven has been contained. The affected citizens have been restored to crystalline perfection. Order is maintained. Perfection prevails."
+        "Today we ensure the stability of our kingdom. Emotional outburst in Sector Seven has been contained. The affected citizens have been restored to crystalline perfection. Order is maintained. Perfection prevails.",
+        "[Internal reflection on the moment and its significance to the journey]",
+        "[Emotional insight revealing character growth and understanding of Choosing to feel despite the pain]"
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "A traveling anime merchant arrives at the citadel gates, carrying a small potted plant\u2014the first sign of life in the kingdom in decades. Camera captures Aria's first moment of confused reaction."
+        "A traveling anime merchant arrives at the citadel gates, carrying a small potted plant—the first sign of life in the kingdom in decades. Camera captures Aria's first moment of confused reaction.",
+        "Crystalline structures shimmer and refract light. A traveling anime merchant arrives at the citadel gates, carrying a small potted plant—the first sig... Ice formations glowing and spreading."
       ],
       "first_frame_prompt": [
-        "A traveling merchant stands at the frozen gates, holding something impossible\u2014a small potted plant with actual green leaves that move and shift with life. Aria's composed expression fractures slightly, uncertainty crossing her face for the first time. The plant's vibrant green stands in stark contrast to the blue and white of her kingdom. She reaches out tentatively, and where her touch might freeze anything else, the plant seems to respond with warmth. Her ice-blue eyes waver between her carefully maintained indifference and something deeper stirring\u2014something that might be wonder, might be fear."
+        "A traveling merchant stands at the frozen gates, holding something impossible—a small potted plant with actual green leaves that move and shift with life. Aria's composed expression fractures slightly, uncertainty crossing her face for the first time. The plant's vibrant green stands in stark contrast to the blue and white of her kingdom. She reaches out tentatively, and where her touch might freeze anything else, the plant seems to respond with warmth. Her ice-blue eyes waver between her carefully maintained indifference and something deeper stirring—something that might be wonder, might be fear. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "A traveling merchant stands at the frozen gates, holding something impossible—a ... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "What is this? This... organic chaos. It's not controlled. It's not perfect. And yet... it calls to me in ways I don't understand. Is this what feeling is? Is this what I've been taught to suppress?"
+        "What is this? This... organic chaos. It's not controlled. It's not perfect. And yet... it calls to me in ways I don't understand. Is this what feeling is? Is this what I've been taught to suppress?",
+        "[Internal reflection on the moment and its significance to the journey]"
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
-        "Montage of Aria secretly caring for the plant in her private chambers. Camera shows her learning about growth, change, imperfection."
+        "Montage of Aria secretly caring for the plant in her private chambers. Camera shows her learning about growth, change, imperfection.",
+        "Crystalline structures shimmer and refract light. Montage of Aria secretly caring for the plant in her private chambers. Camera shows her learning abo... Ice formations glowing and spreading.",
+        "Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation."
       ],
       "first_frame_prompt": [
-        "In the privacy of her chambers, Aria tends to the plant with growing care and attention. Her crystalline composure begins to soften, and small movements of emotion cross her face. Tears form at her eyes\u2014literally tears that almost freeze before dripping\u2014as she experiences emotion for the first time in her carefully controlled life. Her gown begins to change, less pure ice and more shimmering blue silk with crystalline accents. Around her, the frozen perfection of her chamber begins to crack\u2014not destructively, but to reveal warmth beneath."
+        "In the privacy of her chambers, Aria tends to the plant with growing care and attention. Her crystalline composure begins to soften, and small movements of emotion cross her face. Tears form at her eyes—literally tears that almost freeze before dripping—as she experiences emotion for the first time in her carefully controlled life. Her gown begins to change, less pure ice and more shimmering blue silk with crystalline accents. Around her, the frozen perfection of her chamber begins to crack—not destructively, but to reveal warmth beneath. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "In the privacy of her chambers, Aria tends to the plant with growing care and at... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close dramatic frame: Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I'm breaking. Everything I was taught about perfection is breaking apart like thin ice, and instead of terror, I feel... alive. The cracks are where the light gets through. How did I not see this before?"
+        "I'm breaking. Everything I was taught about perfection is breaking apart like thin ice, and instead of terror, I feel... alive. The cracks are where the light gets through. How did I not see this before?",
+        "[Internal reflection on the moment and its significance to the journey]",
+        "[Emotional insight revealing character growth and understanding of Choosing to feel despite the pain]"
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "The council notices Aria's changes and summons her. Camera shows her standing before them, her transformed appearance evident to all."
+        "The council notices Aria's changes and summons her. Camera shows her standing before them, her transformed appearance evident to all.",
+        "Crystalline structures shimmer and refract light. The council notices Aria's changes and summons her. Camera shows her standing before them, her trans... Ice formations glowing and spreading."
       ],
       "first_frame_prompt": [
-        "Aria stands before the crystalline council, and her transformation is undeniable. Her gown now flows with actual fabric and warmth, her ice-blue hair retains its beauty but no longer radiates cold numbness. Color has returned to her cheeks, and her eyes\u2014while still blue\u2014now gleam with tears, passion, and genuine life. Her expression is no longer perfectly composed but alive with feeling. The council members observe with expressions of profound disturbance, as if she has broken the fundamental law of their kingdom. Her voice, when she speaks, carries emotion and power."
+        "Aria stands before the crystalline council, and her transformation is undeniable. Her gown now flows with actual fabric and warmth, her ice-blue hair retains its beauty but no longer radiates cold numbness. Color has returned to her cheeks, and her eyes—while still blue—now gleam with tears, passion, and genuine life. Her expression is no longer perfectly composed but alive with feeling. The council members observe with expressions of profound disturbance, as if she has broken the fundamental law of their kingdom. Her voice, when she speaks, carries emotion and power. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Aria stands before the crystalline council, and her transformation is undeniable... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I choose feeling over perfection. I choose growth over stasis. I choose to be alive, even if that means I'm no longer crystalline, no longer perfect in your frozen image of ideal."
+        "I choose feeling over perfection. I choose growth over stasis. I choose to be alive, even if that means I'm no longer crystalline, no longer perfect in your frozen image of ideal.",
+        "[Internal reflection on the moment and its significance to the journey]"
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "The council attempts to restore her to crystalline perfection. Camera shows energy waves of freezing cold aimed at Aria."
+        "The council attempts to restore her to crystalline perfection. Camera shows energy waves of freezing cold aimed at Aria.",
+        "Crystalline structures shimmer and refract light. The council attempts to restore her to crystalline perfection. Camera shows energy waves of freezing... Ice formations glowing and spreading.",
+        "Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation."
       ],
       "first_frame_prompt": [
-        "Waves of absolute cold energy surge from the council toward Aria, attempting to re-freeze her, to restore her to crystalline perfection. But she stands firm, and from within her radiates genuine warmth\u2014warmth born from feeling, from choice, from life. The collision creates a spectacular burst of light and power as ice and warmth meet in the frozen throne hall. Her gown billows around her with color and movement, the plant in her hands glowing with life. The very air between her and the council shimmers with the intensity of this fundamental conflict."
+        "Waves of absolute cold energy surge from the council toward Aria, attempting to re-freeze her, to restore her to crystalline perfection. But she stands firm, and from within her radiates genuine warmth—warmth born from feeling, from choice, from life. The collision creates a spectacular burst of light and power as ice and warmth meet in the frozen throne hall. Her gown billows around her with color and movement, the plant in her hands glowing with life. The very air between her and the council shimmers with the intensity of this fundamental conflict. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Waves of absolute cold energy surge from the council toward Aria, attempting to ... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close dramatic frame: Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "You tried to freeze my heart, but you only froze it because I hadn't learned to live in it yet. Now I do. And my warmth will melt your perfect, horrible kingdom."
+        "You tried to freeze my heart, but you only froze it because I hadn't learned to live in it yet. Now I do. And my warmth will melt your perfect, horrible kingdom.",
+        "[Internal reflection on the moment and its significance to the journey]",
+        "[Emotional insight revealing character growth and understanding of Choosing to feel despite the pain]"
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "The Frozen Citadel begins to thaw. Camera captures the transformation\u2014ice melting, color returning, life awakening."
+        "The Frozen Citadel begins to thaw. Camera captures the transformation—ice melting, color returning, life awakening.",
+        "Crystalline structures shimmer and refract light. The Frozen Citadel begins to thaw. Camera captures the transformation—ice melting, color returning, ... Ice formations glowing and spreading."
       ],
       "first_frame_prompt": [
-        "The Frozen Citadel is awakening. Where perfect ice structures stood, green and color emerge. Water flows for the first time, creating streams and gentle waterfalls. The citizens, released from their crystalline perfection, experience emotion and movement. Their faces show confusion gradually transforming to joy, relief, liberation."
+        "The Frozen Citadel is awakening. Where perfect ice structures stood, green and color emerge. Water flows for the first time, creating streams and gentle waterfalls. The citizens, released from their crystalline perfection, experience emotion and movement. Their faces show confusion gradually transforming to joy, relief, liberation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "The Frozen Citadel is awakening. Where perfect ice structures stood, green and c... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I can feel them awakening\u2014feeling pain, joy, confusion, hope. Yes, it's chaotic. Yes, it's imperfect. And it's the most beautiful thing this kingdom has ever known."
+        "I can feel them awakening—feeling pain, joy, confusion, hope. Yes, it's chaotic. Yes, it's imperfect. And it's the most beautiful thing this kingdom has ever known.",
+        "[Internal reflection on the moment and its significance to the journey]"
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Days pass as the kingdom adjusts to its new reality. Camera shows the former council members learning to feel again, their transformation difficult but genuine."
+        "Days pass as the kingdom adjusts to its new reality. Camera shows the former council members learning to feel again, their transformation difficult but genuine.",
+        "Crystalline structures shimmer and refract light. Days pass as the kingdom adjusts to its new reality. Camera shows the former council members learnin... Ice formations glowing and spreading.",
+        "Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation."
       ],
       "first_frame_prompt": [
-        "The kingdom is learning to live in its new state\u2014chaos tempered with the beauty of its former crystalline perfection. Aria walks among her citizens, no longer a distant frozen princess but a true leader. Her gown now blends ice and warmth, crystal and silk, perfection and feeling."
+        "The kingdom is learning to live in its new state—chaos tempered with the beauty of its former crystalline perfection. Aria walks among her citizens, no longer a distant frozen princess but a true leader. Her gown now blends ice and warmth, crystal and silk, perfection and feeling. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "The kingdom is learning to live in its new state—chaos tempered with the beauty ... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close dramatic frame: Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "We were taught that feeling was weakness, but I'm learning it's the foundation of strength. Our kingdom will not return to frozen perfection, but we'll build something better\u2014something that honors both our crystalline heritage and our newfound hearts."
+        "We were taught that feeling was weakness, but I'm learning it's the foundation of strength. Our kingdom will not return to frozen perfection, but we'll build something better—something that honors both our crystalline heritage and our newfound hearts.",
+        "[Internal reflection on the moment and its significance to the journey]",
+        "[Emotional insight revealing character growth and understanding of Choosing to feel despite the pain]"
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "A new visitor arrives at the kingdom\u2014other travelers seeking refuge from the harsh world outside. Aria welcomes them with genuine warmth."
+        "A new visitor arrives at the kingdom—other travelers seeking refuge from the harsh world outside. Aria welcomes them with genuine warmth.",
+        "Crystalline structures shimmer and refract light. A new visitor arrives at the kingdom—other travelers seeking refuge from the harsh world outside. Ar... Ice formations glowing and spreading."
       ],
       "first_frame_prompt": [
-        "Aria stands at the gates of her kingdom welcoming new arrivals\u2014travelers seeking warmth and refuge. Her face radiates genuine compassion, her ice-blue eyes showing depth and feeling. The kingdom behind her blooms with both structured beauty and wild natural growth. She extends her hand in genuine welcome."
+        "Aria stands at the gates of her kingdom welcoming new arrivals—travelers seeking warmth and refuge. Her face radiates genuine compassion, her ice-blue eyes showing depth and feeling. The kingdom behind her blooms with both structured beauty and wild natural growth. She extends her hand in genuine welcome. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Aria stands at the gates of her kingdom welcoming new arrivals—travelers seeking... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Once, I would have frozen you in crystalline perfection. Now I offer you what the Frozen Citadel never could\u2014a place where you can feel, grow, and become truly alive."
+        "Once, I would have frozen you in crystalline perfection. Now I offer you what the Frozen Citadel never could—a place where you can feel, grow, and become truly alive.",
+        "[Internal reflection on the moment and its significance to the journey]"
       ]
     },
     {
       "scene_num": 10,
       "video_prompts": [
-        "Final scene of Aria in her transformed throne room\u2014still beautiful, still reflecting the kingdom's crystalline heritage, but now vibrant and alive."
+        "Final scene of Aria in her transformed throne room—still beautiful, still reflecting the kingdom's crystalline heritage, but now vibrant and alive.",
+        "Crystalline structures shimmer and refract light. Final scene of Aria in her transformed throne room—still beautiful, still reflecting the kingdom's c... Ice formations glowing and spreading.",
+        "Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation."
       ],
       "first_frame_prompt": [
-        "Aria sits upon her throne in a throne room that honors both her kingdom's crystalline heritage and its newfound warmth. The room glows with internal light\u2014part ice, part living magic, part genuine emotion. Her expression shows the full complexity of having learned to feel\u2014joy, sadness, hope, loss, all genuine and present. Stars shine above her kingdom, and for the first time, they shine on a realm that lives rather than merely exists."
+        "Aria sits upon her throne in a throne room that honors both her kingdom's crystalline heritage and its newfound warmth. The room glows with internal light—part ice, part living magic, part genuine emotion. Her expression shows the full complexity of having learned to feel—joy, sadness, hope, loss, all genuine and present. Stars shine above her kingdom, and for the first time, they shine on a realm that lives rather than merely exists. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Aria sits upon her throne in a throne room that honors both her kingdom's crysta... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close dramatic frame: Camera slowly zooms focusing on emotional depth. The scene captures both action and inner transformation. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I once thought perfection meant the absence of feeling. Now I understand that true perfection is feeling deeply, loving genuinely, and choosing connection over isolation. My kingdom will never be perfectly frozen again, and that is our greatest accomplishment."
+        "I once thought perfection meant the absence of feeling. Now I understand that true perfection is feeling deeply, loving genuinely, and choosing connection over isolation. My kingdom will never be perfectly frozen again, and that is our greatest accomplishment.",
+        "[Internal reflection on the moment and its significance to the journey]",
+        "[Emotional insight revealing character growth and understanding of Choosing to feel despite the pain]"
       ]
     }
   ]

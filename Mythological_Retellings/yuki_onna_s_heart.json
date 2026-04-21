@@ -1,142 +1,190 @@
 {
   "story_name": "Yuki-onna's Heart: Warmth in the Snow",
-  "character_description": "Yuki-onna, snow spirit with translucent white skin that catches and refracts light like ice crystal, long black hair that floats as if in water, eyes like winter sky\u2014pale and vast and cold. She wears flowing white kimono that merges with snowdrifts. Her presence brings both deadly cold and strange peace.",
+  "character_description": "Yuki-onna, snow spirit with translucent white skin that catches and refracts light like ice crystal, long black hair that floats as if in water, eyes like winter sky—pale and vast and cold. She wears flowing white kimono that merges with snowdrifts. Her presence brings both deadly cold and strange peace.",
   "setting": "Japanese winter mountains, frozen valleys, and liminal spaces where warmth and cold meet",
   "theme": "Learning that isolation is not safety, and that opening to connection transcends transformation",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "Yuki-onna manifests in snow, beautiful and deadly\u2014luring travelers into winter's fatal embrace."
+        "Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace.",
+        "Secondary shot: Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Yuki-onna emerges from snowdrift, translucent white skin refracting light into infinite colors. Black hair floats around her as if underwater. Winter-sky eyes glow with cold beauty that captivates and paralyzes. Her white kimono merges with snow itself. She is snow made conscious\u2014beautiful, deadly, eternally isolated. Travelers drawn to her cannot resist her cold embrace."
+        "Yuki-onna emerges from snowdrift, translucent white skin refracting light into infinite colors. Black hair floats around her as if underwater. Winter-sky eyes glow with cold beauty that captivates and paralyzes. Her white kimono merges with snow itself. She is snow made conscious—beautiful, deadly, eternally isolated. Travelers drawn to her cannot resist her cold embrace. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I am the cold that calls all living things to stillness and silence."
+        "I am the cold that calls all living things to stillness and silence.",
+        "And there is more to this moment: I am the cold that calls all living things to stillness and silence."
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Yuki-onna manifests in snow, beautiful and deadly\u2014luring travelers into winter's fatal embrace."
+        "Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace.",
+        "Secondary shot: Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Yuki-onna emerges from snowdrift, translucent white skin refracting light into infinite colors. Black hair floats around her as if underwater. Winter-sky eyes glow with cold beauty that captivates and paralyzes. Her white kimono merges with snow itself. She is snow made conscious\u2014beautiful, deadly, eternally isolated. Travelers drawn to her cannot resist her cold embrace."
+        "Yuki-onna emerges from snowdrift, translucent white skin refracting light into infinite colors. Black hair floats around her as if underwater. Winter-sky eyes glow with cold beauty that captivates and paralyzes. Her white kimono merges with snow itself. She is snow made conscious—beautiful, deadly, eternally isolated. Travelers drawn to her cannot resist her cold embrace. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Yuki-onna manifests in snow, beautiful and deadly—luring travelers into winter's fatal embrace. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "I am the cold that calls all living things to stillness and silence.",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: I am the cold that calls all living things to stillness and silence."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Traveler and Yuki-onna forge unprecedented connection\u2014warmth and cold learning to coexist without destroying each other."
+        "Traveler and Yuki-onna forge unprecedented connection—warmth and cold learning to coexist without destroying each other.",
+        "Secondary shot: Traveler and Yuki-onna forge unprecedented connection—warmth and cold learning to coexist without destroying each other. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Traveler shares fire with Yuki-onna, impossible exchange occurring. Her translucent white skin doesn't melt\u2014instead glows with reflected firelight. Black hair catches warmth. Winter-sky eyes begin to reflect something beyond cold\u2014curiosity, longing. She experiences connection without losing herself. Two opposite natures find balance."
+        "Traveler shares fire with Yuki-onna, impossible exchange occurring. Her translucent white skin doesn't melt—instead glows with reflected firelight. Black hair catches warmth. Winter-sky eyes begin to reflect something beyond cold—curiosity, longing. She experiences connection without losing herself. Two opposite natures find balance. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Traveler and Yuki-onna forge unprecedented connection—warmth and cold learning to coexist without destroying each other. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "This warmth does not destroy my nature. It illuminates what I am."
+        "This warmth does not destroy my nature. It illuminates what I am.",
+        "And there is more to this moment: This warmth does not destroy my nature. It illuminates what I am."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
-        "Traveler and Yuki-onna forge unprecedented connection\u2014warmth and cold learning to coexist without destroying each other.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Traveler and Yuki-onna forge unprecedented connection—warmth and cold learning to coexist without destroying each other.",
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Traveler and Yuki-onna forge unprecedented connection—warmth and cold learning to coexist without destroying each other. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Traveler shares fire with Yuki-onna, impossible exchange occurring. Her translucent white skin doesn't melt\u2014instead glows with reflected firelight. Black hair catches warmth. Winter-sky eyes begin to reflect something beyond cold\u2014curiosity, longing. She experiences connection without losing herself. Two opposite natures find balance."
+        "Traveler shares fire with Yuki-onna, impossible exchange occurring. Her translucent white skin doesn't melt—instead glows with reflected firelight. Black hair catches warmth. Winter-sky eyes begin to reflect something beyond cold—curiosity, longing. She experiences connection without losing herself. Two opposite natures find balance. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Traveler and Yuki-onna forge unprecedented connection—warmth and cold learning to coexist without destroying each other. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "This warmth does not destroy my nature. It illuminates what I am."
+        "This warmth does not destroy my nature. It illuminates what I am.",
+        "And there is more to this moment: This warmth does not destroy my nature. It illuminates what I am.",
+        "What follows changes everything: This warmth does not destroy my nature. It illuminates what I am."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Yuki-onna begins transformation\u2014choosing relationship over isolation, warmth over cold supremacy.",
+        "Yuki-onna begins transformation—choosing relationship over isolation, warmth over cold supremacy.",
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Yuki-onna makes conscious choice to remain connected. Translucent white skin becomes warmer, still crystalline but less alien. Black hair settles into more human arrangement. Winter-sky eyes begin to reflect light of connection rather than cold emptiness. Her white kimono seems to belong to someone rather than representing absence."
+        "Yuki-onna makes conscious choice to remain connected. Translucent white skin becomes warmer, still crystalline but less alien. Black hair settles into more human arrangement. Winter-sky eyes begin to reflect light of connection rather than cold emptiness. Her white kimono seems to belong to someone rather than representing absence. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I choose to remain. I choose connection over isolation."
+        "I choose to remain. I choose connection over isolation.",
+        "And there is more to this moment: I choose to remain. I choose connection over isolation."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Yuki-onna begins transformation\u2014choosing relationship over isolation, warmth over cold supremacy."
+        "Yuki-onna begins transformation—choosing relationship over isolation, warmth over cold supremacy.",
+        "Secondary shot: Yuki-onna begins transformation—choosing relationship over isolation, warmth over cold supremacy. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Yuki-onna begins transformation—choosing relationship over isolation, warmth over cold supremacy. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Yuki-onna makes conscious choice to remain connected. Translucent white skin becomes warmer, still crystalline but less alien. Black hair settles into more human arrangement. Winter-sky eyes begin to reflect light of connection rather than cold emptiness. Her white kimono seems to belong to someone rather than representing absence."
+        "Yuki-onna makes conscious choice to remain connected. Translucent white skin becomes warmer, still crystalline but less alien. Black hair settles into more human arrangement. Winter-sky eyes begin to reflect light of connection rather than cold emptiness. Her white kimono seems to belong to someone rather than representing absence. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Yuki-onna begins transformation—choosing relationship over isolation, warmth over cold supremacy. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Yuki-onna begins transformation—choosing relationship over isolation, warmth over cold supremacy. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I choose to remain. I choose connection over isolation."
+        "I choose to remain. I choose connection over isolation.",
+        "And there is more to this moment: I choose to remain. I choose connection over isolation.",
+        "What follows changes everything: I choose to remain. I choose connection over isolation."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Yuki-onna helps other snow spirits understand that connection is not death but transformation."
+        "Yuki-onna helps other snow spirits understand that connection is not death but transformation.",
+        "Secondary shot: Yuki-onna helps other snow spirits understand that connection is not death but transformation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Yuki-onna returns to mountains, helping other snow spirits learn what she discovered. Translucent white skin glows with warmth spreading beyond herself. Black hair seems to dance with joy. Winter-sky eyes perceive each snow spirit's hidden longing for connection. She teaches radical truth: isolation is not strength\u2014it is prison."
+        "Yuki-onna returns to mountains, helping other snow spirits learn what she discovered. Translucent white skin glows with warmth spreading beyond herself. Black hair seems to dance with joy. Winter-sky eyes perceive each snow spirit's hidden longing for connection. She teaches radical truth: isolation is not strength—it is prison. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Yuki-onna helps other snow spirits understand that connection is not death but transformation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Warmth does not destroy our nature. It allows us to become fully ourselves."
+        "Warmth does not destroy our nature. It allows us to become fully ourselves.",
+        "And there is more to this moment: Warmth does not destroy our nature. It allows us to become fully ourselves."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Yuki-onna helps other snow spirits understand that connection is not death but transformation."
+        "Yuki-onna helps other snow spirits understand that connection is not death but transformation.",
+        "Secondary shot: Yuki-onna helps other snow spirits understand that connection is not death but transformation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Yuki-onna helps other snow spirits understand that connection is not death but transformation. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Yuki-onna returns to mountains, helping other snow spirits learn what she discovered. Translucent white skin glows with warmth spreading beyond herself. Black hair seems to dance with joy. Winter-sky eyes perceive each snow spirit's hidden longing for connection. She teaches radical truth: isolation is not strength\u2014it is prison."
+        "Yuki-onna returns to mountains, helping other snow spirits learn what she discovered. Translucent white skin glows with warmth spreading beyond herself. Black hair seems to dance with joy. Winter-sky eyes perceive each snow spirit's hidden longing for connection. She teaches radical truth: isolation is not strength—it is prison. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Yuki-onna helps other snow spirits understand that connection is not death but transformation. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Yuki-onna helps other snow spirits understand that connection is not death but transformation. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Warmth does not destroy our nature. It allows us to become fully ourselves."
+        "Warmth does not destroy our nature. It allows us to become fully ourselves.",
+        "And there is more to this moment: Warmth does not destroy our nature. It allows us to become fully ourselves.",
+        "What follows changes everything: Warmth does not destroy our nature. It allows us to become fully ourselves."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Years pass\u2014Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated."
+        "Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated.",
+        "Secondary shot: Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Yuki-onna moves through seasons with grace earned through commitment to connection. Translucent white skin seems to glow with joy. Black hair flows freely. Winter-sky eyes hold warmth earned through relationship. She has transformed from deadly beauty to integrated being\u2014still powerful, still uniquely herself, yet no longer isolated."
+        "Yuki-onna moves through seasons with grace earned through commitment to connection. Translucent white skin seems to glow with joy. Black hair flows freely. Winter-sky eyes hold warmth earned through relationship. She has transformed from deadly beauty to integrated being—still powerful, still uniquely herself, yet no longer isolated. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
         "I was beautiful in my isolation. But I am alive in my connection.",
@@ -146,19 +194,28 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Years pass\u2014Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated."
+        "Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated.",
+        "Secondary shot: Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Yuki-onna moves through seasons with grace earned through commitment to connection. Translucent white skin seems to glow with joy. Black hair flows freely. Winter-sky eyes hold warmth earned through relationship. She has transformed from deadly beauty to integrated being\u2014still powerful, still uniquely herself, yet no longer isolated."
+        "Yuki-onna moves through seasons with grace earned through commitment to connection. Translucent white skin seems to glow with joy. Black hair flows freely. Winter-sky eyes hold warmth earned through relationship. She has transformed from deadly beauty to integrated being—still powerful, still uniquely herself, yet no longer isolated. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Years pass—Yuki-onna demonstrates that transformation and connection are possible even for those deemed eternally isolated. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I was beautiful in my isolation. But I am alive in my connection."
+        "I was beautiful in my isolation. But I am alive in my connection.",
+        "And there is more to this moment: I was beautiful in my isolation. But I am alive in my connection.",
+        "What follows changes everything: I was beautiful in my isolation. But I am alive in my connection."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Yuki-onna's Heart: Warmth in the Snow explores Learning that isolation is not safety, and that opening to connection transcends transformation, set in Japanese winter mountains, frozen valleys, and liminal spaces where warmth and cold meet."
 }

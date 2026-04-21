@@ -7,158 +7,215 @@
     {
       "scene_num": 1,
       "video_prompts": [
-        "Isis stands in temples throughout Egypt, beloved by all\u2014goddess of magic, healing, and devotion."
+        "Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion.",
+        "Secondary shot: Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Isis manifests in sacred temples, night-black hair glowing with constellation stars, luminous eyes holding infinite compassion. Wings span in protective gesture over Egypt. She is beloved\u2014not distant like other gods but intimate, accessible, appearing in dreams. She understands human suffering because she claims it as her own sacred work. Magic flows through her as naturally as breath."
+        "Isis manifests in sacred temples, night-black hair glowing with constellation stars, luminous eyes holding infinite compassion. Wings span in protective gesture over Egypt. She is beloved—not distant like other gods but intimate, accessible, appearing in dreams. She understands human suffering because she claims it as her own sacred work. Magic flows through her as naturally as breath. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I am with you in suffering. I am the magic that transforms despair into possibility."
+        "I am with you in suffering. I am the magic that transforms despair into possibility.",
+        "And there is more to this moment: I am with you in suffering. I am the magic that transforms despair into possibility."
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Isis stands in temples throughout Egypt, beloved by all\u2014goddess of magic, healing, and devotion."
+        "Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion.",
+        "Secondary shot: Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Isis manifests in sacred temples, night-black hair glowing with constellation stars, luminous eyes holding infinite compassion. Wings span in protective gesture over Egypt. She is beloved\u2014not distant like other gods but intimate, accessible, appearing in dreams. She understands human suffering because she claims it as her own sacred work. Magic flows through her as naturally as breath."
+        "Isis manifests in sacred temples, night-black hair glowing with constellation stars, luminous eyes holding infinite compassion. Wings span in protective gesture over Egypt. She is beloved—not distant like other gods but intimate, accessible, appearing in dreams. She understands human suffering because she claims it as her own sacred work. Magic flows through her as naturally as breath. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Isis stands in temples throughout Egypt, beloved by all—goddess of magic, healing, and devotion. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "I am with you in suffering. I am the magic that transforms despair into possibility.",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: I am with you in suffering. I am the magic that transforms despair into possibility."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Isis searches for Osiris's scattered remains\u2014seeking out fragments of what death has destroyed."
+        "Isis searches for Osiris's scattered remains—seeking out fragments of what death has destroyed.",
+        "Secondary shot: Isis searches for Osiris's scattered remains—seeking out fragments of what death has destroyed. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Isis travels across Egypt in desperate seeking. Night-black hair catches light as she works tirelessly. Luminous eyes perceive hidden pieces others cannot find. Wings carry her through impossible terrain. Her search is not mere action but manifestation of absolute refusal to accept loss. She is powered by love that exceeds rational hope."
+        "Isis travels across Egypt in desperate seeking. Night-black hair catches light as she works tirelessly. Luminous eyes perceive hidden pieces others cannot find. Wings carry her through impossible terrain. Her search is not mere action but manifestation of absolute refusal to accept loss. She is powered by love that exceeds rational hope. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Isis searches for Osiris's scattered remains—seeking out fragments of what death has destroyed. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I will find every piece. I will restore him. Death does not have final say."
+        "I will find every piece. I will restore him. Death does not have final say.",
+        "And there is more to this moment: I will find every piece. I will restore him. Death does not have final say."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
-        "Isis searches for Osiris's scattered remains\u2014seeking out fragments of what death has destroyed.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Isis searches for Osiris's scattered remains—seeking out fragments of what death has destroyed.",
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Isis searches for Osiris's scattered remains—seeking out fragments of what death has destroyed. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Isis travels across Egypt in desperate seeking. Night-black hair catches light as she works tirelessly. Luminous eyes perceive hidden pieces others cannot find. Wings carry her through impossible terrain. Her search is not mere action but manifestation of absolute refusal to accept loss. She is powered by love that exceeds rational hope."
+        "Isis travels across Egypt in desperate seeking. Night-black hair catches light as she works tirelessly. Luminous eyes perceive hidden pieces others cannot find. Wings carry her through impossible terrain. Her search is not mere action but manifestation of absolute refusal to accept loss. She is powered by love that exceeds rational hope. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Isis searches for Osiris's scattered remains—seeking out fragments of what death has destroyed. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I will find every piece. I will restore him. Death does not have final say."
+        "I will find every piece. I will restore him. Death does not have final say.",
+        "And there is more to this moment: I will find every piece. I will restore him. Death does not have final say.",
+        "What follows changes everything: I will find every piece. I will restore him. Death does not have final say."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Osiris returns to underworld but is transformed\u2014from destroyed to purposeful guide of dead, made meaningful by Isis's love.",
+        "Osiris returns to underworld but is transformed—from destroyed to purposeful guide of dead, made meaningful by Isis's love.",
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Osiris accepts underworld role transformed by Isis's resurrection magic. He becomes consciously meaningful guide\u2014not victim of death but purposeful participant. Night-black hair of Isis glows as she perceives his transformation. Luminous eyes recognize that love doesn't always mean keeping beloved in form we prefer\u2014sometimes love means helping them find purpose in changed circumstances."
+        "Osiris accepts underworld role transformed by Isis's resurrection magic. He becomes consciously meaningful guide—not victim of death but purposeful participant. Night-black hair of Isis glows as she perceives his transformation. Luminous eyes recognize that love doesn't always mean keeping beloved in form we prefer—sometimes love means helping them find purpose in changed circumstances. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Your love has given my death meaning. Now I guide others through transition."
+        "Your love has given my death meaning. Now I guide others through transition.",
+        "And there is more to this moment: Your love has given my death meaning. Now I guide others through transition."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Osiris returns to underworld but is transformed\u2014from destroyed to purposeful guide of dead, made meaningful by Isis's love."
+        "Osiris returns to underworld but is transformed—from destroyed to purposeful guide of dead, made meaningful by Isis's love.",
+        "Secondary shot: Osiris returns to underworld but is transformed—from destroyed to purposeful guide of dead, made meaningful by Isis's love. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Osiris returns to underworld but is transformed—from destroyed to purposeful guide of dead, made meaningful by Isis's love. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Osiris accepts underworld role transformed by Isis's resurrection magic. He becomes consciously meaningful guide\u2014not victim of death but purposeful participant. Night-black hair of Isis glows as she perceives his transformation. Luminous eyes recognize that love doesn't always mean keeping beloved in form we prefer\u2014sometimes love means helping them find purpose in changed circumstances."
+        "Osiris accepts underworld role transformed by Isis's resurrection magic. He becomes consciously meaningful guide—not victim of death but purposeful participant. Night-black hair of Isis glows as she perceives his transformation. Luminous eyes recognize that love doesn't always mean keeping beloved in form we prefer—sometimes love means helping them find purpose in changed circumstances. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Osiris returns to underworld but is transformed—from destroyed to purposeful guide of dead, made meaningful by Isis's love. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Osiris returns to underworld but is transformed—from destroyed to purposeful guide of dead, made meaningful by Isis's love. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Your love has given my death meaning. Now I guide others through transition."
+        "Your love has given my death meaning. Now I guide others through transition.",
+        "And there is more to this moment: Your love has given my death meaning. Now I guide others through transition.",
+        "What follows changes everything: Your love has given my death meaning. Now I guide others through transition."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Isis's magic becomes foundation of Egyptian civilization\u2014healing, transformation, magical practice spreading throughout culture."
+        "Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture.",
+        "Secondary shot: Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Isis's influence permeates Egypt. Night-black hair becomes symbol of cosmic knowledge available to all. Luminous eyes look toward every sufferer recognizing their pain as valid and worth magical intervention. Her temples become healing centers. Her name becomes associated with magic that restores, transforms, and resurrects purpose from despair."
+        "Isis's influence permeates Egypt. Night-black hair becomes symbol of cosmic knowledge available to all. Luminous eyes look toward every sufferer recognizing their pain as valid and worth magical intervention. Her temples become healing centers. Her name becomes associated with magic that restores, transforms, and resurrects purpose from despair. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Magic is not escape from reality but transformation of it toward wholeness."
+        "Magic is not escape from reality but transformation of it toward wholeness.",
+        "And there is more to this moment: Magic is not escape from reality but transformation of it toward wholeness."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Isis's magic becomes foundation of Egyptian civilization\u2014healing, transformation, magical practice spreading throughout culture."
+        "Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture.",
+        "Secondary shot: Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Isis's influence permeates Egypt. Night-black hair becomes symbol of cosmic knowledge available to all. Luminous eyes look toward every sufferer recognizing their pain as valid and worth magical intervention. Her temples become healing centers. Her name becomes associated with magic that restores, transforms, and resurrects purpose from despair."
+        "Isis's influence permeates Egypt. Night-black hair becomes symbol of cosmic knowledge available to all. Luminous eyes look toward every sufferer recognizing their pain as valid and worth magical intervention. Her temples become healing centers. Her name becomes associated with magic that restores, transforms, and resurrects purpose from despair. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Isis's magic becomes foundation of Egyptian civilization—healing, transformation, magical practice spreading throughout culture. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Magic is not escape from reality but transformation of it toward wholeness."
+        "Magic is not escape from reality but transformation of it toward wholeness.",
+        "And there is more to this moment: Magic is not escape from reality but transformation of it toward wholeness.",
+        "What follows changes everything: Magic is not escape from reality but transformation of it toward wholeness."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Years pass\u2014Egypt thrives under influence of magic and love transforming despair into possibility."
+        "Years pass—Egypt thrives under influence of magic and love transforming despair into possibility.",
+        "Secondary shot: Years pass—Egypt thrives under influence of magic and love transforming despair into possibility. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Egyptian civilization flourishes. Night-black hair of Isis is worn by priestesses everywhere. Luminous eyes shine through countless vessels discovering magic in their own lives. Healing practices, magical arts, rituals of transformation spread. Death is perceived not as absolute but as transition\u2014transformation Isis first demonstrated."
+        "Egyptian civilization flourishes. Night-black hair of Isis is worn by priestesses everywhere. Luminous eyes shine through countless vessels discovering magic in their own lives. Healing practices, magical arts, rituals of transformation spread. Death is perceived not as absolute but as transition—transformation Isis first demonstrated. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Years pass—Egypt thrives under influence of magic and love transforming despair into possibility. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "When love and magic unite, nothing is impossible\u2014not even resurrection.",
+        "When love and magic unite, nothing is impossible—not even resurrection.",
         "[Inner reflection/emotional deepening]"
       ]
     },
     {
       "scene_num": 10,
       "video_prompts": [
-        "Years pass\u2014Egypt thrives under influence of magic and love transforming despair into possibility."
+        "Years pass—Egypt thrives under influence of magic and love transforming despair into possibility.",
+        "Secondary shot: Years pass—Egypt thrives under influence of magic and love transforming despair into possibility. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Years pass—Egypt thrives under influence of magic and love transforming despair into possibility. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Egyptian civilization flourishes. Night-black hair of Isis is worn by priestesses everywhere. Luminous eyes shine through countless vessels discovering magic in their own lives. Healing practices, magical arts, rituals of transformation spread. Death is perceived not as absolute but as transition\u2014transformation Isis first demonstrated."
+        "Egyptian civilization flourishes. Night-black hair of Isis is worn by priestesses everywhere. Luminous eyes shine through countless vessels discovering magic in their own lives. Healing practices, magical arts, rituals of transformation spread. Death is perceived not as absolute but as transition—transformation Isis first demonstrated. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Years pass—Egypt thrives under influence of magic and love transforming despair into possibility. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Years pass—Egypt thrives under influence of magic and love transforming despair into possibility. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "When love and magic unite, nothing is impossible\u2014not even resurrection."
+        "When love and magic unite, nothing is impossible—not even resurrection.",
+        "And there is more to this moment: When love and magic unite, nothing is impossible—not even resurrection.",
+        "What follows changes everything: When love and magic unite, nothing is impossible—not even resurrection."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Isis's Resurrection: Love and Magic as Transformation explores The power of devoted love and magic to transcend death and restore wholeness, set in Egypt sacred lands and liminal spaces between life and death."
 }

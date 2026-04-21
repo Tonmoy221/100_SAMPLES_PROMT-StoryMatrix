@@ -7,136 +7,184 @@
     {
       "scene_num": 1,
       "video_prompts": [
-        "Ariadne watches Theseus from labyrinth tower\u2014fascinated by visitor, aware of her father's cruelty, beginning to question her role."
+        "Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role.",
+        "Secondary shot: Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne stands in tower, copper-gold hair flowing, luminous amber eyes watching Theseus with fascination and dawning moral awareness. She perceives conflict between loyalty to father and recognition of his cruelty. The labyrinth represents her own entrapment\u2014not just physical but emotional and intellectual. She begins questioning imposed role."
+        "Ariadne stands in tower, copper-gold hair flowing, luminous amber eyes watching Theseus with fascination and dawning moral awareness. She perceives conflict between loyalty to father and recognition of his cruelty. The labyrinth represents her own entrapment—not just physical but emotional and intellectual. She begins questioning imposed role. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I am my father's daughter. Yet I recognize his injustice. What does loyalty require?"
+        "I am my father's daughter. Yet I recognize his injustice. What does loyalty require?",
+        "And there is more to this moment: I am my father's daughter. Yet I recognize his injustice. What does loyalty require?"
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Ariadne watches Theseus from labyrinth tower\u2014fascinated by visitor, aware of her father's cruelty, beginning to question her role."
+        "Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role.",
+        "Secondary shot: Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne stands in tower, copper-gold hair flowing, luminous amber eyes watching Theseus with fascination and dawning moral awareness. She perceives conflict between loyalty to father and recognition of his cruelty. The labyrinth represents her own entrapment\u2014not just physical but emotional and intellectual. She begins questioning imposed role."
+        "Ariadne stands in tower, copper-gold hair flowing, luminous amber eyes watching Theseus with fascination and dawning moral awareness. She perceives conflict between loyalty to father and recognition of his cruelty. The labyrinth represents her own entrapment—not just physical but emotional and intellectual. She begins questioning imposed role. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ariadne watches Theseus from labyrinth tower—fascinated by visitor, aware of her father's cruelty, beginning to question her role. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "I am my father's daughter. Yet I recognize his injustice. What does loyalty require?",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: I am my father's daughter. Yet I recognize his injustice. What does loyalty require?"
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Ariadne leaves with Theseus, believing they share vision of justice and partnership."
+        "Ariadne leaves with Theseus, believing they share vision of justice and partnership.",
+        "Secondary shot: Ariadne leaves with Theseus, believing they share vision of justice and partnership. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne leaves labyrinth and father's kingdom, copper-gold hair streaming as she embraces new possibility. Luminous amber eyes glow with hope and determination. She carries more than personal desire\u2014she carries vision of different world. She believes Theseus sees her as partner in justice, not prize to be claimed."
+        "Ariadne leaves labyrinth and father's kingdom, copper-gold hair streaming as she embraces new possibility. Luminous amber eyes glow with hope and determination. She carries more than personal desire—she carries vision of different world. She believes Theseus sees her as partner in justice, not prize to be claimed. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne leaves with Theseus, believing they share vision of justice and partnership. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "We will build something new together. Something just and free."
+        "We will build something new together. Something just and free.",
+        "And there is more to this moment: We will build something new together. Something just and free."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
         "Ariadne leaves with Theseus, believing they share vision of justice and partnership.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Ariadne leaves with Theseus, believing they share vision of justice and partnership. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne leaves labyrinth and father's kingdom, copper-gold hair streaming as she embraces new possibility. Luminous amber eyes glow with hope and determination. She carries more than personal desire\u2014she carries vision of different world. She believes Theseus sees her as partner in justice, not prize to be claimed."
+        "Ariadne leaves labyrinth and father's kingdom, copper-gold hair streaming as she embraces new possibility. Luminous amber eyes glow with hope and determination. She carries more than personal desire—she carries vision of different world. She believes Theseus sees her as partner in justice, not prize to be claimed. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ariadne leaves with Theseus, believing they share vision of justice and partnership. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "We will build something new together. Something just and free."
+        "We will build something new together. Something just and free.",
+        "And there is more to this moment: We will build something new together. Something just and free.",
+        "What follows changes everything: We will build something new together. Something just and free."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Ariadne's grief becomes transformation\u2014recognizing that she was complicit in her own subordination.",
+        "Ariadne's grief becomes transformation—recognizing that she was complicit in her own subordination.",
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Alone on Naxos, Ariadne confronts her own complicity. Copper-gold hair dims with acknowledgment. Luminous amber eyes see clearly that she gave power away rather than claiming it. She followed narrative of romantic salvation rather than insisting on her own agency. She begins taking responsibility for her choices."
+        "Alone on Naxos, Ariadne confronts her own complicity. Copper-gold hair dims with acknowledgment. Luminous amber eyes see clearly that she gave power away rather than claiming it. She followed narrative of romantic salvation rather than insisting on her own agency. She begins taking responsibility for her choices. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I chose to be supporting character. I must now choose to be protagonist."
+        "I chose to be supporting character. I must now choose to be protagonist.",
+        "And there is more to this moment: I chose to be supporting character. I must now choose to be protagonist."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Ariadne's grief becomes transformation\u2014recognizing that she was complicit in her own subordination."
+        "Ariadne's grief becomes transformation—recognizing that she was complicit in her own subordination.",
+        "Secondary shot: Ariadne's grief becomes transformation—recognizing that she was complicit in her own subordination. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ariadne's grief becomes transformation—recognizing that she was complicit in her own subordination. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Alone on Naxos, Ariadne confronts her own complicity. Copper-gold hair dims with acknowledgment. Luminous amber eyes see clearly that she gave power away rather than claiming it. She followed narrative of romantic salvation rather than insisting on her own agency. She begins taking responsibility for her choices."
+        "Alone on Naxos, Ariadne confronts her own complicity. Copper-gold hair dims with acknowledgment. Luminous amber eyes see clearly that she gave power away rather than claiming it. She followed narrative of romantic salvation rather than insisting on her own agency. She begins taking responsibility for her choices. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne's grief becomes transformation—recognizing that she was complicit in her own subordination. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ariadne's grief becomes transformation—recognizing that she was complicit in her own subordination. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I chose to be supporting character. I must now choose to be protagonist."
+        "I chose to be supporting character. I must now choose to be protagonist.",
+        "And there is more to this moment: I chose to be supporting character. I must now choose to be protagonist.",
+        "What follows changes everything: I chose to be supporting character. I must now choose to be protagonist."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision."
+        "Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision.",
+        "Secondary shot: Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne and Dionysus work together creating new civilization. Copper-gold hair flows freely. Luminous amber eyes glow with power earned not from position but from choosing consciously. She is not saved\u2014she is building. She is not supporting narrative\u2014she is authoring it."
+        "Ariadne and Dionysus work together creating new civilization. Copper-gold hair flows freely. Luminous amber eyes glow with power earned not from position but from choosing consciously. She is not saved—she is building. She is not supporting narrative—she is authoring it. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "This is what partnership looks like\u2014mutual creation, not rescue."
+        "This is what partnership looks like—mutual creation, not rescue.",
+        "And there is more to this moment: This is what partnership looks like—mutual creation, not rescue."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision."
+        "Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision.",
+        "Secondary shot: Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne and Dionysus work together creating new civilization. Copper-gold hair flows freely. Luminous amber eyes glow with power earned not from position but from choosing consciously. She is not saved\u2014she is building. She is not supporting narrative\u2014she is authoring it."
+        "Ariadne and Dionysus work together creating new civilization. Copper-gold hair flows freely. Luminous amber eyes glow with power earned not from position but from choosing consciously. She is not saved—she is building. She is not supporting narrative—she is authoring it. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ariadne and Dionysus build partnership based on mutual recognition and shared creative vision. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "This is what partnership looks like\u2014mutual creation, not rescue."
+        "This is what partnership looks like—mutual creation, not rescue.",
+        "And there is more to this moment: This is what partnership looks like—mutual creation, not rescue.",
+        "What follows changes everything: This is what partnership looks like—mutual creation, not rescue."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Ariadne's example spreads\u2014societies transform as people learn to claim agency rather than accept subordinate roles."
+        "Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles.",
+        "Secondary shot: Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne's transformation becomes archetypal. Copper-gold hair symbolizes those learning to claim their stories. Luminous amber eyes recognize hundreds, thousands learning her lesson\u2014that you must consciously author your own life. Societies begin honoring protagonists rather than supporting characters."
+        "Ariadne's transformation becomes archetypal. Copper-gold hair symbolizes those learning to claim their stories. Luminous amber eyes recognize hundreds, thousands learning her lesson—that you must consciously author your own life. Societies begin honoring protagonists rather than supporting characters. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
         "When everyone becomes protagonist of their own story, civilization transforms.",
@@ -146,19 +194,28 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Ariadne's example spreads\u2014societies transform as people learn to claim agency rather than accept subordinate roles."
+        "Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles.",
+        "Secondary shot: Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ariadne's transformation becomes archetypal. Copper-gold hair symbolizes those learning to claim their stories. Luminous amber eyes recognize hundreds, thousands learning her lesson\u2014that you must consciously author your own life. Societies begin honoring protagonists rather than supporting characters."
+        "Ariadne's transformation becomes archetypal. Copper-gold hair symbolizes those learning to claim their stories. Luminous amber eyes recognize hundreds, thousands learning her lesson—that you must consciously author your own life. Societies begin honoring protagonists rather than supporting characters. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ariadne's example spreads—societies transform as people learn to claim agency rather than accept subordinate roles. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "When everyone becomes protagonist of their own story, civilization transforms."
+        "When everyone becomes protagonist of their own story, civilization transforms.",
+        "And there is more to this moment: When everyone becomes protagonist of their own story, civilization transforms.",
+        "What follows changes everything: When everyone becomes protagonist of their own story, civilization transforms."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Ariadne's Choice: From Savior to Self explores Moving from supporting others to claiming your own story and sovereignty, set in Labyrinth, Naxos, and eventually realms where she becomes sovereign."
 }

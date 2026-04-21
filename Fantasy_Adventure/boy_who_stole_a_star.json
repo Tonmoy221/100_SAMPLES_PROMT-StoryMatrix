@@ -1,16 +1,16 @@
 {
   "story_name": "The Boy Who Stole a Star",
-  "story_overview": "When twelve-year-old Soren accidentally catches a falling star in a jar, he discovers it is not a ball of fire but a living being \u2014 small, fierce, and desperately trying to return to the sky. Together they travel across a land of impossible geography, hunted by a Star Collector who traps stars to power his dark tower, to find the only mountain tall enough to launch her home.",
+  "story_overview": "When twelve-year-old Soren accidentally catches a falling star in a jar, he discovers it is not a ball of fire but a living being — small, fierce, and desperately trying to return to the sky. Together they travel across a land of impossible geography, hunted by a Star Collector who traps stars to power his dark tower, to find the only mountain tall enough to launch her home.",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "A wide shot of a quiet countryside village at night. An unusually bright meteor streaks across the sky \u2014 slowing as it falls toward a boy standing in a field. Stars crowd the night above. Cinematic wide shot, dark blue with silver light.",
-        "Soren, 12, lanky with messy blond hair, stands in a field holding a glass jar up toward the falling light \u2014 more reflex than intention. The star lands in the jar with a soft musical sound. A warm brilliant glow fills the jar. Medium shot, surprise and wonder."
+        "A wide shot of a quiet countryside village at night. An unusually bright meteor streaks across the sky — slowing as it falls toward a boy standing in a field. Stars crowd the night above. Cinematic wide shot, dark blue with silver light.",
+        "Soren, 12, lanky with messy blond hair, stands in a field holding a glass jar up toward the falling light — more reflex than intention. The star lands in the jar with a soft musical sound. A warm brilliant glow fills the jar. Medium shot, surprise and wonder."
       ],
       "first_frame_prompt": [
-        "Wide countryside night sky with a slowing and brightening meteor streaking downward toward a solitary boy standing in a dark field below; wind rushing around him.",
-        "Soren in a field holding a glass jar upward with both hands; a brilliant falling light descending swiftly into it with a soft chime; his face lit from below by expanding warm golden glow; light trails visible."
+        "Wide countryside night sky with a slowing and brightening meteor streaking downward toward a solitary boy standing in a dark field below; wind rushing around him. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Soren in a field holding a glass jar upward with both hands; a brilliant falling light descending swiftly into it with a soft chime; his face lit from below by expanding warm golden glow; light trails visible. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -24,35 +24,39 @@
     {
       "scene_num": 2,
       "video_prompts": [
-        "Soren holds the jar up and peers inside. Inside the glow \u2014 a tiny figure, humanoid but made of pure light, sits with arms crossed, furious. She pounds on the glass. Close-up of the jar, the tiny star-being inside clearly indignant.",
-        "The star-being \u2014 Lux \u2014 projects a tiny voice that sounds like a chime in a gale. She demands to be released. Soren tries to open the jar, struggles, and she helps by shooting a spark at the lid. Comic medium shot, warm energy."
+        "Soren holds the jar up and peers inside. Inside the glow — a tiny figure, humanoid but made of pure light, sits with arms crossed, furious. She pounds on the glass. Close-up of the jar, the tiny star-being inside clearly indignant.",
+        "The star-being — Lux — projects a tiny voice that sounds like a chime in a gale. She demands to be released. Soren tries to open the jar, struggles, and she helps by shooting a spark at the lid. Comic medium shot, warm energy.",
+        "Tertiary shot: Soren holds the jar up and peers inside. Inside the glow — a tiny figure, humanoid but made of pure light, sits with arms crossed, furious. She pounds on the glass. Close-up of the jar, the tiny star-being inside clearly indignant. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Glass jar close-up; inside a tiny radiant humanoid figure with arms crossed and an expression of pure furious indignation, pounding rhythmically on the glass; light flashing with each impact.",
-        "Lux mid-speech inside the jar, tiny gesturing hands moving expressively; Soren holding the jar with both hands attempting to twist the lid, expression confused and earnest; jar glowing warmly."
+        "Glass jar close-up; inside a tiny radiant humanoid figure with arms crossed and an expression of pure furious indignation, pounding rhythmically on the glass; light flashing with each impact. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Lux mid-speech inside the jar, tiny gesturing hands moving expressively; Soren holding the jar with both hands attempting to twist the lid, expression confused and earnest; jar glowing warmly. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Soren holds the jar up and peers inside. Inside the glow — a tiny figure, humanoid but made of pure light, sits with arms crossed, furious. She pounds on the glass. Close-up of the jar, the tiny star-being inside clearly indignant. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
-        false
+        false,
+        true
       ],
       "speech": [
         "She was very small. And very angry. And made entirely of light.",
-        "Soren had not expected a star to have opinions. He was quickly learning that this one had many."
+        "Soren had not expected a star to have opinions. He was quickly learning that this one had many.",
+        "What follows changes everything: She was very small. And very angry. And made entirely of light."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Lux floats free of the jar, hovering at Soren's eye level. She is beautiful \u2014 a shifting white-gold light with the vague shape of a girl. She studies him with cool, ancient eyes. Intimate medium shot, the two sizing each other up.",
+        "Lux floats free of the jar, hovering at Soren's eye level. She is beautiful — a shifting white-gold light with the vague shape of a girl. She studies him with cool, ancient eyes. Intimate medium shot, the two sizing each other up.",
         "In the distance, across the dark fields, a black carriage pulled by shadow horses moves along the road, heading toward them. A figure in a dark coat watches from the window. Wide ominous shot, threat established."
       ],
       "first_frame_prompt": [
-        "Lux hovering at Soren's eye level in the dark field; white-gold light shifting and rippling in a humanoid shape; her ancient eyes appraising him coolly; light aura pulsing around her.",
-        "A black carriage with shadow horses galloping along a distant road with unnatural speed; a dark-coated figure watching intently from the carriage window; ominous wide shot; darkness seeming to follow them."
+        "Lux hovering at Soren's eye level in the dark field; white-gold light shifting and rippling in a humanoid shape; her ancient eyes appraising him coolly; light aura pulsing around her. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "A black carriage with shadow horses galloping along a distant road with unnatural speed; a dark-coated figure watching intently from the carriage window; ominous wide shot; darkness seeming to follow them. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        false,
-        true
+        true,
+        false
       ],
       "speech": [
         "She was ancient, she told him. Older than his village, older than the mountains, older than the word for old. And she needed help getting home.",
@@ -62,35 +66,39 @@
     {
       "scene_num": 4,
       "video_prompts": [
-        "Soren runs across the dark field with the jar, Lux streaking alongside him as a ribbon of light. The black carriage accelerates behind them \u2014 faster than horses should move. Kinetic action wide shot, blue-dark landscape.",
-        "They dive into a dense forest. The carriage stops at the tree line \u2014 as if something in the forest repels it. The dark-coated figure watches from the road. Medium tension shot, breath held."
+        "Soren runs across the dark field with the jar, Lux streaking alongside him as a ribbon of light. The black carriage accelerates behind them — faster than horses should move. Kinetic action wide shot, blue-dark landscape.",
+        "They dive into a dense forest. The carriage stops at the tree line — as if something in the forest repels it. The dark-coated figure watches from the road. Medium tension shot, breath held.",
+        "Tertiary shot: Soren runs across the dark field with the jar, Lux streaking alongside him as a ribbon of light. The black carriage accelerates behind them — faster than horses should move. Kinetic action wide shot, blue-dark landscape. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Soren sprinting frantically across dark field with jar held carefully; Lux streaming alongside as a flowing ribbon of gold light; black carriage accelerating and gaining in the background; dust and grass flying.",
-        "Soren and Lux deep in the forest with trees surrounding them; the black carriage stopped abruptly at the tree line as if repelled; dark-coated figure watching motionlessly from the road, still as stone; tension visible in the air."
+        "Soren sprinting frantically across dark field with jar held carefully; Lux streaming alongside as a flowing ribbon of gold light; black carriage accelerating and gaining in the background; dust and grass flying. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Soren and Lux deep in the forest with trees surrounding them; the black carriage stopped abruptly at the tree line as if repelled; dark-coated figure watching motionlessly from the road, still as stone; tension visible in the air. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Soren runs across the dark field with the jar, Lux streaking alongside him as a ribbon of light. The black carriage accelerates behind them — faster than horses should move. Kinetic action wide shot, blue-dark landscape. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
-        false
+        false,
+        true
       ],
       "speech": [
         "He ran. She flew. The carriage followed. It was already turning into one of those nights.",
-        "The forest stopped the carriage. Old wood and old light, Lux told him \u2014 they do not like each other."
+        "The forest stopped the carriage. Old wood and old light, Lux told him — they do not like each other.",
+        "What follows changes everything: He ran. She flew. The carriage followed. It was already turning into one of those nights."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Deeper in the forest \u2014 impossible geography: trees that grow sideways, pools that reflect other skies, a river flowing upward. Soren and Lux navigate this together. Wide wonder shot, surreal and beautiful.",
-        "Lux shows Soren a map drawn in light \u2014 she projects it in the air with her finger. The highest mountain on the continent \u2014 the Solarpeak \u2014 is their destination. Close-up of the glowing air-map, Soren studying it."
+        "Deeper in the forest — impossible geography: trees that grow sideways, pools that reflect other skies, a river flowing upward. Soren and Lux navigate this together. Wide wonder shot, surreal and beautiful.",
+        "Lux shows Soren a map drawn in light — she projects it in the air with her finger. The highest mountain on the continent — the Solarpeak — is their destination. Close-up of the glowing air-map, Soren studying it."
       ],
       "first_frame_prompt": [
-        "Soren and Lux walking through surreal impossible forest; trees growing sideways and swaying, pools with alternate sky reflections rippling, water flowing upward with graceful curves beside them; light filtering strangely.",
-        "Lux projecting a glowing shimmering map in the air with one radiant finger tracing patterns; Soren leaning close and studying it intently; Solarpeak mountain marked in glowing golden light with a pulsing point at the summit."
+        "Soren and Lux walking through surreal impossible forest; trees growing sideways and swaying, pools with alternate sky reflections rippling, water flowing upward with graceful curves beside them; light filtering strangely. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Lux projecting a glowing shimmering map in the air with one radiant finger tracing patterns; Soren leaning close and studying it intently; Solarpeak mountain marked in glowing golden light with a pulsing point at the summit. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        false,
-        true
+        true,
+        false
       ],
       "speech": [
         "The forest was impossible. Most things worth walking through are.",
@@ -100,31 +108,35 @@
     {
       "scene_num": 6,
       "video_prompts": [
-        "Montage of travel \u2014 rolling hills, crystalline plains, a bridge over a sky-river. Soren and Lux moving through each landscape. Each environment different and breathtaking. Sweeping wide shots, varied palette.",
-        "The Star Collector \u2014 tall, pale, with a coat sewn from captured starlight \u2014 blocks the bridge ahead. Behind him, his carriage. He extends a long-fingered hand toward Lux. Wide confrontation shot, dramatic lighting."
+        "Montage of travel — rolling hills, crystalline plains, a bridge over a sky-river. Soren and Lux moving through each landscape. Each environment different and breathtaking. Sweeping wide shots, varied palette.",
+        "The Star Collector — tall, pale, with a coat sewn from captured starlight — blocks the bridge ahead. Behind him, his carriage. He extends a long-fingered hand toward Lux. Wide confrontation shot, dramatic lighting.",
+        "Tertiary shot: Montage of travel — rolling hills, crystalline plains, a bridge over a sky-river. Soren and Lux moving through each landscape. Each environment different and breathtaking. Sweeping wide shots, varied palette. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Montage frame: Soren and Lux crossing a delicate bridge over a sky-river flowing with luminous water; crystalline plains visible below and above; otherworldly colors shifting in every direction; wind moving their hair.",
-        "The Star Collector blocking the narrow bridge menacingly; tall, pale, coat shimmering and writhing with trapped starlight within it; hand extended deliberately toward Lux; shadow carriage waiting behind him; dark aura around him."
+        "Montage frame: Soren and Lux crossing a delicate bridge over a sky-river flowing with luminous water; crystalline plains visible below and above; otherworldly colors shifting in every direction; wind moving their hair. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "The Star Collector blocking the narrow bridge menacingly; tall, pale, coat shimmering and writhing with trapped starlight within it; hand extended deliberately toward Lux; shadow carriage waiting behind him; dark aura around him. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Montage of travel — rolling hills, crystalline plains, a bridge over a sky-river. Soren and Lux moving through each landscape. Each environment different and breathtaking. Sweeping wide shots, varied palette. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
         false,
         true
       ],
       "speech": [
         "They traveled through places that had no right to exist. And every mile, Soren grew less surprised by impossibility.",
-        "Then the Collector found them again. He always found them. He had been collecting stars for a very long time."
+        "Then the Collector found them again. He always found them. He had been collecting stars for a very long time.",
+        "What follows changes everything: They traveled through places that had no right to exist. And every mile, Soren grew less surprised by impossibility."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Lux, furious, blazes to full brilliance \u2014 blinding the Collector temporarily. His coat of captured stars begins to writhe, the imprisoned stars reacting to her light. Wide dramatic shot, Lux at full power.",
-        "Soren grabs Lux and runs across the bridge. The Collector roars and reaches for them \u2014 but the bridge collapses under a burst of Lux's light. They reach the other side. The Collector is left behind. Dynamic action shot."
+        "Lux, furious, blazes to full brilliance — blinding the Collector temporarily. His coat of captured stars begins to writhe, the imprisoned stars reacting to her light. Wide dramatic shot, Lux at full power.",
+        "Soren grabs Lux and runs across the bridge. The Collector roars and reaches for them — but the bridge collapses under a burst of Lux's light. They reach the other side. The Collector is left behind. Dynamic action shot."
       ],
       "first_frame_prompt": [
-        "Lux blazing to full brilliant intensity; the Collector shielding his eyes desperately; his coat of captured stars visibly writhing and flickering frantically in violent reaction to her overwhelming light.",
-        "Soren running desperately with Lux across a rapidly collapsing bridge; brilliant light bursting explosively from below; Collector reaching out desperately but unable to cross the widening gap; far shore visible ahead."
+        "Lux blazing to full brilliant intensity; the Collector shielding his eyes desperately; his coat of captured stars visibly writhing and flickering frantically in violent reaction to her overwhelming light. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Soren running desperately with Lux across a rapidly collapsing bridge; brilliant light bursting explosively from below; Collector reaching out desperately but unable to cross the widening gap; far shore visible ahead. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -138,35 +150,39 @@
     {
       "scene_num": 8,
       "video_prompts": [
-        "The Solarpeak rises before them \u2014 a mountain of silver rock piercing the clouds. The sky around its summit is alive with star-roads \u2014 ribbons of light stretching upward into infinity. Wide establishing shot, magnificent.",
-        "The climb begins. Soren and Lux ascend together \u2014 he on foot, she lighting the path. It is hard and beautiful. Montage of the climb: ledges, wind, altitude, the world shrinking below. Medium tracking shots."
+        "The Solarpeak rises before them — a mountain of silver rock piercing the clouds. The sky around its summit is alive with star-roads — ribbons of light stretching upward into infinity. Wide establishing shot, magnificent.",
+        "The climb begins. Soren and Lux ascend together — he on foot, she lighting the path. It is hard and beautiful. Montage of the climb: ledges, wind, altitude, the world shrinking below. Medium tracking shots.",
+        "Tertiary shot: The Solarpeak rises before them — a mountain of silver rock piercing the clouds. The sky around its summit is alive with star-roads — ribbons of light stretching upward into infinity. Wide establishing shot, magnificent. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Solarpeak rising majestically before them; silver rock glinting and snow gleaming white; the summit visible above the clouds with star-road ribbons of light flowing above it like rivers; wind swirling around the peak.",
-        "Soren climbing steadily with hands and feet on silver rock face; Lux hovering protectively beside him lighting the difficult path with radiant glow; clouds far below shifting and moving; stars close above twinkling brightly."
+        "Solarpeak rising majestically before them; silver rock glinting and snow gleaming white; the summit visible above the clouds with star-road ribbons of light flowing above it like rivers; wind swirling around the peak. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Soren climbing steadily with hands and feet on silver rock face; Lux hovering protectively beside him lighting the difficult path with radiant glow; clouds far below shifting and moving; stars close above twinkling brightly. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: The Solarpeak rises before them — a mountain of silver rock piercing the clouds. The sky around its summit is alive with star-roads — ribbons of light stretching upward into infinity. Wide establishing shot, magnificent. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
-        false
+        false,
+        true
       ],
       "speech": [
-        "The mountain was real and impossible in the way all great things are \u2014 both smaller than the idea of it and so much larger than you expect.",
-        "They climbed together. He with his hands and feet. She with her light."
+        "The mountain was real and impossible in the way all great things are — both smaller than the idea of it and so much larger than you expect.",
+        "They climbed together. He with his hands and feet. She with her light.",
+        "What follows changes everything: The mountain was real and impossible in the way all great things are — both smaller than the idea of it and so much larger than you expect."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "The summit. Above the clouds. The star-roads are close enough to touch. Lux and Soren stand together, looking up. Wide shot \u2014 the two silhouettes against infinite stars.",
-        "Lux turns to Soren. A moment between them. She is ancient and luminous. He is twelve and tired. She presses a tiny warm point of light onto his palm \u2014 a gift. Close-up of his hand, the warm glow."
+        "The summit. Above the clouds. The star-roads are close enough to touch. Lux and Soren stand together, looking up. Wide shot — the two silhouettes against infinite stars.",
+        "Lux turns to Soren. A moment between them. She is ancient and luminous. He is twelve and tired. She presses a tiny warm point of light onto his palm — a gift. Close-up of his hand, the warm glow."
       ],
       "first_frame_prompt": [
-        "Summit above the clouds; star-roads streaming and flowing upward into infinity; Soren and Lux standing side by side, silhouetted against vast cosmic light and infinite stars; wind gentle and peaceful.",
-        "Lux gently pressing a small point of warm pulsing light into Soren's open palm; his face soft and deeply moved by the moment; her expression ancient, knowing, and fond; light radiating between them."
+        "Summit above the clouds; star-roads streaming and flowing upward into infinity; Soren and Lux standing side by side, silhouetted against vast cosmic light and infinite stars; wind gentle and peaceful. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Lux gently pressing a small point of warm pulsing light into Soren's open palm; his face soft and deeply moved by the moment; her expression ancient, knowing, and fond; light radiating between them. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        false,
-        true
+        true,
+        false
       ],
       "speech": [
         "At the top of the world, it was just the two of them. A boy. A star. And everything above.",
@@ -176,14 +192,14 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Lux leaps upward from the summit \u2014 a streak of brilliant light shooting into the star-roads above. Soren watches her go, the warm light in his palm still glowing. Wide shot \u2014 the streak of light rising and joining the stars.",
-        "Soren looks up for a long time. Then looks down at his palm. The glow has settled into a permanent gentle warmth \u2014 he will always carry a little of her. Close-up, then pull back.",
-        "Wide final shot \u2014 Soren beginning to descend the mountain alone. Below the clouds, the world is spread out in all its ordinary beauty. The star in his palm lights each step. Slow fade to night sky full of stars."
+        "Lux leaps upward from the summit — a streak of brilliant light shooting into the star-roads above. Soren watches her go, the warm light in his palm still glowing. Wide shot — the streak of light rising and joining the stars.",
+        "Soren looks up for a long time. Then looks down at his palm. The glow has settled into a permanent gentle warmth — he will always carry a little of her. Close-up, then pull back.",
+        "Wide final shot — Soren beginning to descend the mountain alone. Below the clouds, the world is spread out in all its ordinary beauty. The star in his palm lights each step. Slow fade to night sky full of stars."
       ],
       "first_frame_prompt": [
-        "Lux launching upward from the summit as a brilliant streaking light shooting skyward; Soren below watching her go with one hand raised upward, palm glowing and shimmering; light trail marking her path.",
-        "Soren's open palm with a soft permanent warm glow continuously glowing and pulsing within it; his face tilted upward still in amazement; expression filled with wonder and a kind of beautiful, bittersweet loss.",
-        "Soren descending the mountain alone at dawn; vast world spread majestically below him; pale glow in his palm steadily lighting each careful step; light particles floating around him; final fade to a full night sky full of twinkling stars."
+        "Lux launching upward from the summit as a brilliant streaking light shooting skyward; Soren below watching her go with one hand raised upward, palm glowing and shimmering; light trail marking her path. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Soren's open palm with a soft permanent warm glow continuously glowing and pulsing within it; his face tilted upward still in amazement; expression filled with wonder and a kind of beautiful, bittersweet loss. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Soren descending the mountain alone at dawn; vast world spread majestically below him; pale glow in his palm steadily lighting each careful step; light particles floating around him; final fade to a full night sky full of twinkling stars. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -191,7 +207,7 @@
         true
       ],
       "speech": [
-        "She went home the way stars do \u2014 fast and bright and leaving something behind that never quite fades.",
+        "She went home the way stars do — fast and bright and leaving something behind that never quite fades.",
         "He looked at his hand for a long time. The warmth would stay for the rest of his life. He never doubted it.",
         "And on clear nights, when the sky is very full, Soren looks up and picks out one star that seems just a little brighter than the rest. And he smiles. Because he knows her."
       ]

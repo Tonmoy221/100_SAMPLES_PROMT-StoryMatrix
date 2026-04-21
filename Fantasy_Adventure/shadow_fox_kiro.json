@@ -1,5 +1,6 @@
 {
   "story_name": "The Shadow Fox's Redemption",
+  "story_overview": "Kiro embarks on a transformative journey discovering breaking free from a dark past to find light.",
   "character_description": "Kiro, an anime boy with fox-like features, black and silver hair with fox ears, amber eyes that glow in darkness, wearing tactical shadow-black clothing with silver accents. He has a mischievous but ultimately good-hearted expression and carries an air of mystery.",
   "setting": "The Obsidian Forest, a realm of eternal twilight where shadows move independently",
   "theme": "Breaking free from a dark past to find light",
@@ -7,16 +8,211 @@
     {
       "scene_num": 1,
       "video_prompts": [
-        "Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows."
+        "Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows.",
+        "Shadows dance and swirl around the character. Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends i... Dark energy flowing and coalescing."
       ],
       "first_frame_prompt": [
-        "Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin."
+        "Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kiro perches on a twisted tree branch overlooking a devastated village, his impo... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "[Internal reflection on the moment and its significance to the journey]"
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Scene 2: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 2 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 2: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 2 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 2 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 2: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I did this. My shadow did this. There's no difference anymore\u2014the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "Scene 2: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "What follows changes everything: Scene 2: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Scene 3: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 3 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 3 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 3 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 3: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Scene 4: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 4 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 4: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 4 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 4 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 4: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 4: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "What follows changes everything: Scene 4: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Scene 5: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 5 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 5 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 5 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 5: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Scene 6: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 6 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 6: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 6 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 6 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 6: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 6: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "What follows changes everything: Scene 6: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Scene 7: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 7 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 7 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 7 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 7: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Scene 8: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 8 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 8: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 8 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 8 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 8: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 8: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "What follows changes everything: Scene 8: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Scene 9: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 9 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure."
+      ],
+      "first_frame_prompt": [
+        "Scene 9 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 9 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "Scene 9: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Scene 10: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment.",
+        "Scene 10 continuation: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. A second camera perspective reveals hidden detail, emotional reaction, and tactical repositioning under pressure.",
+        "Tertiary shot: Scene 10: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Scene 10 primary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Scene 10 secondary frame: Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation. The composition emphasizes changing threat geometry, foreground obstruction, and dynamic depth layering.",
+        "Tertiary close-detail frame: Tertiary shot: Scene 10: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. The moment escalates with clearer stakes, stronger atmospheric movement, and visible cause-and-effect consequences in the environment. Continue the scene with a distinct cinematic camera move, stronger environmental motion, richer texture contrast, and escalating dramatic tension for long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "Scene 10: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
+        "What follows changes everything: Scene 10: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
       ]
     }
   ]

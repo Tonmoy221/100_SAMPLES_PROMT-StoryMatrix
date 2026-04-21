@@ -1,142 +1,190 @@
 {
   "story_name": "Ashoka's Transformation: Conquest to Compassion",
-  "character_description": "Ashoka, emperor with features showing his evolution\u2014bearing marks of warrior-king past (scars, powerful build), gradually transforming into sage (serene expression, glowing spiritual luminescence). Dark hair showing natural aging with dignity. Eyes reflecting shifting from conquering ambition to compassionate wisdom.",
-  "setting": "Ancient India\u2014battlefields, palaces, and sacred spaces of enlightenment",
+  "character_description": "Ashoka, emperor with features showing his evolution—bearing marks of warrior-king past (scars, powerful build), gradually transforming into sage (serene expression, glowing spiritual luminescence). Dark hair showing natural aging with dignity. Eyes reflecting shifting from conquering ambition to compassionate wisdom.",
+  "setting": "Ancient India—battlefields, palaces, and sacred spaces of enlightenment",
   "theme": "The possibility of radical transformation through recognizing consequences of power",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow."
+        "Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow.",
+        "Secondary shot: Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ashoka stands over conquered kingdom, victorious yet unsatisfied. His scars glow with past battles. Dark hair flows with warrior's intensity. Eyes burn with ambition for more conquest. Spiritual luminescence is absent\u2014only cold power radiates from him. Victory tastes like ash despite its magnitude."
+        "Ashoka stands over conquered kingdom, victorious yet unsatisfied. His scars glow with past battles. Dark hair flows with warrior's intensity. Eyes burn with ambition for more conquest. Spiritual luminescence is absent—only cold power radiates from him. Victory tastes like ash despite its magnitude. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I have conquered kingdoms. Yet something within me remains conquered still."
+        "I have conquered kingdoms. Yet something within me remains conquered still.",
+        "And there is more to this moment: I have conquered kingdoms. Yet something within me remains conquered still."
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow."
+        "Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow.",
+        "Secondary shot: Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ashoka stands over conquered kingdom, victorious yet unsatisfied. His scars glow with past battles. Dark hair flows with warrior's intensity. Eyes burn with ambition for more conquest. Spiritual luminescence is absent\u2014only cold power radiates from him. Victory tastes like ash despite its magnitude."
+        "Ashoka stands over conquered kingdom, victorious yet unsatisfied. His scars glow with past battles. Dark hair flows with warrior's intensity. Eyes burn with ambition for more conquest. Spiritual luminescence is absent—only cold power radiates from him. Victory tastes like ash despite its magnitude. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ashoka as young warrior-king, achieving military victory through savage conquest. His power seems absolute but hollow. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "I have conquered kingdoms. Yet something within me remains conquered still.",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: I have conquered kingdoms. Yet something within me remains conquered still."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions."
+        "Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions.",
+        "Secondary shot: Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ashoka sits with Buddhist monks, their words penetrating his consciousness. His scars seem to tell story of violence for first time. Dark hair reflects peaceful monastery setting. Eyes transform from conquest-driven ambition toward spiritual understanding. Luminescence grows brighter as realization settles. He perceives the chain of suffering his power creates."
+        "Ashoka sits with Buddhist monks, their words penetrating his consciousness. His scars seem to tell story of violence for first time. Dark hair reflects peaceful monastery setting. Eyes transform from conquest-driven ambition toward spiritual understanding. Luminescence grows brighter as realization settles. He perceives the chain of suffering his power creates. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I have spent my life causing suffering. Is there any way to atone?"
+        "I have spent my life causing suffering. Is there any way to atone?",
+        "And there is more to this moment: I have spent my life causing suffering. Is there any way to atone?"
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
         "Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ashoka sits with Buddhist monks, their words penetrating his consciousness. His scars seem to tell story of violence for first time. Dark hair reflects peaceful monastery setting. Eyes transform from conquest-driven ambition toward spiritual understanding. Luminescence grows brighter as realization settles. He perceives the chain of suffering his power creates."
+        "Ashoka sits with Buddhist monks, their words penetrating his consciousness. His scars seem to tell story of violence for first time. Dark hair reflects peaceful monastery setting. Eyes transform from conquest-driven ambition toward spiritual understanding. Luminescence grows brighter as realization settles. He perceives the chain of suffering his power creates. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ashoka encounters Buddhist teachings and comprehends suffering as fundamental consequence of all actions. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I have spent my life causing suffering. Is there any way to atone?"
+        "I have spent my life causing suffering. Is there any way to atone?",
+        "And there is more to this moment: I have spent my life causing suffering. Is there any way to atone?",
+        "What follows changes everything: I have spent my life causing suffering. Is there any way to atone?"
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Ashoka spreads Buddhism throughout India\u2014converting conquest into gentle awakening of consciousness.",
+        "Ashoka spreads Buddhism throughout India—converting conquest into gentle awakening of consciousness.",
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Ashoka travels as spiritual teacher, his former warrior energy transformed into compassionate work. Scars become symbols of transformation rather than conquest. Dark hair glows with peaceful wisdom. Eyes reflect genuine care for all beings' awakening. Luminescence radiates from authentic spiritual practice. His former power becomes platform for spreading dharma."
+        "Ashoka travels as spiritual teacher, his former warrior energy transformed into compassionate work. Scars become symbols of transformation rather than conquest. Dark hair glows with peaceful wisdom. Eyes reflect genuine care for all beings' awakening. Luminescence radiates from authentic spiritual practice. His former power becomes platform for spreading dharma. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "My power is now used for awakening, not conquest."
+        "My power is now used for awakening, not conquest.",
+        "And there is more to this moment: My power is now used for awakening, not conquest."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Ashoka spreads Buddhism throughout India\u2014converting conquest into gentle awakening of consciousness."
+        "Ashoka spreads Buddhism throughout India—converting conquest into gentle awakening of consciousness.",
+        "Secondary shot: Ashoka spreads Buddhism throughout India—converting conquest into gentle awakening of consciousness. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ashoka spreads Buddhism throughout India—converting conquest into gentle awakening of consciousness. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ashoka travels as spiritual teacher, his former warrior energy transformed into compassionate work. Scars become symbols of transformation rather than conquest. Dark hair glows with peaceful wisdom. Eyes reflect genuine care for all beings' awakening. Luminescence radiates from authentic spiritual practice. His former power becomes platform for spreading dharma."
+        "Ashoka travels as spiritual teacher, his former warrior energy transformed into compassionate work. Scars become symbols of transformation rather than conquest. Dark hair glows with peaceful wisdom. Eyes reflect genuine care for all beings' awakening. Luminescence radiates from authentic spiritual practice. His former power becomes platform for spreading dharma. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka spreads Buddhism throughout India—converting conquest into gentle awakening of consciousness. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ashoka spreads Buddhism throughout India—converting conquest into gentle awakening of consciousness. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "My power is now used for awakening, not conquest."
+        "My power is now used for awakening, not conquest.",
+        "And there is more to this moment: My power is now used for awakening, not conquest.",
+        "What follows changes everything: My power is now used for awakening, not conquest."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice."
+        "Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice.",
+        "Secondary shot: Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ashoka in meditation, confronting weight of destruction he caused. Scars no longer glow with pride\u2014they pulse with acknowledged harm. Dark hair grays visibly as he contemplates lifetime of atonement. Eyes hold both sorrow and acceptance. Luminescence becomes tool of processing rather than radiating triumph."
+        "Ashoka in meditation, confronting weight of destruction he caused. Scars no longer glow with pride—they pulse with acknowledged harm. Dark hair grays visibly as he contemplates lifetime of atonement. Eyes hold both sorrow and acceptance. Luminescence becomes tool of processing rather than radiating triumph. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I will spend entire lifetime attempting to undo consequences of my conquest."
+        "I will spend entire lifetime attempting to undo consequences of my conquest.",
+        "And there is more to this moment: I will spend entire lifetime attempting to undo consequences of my conquest."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice."
+        "Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice.",
+        "Secondary shot: Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ashoka in meditation, confronting weight of destruction he caused. Scars no longer glow with pride\u2014they pulse with acknowledged harm. Dark hair grays visibly as he contemplates lifetime of atonement. Eyes hold both sorrow and acceptance. Luminescence becomes tool of processing rather than radiating triumph."
+        "Ashoka in meditation, confronting weight of destruction he caused. Scars no longer glow with pride—they pulse with acknowledged harm. Dark hair grays visibly as he contemplates lifetime of atonement. Eyes hold both sorrow and acceptance. Luminescence becomes tool of processing rather than radiating triumph. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ashoka reflects on war-crimes of his past with genuine remorse and commitment to lifelong spiritual practice. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I will spend entire lifetime attempting to undo consequences of my conquest."
+        "I will spend entire lifetime attempting to undo consequences of my conquest.",
+        "And there is more to this moment: I will spend entire lifetime attempting to undo consequences of my conquest.",
+        "What follows changes everything: I will spend entire lifetime attempting to undo consequences of my conquest."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Ashoka's edicts spread Buddhism peacefully across continents\u2014legacy transforms from conquest to spiritual influence."
+        "Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence.",
+        "Secondary shot: Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Buddhist missionaries carry Ashoka's teachings across known world\u2014peaceful conversion replacing conquest. Ashoka's luminescence radiates beyond physical body, touching millions through propagated dharma. His scars represent transformation not just personal but civilizational. Dark hair reflects peaceful old age earned through spiritual practice. Eyes gaze toward future generations."
+        "Buddhist missionaries carry Ashoka's teachings across known world—peaceful conversion replacing conquest. Ashoka's luminescence radiates beyond physical body, touching millions through propagated dharma. His scars represent transformation not just personal but civilizational. Dark hair reflects peaceful old age earned through spiritual practice. Eyes gaze toward future generations. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
         "My greatest conquest is being conquered by dharma.",
@@ -146,19 +194,28 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Ashoka's edicts spread Buddhism peacefully across continents\u2014legacy transforms from conquest to spiritual influence."
+        "Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence.",
+        "Secondary shot: Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Buddhist missionaries carry Ashoka's teachings across known world\u2014peaceful conversion replacing conquest. Ashoka's luminescence radiates beyond physical body, touching millions through propagated dharma. His scars represent transformation not just personal but civilizational. Dark hair reflects peaceful old age earned through spiritual practice. Eyes gaze toward future generations."
+        "Buddhist missionaries carry Ashoka's teachings across known world—peaceful conversion replacing conquest. Ashoka's luminescence radiates beyond physical body, touching millions through propagated dharma. His scars represent transformation not just personal but civilizational. Dark hair reflects peaceful old age earned through spiritual practice. Eyes gaze toward future generations. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Ashoka's edicts spread Buddhism peacefully across continents—legacy transforms from conquest to spiritual influence. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "My greatest conquest is being conquered by dharma."
+        "My greatest conquest is being conquered by dharma.",
+        "And there is more to this moment: My greatest conquest is being conquered by dharma.",
+        "What follows changes everything: My greatest conquest is being conquered by dharma."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Ashoka's Transformation: Conquest to Compassion explores The possibility of radical transformation through recognizing consequences of power, set in Ancient India—battlefields, palaces, and sacred spaces of enlightenment."
 }

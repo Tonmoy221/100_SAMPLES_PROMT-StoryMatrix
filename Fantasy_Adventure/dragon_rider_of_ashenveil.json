@@ -9,15 +9,15 @@
         "A young girl, Kael, around 14, with short dark hair and a worn leather satchel, walks cautiously along the forest path. She glances around nervously, her breath visible in the cold morning air. Medium tracking shot, low angle, emphasizing her small figure against the towering trees."
       ],
       "first_frame_prompt": [
-        "Aerial view of fog-wrapped ancient forest at dawn; pale gold light piercing the canopy; swirling mist moving gently across the treetops; a narrow dirt path barely visible below.",
-        "Kael at forest edge, short dark hair, worn satchel over shoulder; nervous eyes scanning the mist; visible breath drifting upward in swirling patterns; mist wisping around her face."
+        "Aerial view of fog-wrapped ancient forest at dawn; pale gold light piercing the canopy; swirling mist moving gently across the treetops; a narrow dirt path barely visible below. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael at forest edge, short dark hair, worn satchel over shoulder; nervous eyes scanning the mist; visible breath drifting upward in swirling patterns; mist wisping around her face. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "There is a village at the edge of a forest that no one dares enter. And there is always\u2026 one child who does.",
+        "There is a village at the edge of a forest that no one dares enter. And there is always… one child who does.",
         "Her name was Kael. And on the morning everything changed, she walked into Ashenveil alone."
       ]
     },
@@ -25,13 +25,13 @@
       "scene_num": 2,
       "video_prompts": [
         "Kael pushes through dense undergrowth and stumbles into a hidden clearing. A massive wounded dragon lies on its side, dark green scales glistening with blood. Its golden eye slowly opens and fixes on her. Wide shot establishing the scale of the dragon against the small girl.",
-        "Close-up of Kael's face \u2014 shock, then slowly, wonder. She doesn't run. She takes one small step forward. The camera slowly zooms in on her eyes reflecting the dragon's golden gaze.",
-        "Kael kneels beside the dragon's injured wing, slowly reaching out her trembling hand. The dragon holds perfectly still. Their hands \u2014 and claws \u2014 almost touch. Extreme close-up with soft warm light filtering through the canopy above."
+        "Close-up of Kael's face — shock, then slowly, wonder. She doesn't run. She takes one small step forward. The camera slowly zooms in on her eyes reflecting the dragon's golden gaze.",
+        "Kael kneels beside the dragon's injured wing, slowly reaching out her trembling hand. The dragon holds perfectly still. Their hands — and claws — almost touch. Extreme close-up with soft warm light filtering through the canopy above."
       ],
       "first_frame_prompt": [
-        "Hidden forest clearing; massive dark-green dragon lying wounded, golden eye half-open and blinking slowly; Kael frozen at the clearing's edge, mouth slightly open; light filtering through leaves dancing softly.",
-        "Kael's face in close-up; initial shock melting into wide-eyed wonder; golden dragon light reflected and shimmering in her dark irises; light slowly moving across her face.",
-        "Kael's trembling hand reaching toward a great scaled wing; dragon completely still; dappled canopy light on both of them; light spots slowly moving across the scales and her hand."
+        "Hidden forest clearing; massive dark-green dragon lying wounded, golden eye half-open and blinking slowly; Kael frozen at the clearing's edge, mouth slightly open; light filtering through leaves dancing softly. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael's face in close-up; initial shock melting into wide-eyed wonder; golden dragon light reflected and shimmering in her dark irises; light slowly moving across her face. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael's trembling hand reaching toward a great scaled wing; dragon completely still; dappled canopy light on both of them; light spots slowly moving across the scales and her hand. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -40,59 +40,82 @@
       ],
       "speech": [
         "Deep in the forest, she found something the village elders said could not exist. Not anymore.",
-        "Most people, when they see a dragon, run. Kael\u2026 took a step closer.",
-        "And in that single breath between fear and wonder \u2014 something ancient recognized something brave."
+        "Most people, when they see a dragon, run. Kael… took a step closer.",
+        "And in that single breath between fear and wonder — something ancient recognized something brave."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Time-lapse style sequence: Kael returns each day, bringing herbs and water. The dragon watches her every move with cautious golden eyes. The forest changes slightly \u2014 leaves falling, indicating passing days. Wide shot series, warm and intimate.",
-        "Kael wraps the dragon's wing with strips of cloth torn from her cloak. The dragon tilts its enormous head, studying her. A low rumble \u2014 like a purr \u2014 vibrates through the ground. Medium shot, soft morning light."
+        "Time-lapse style sequence: Kael returns each day, bringing herbs and water. The dragon watches her every move with cautious golden eyes. The forest changes slightly — leaves falling, indicating passing days. Wide shot series, warm and intimate.",
+        "Kael wraps the dragon's wing with strips of cloth torn from her cloak. The dragon tilts its enormous head, studying her. A low rumble — like a purr — vibrates through the ground. Medium shot, soft morning light."
       ],
       "first_frame_prompt": [
-        "Kael arriving at the clearing with arms full of herbs and a small clay jug; dragon's golden eye tracking her entrance; fallen leaves gently swirling around them in air currents.",
-        "Kael carefully binding the dragon's dark-scaled wing with pale cloth; dragon's head tilting slowly and deliberately in curiosity; ground surface visibly trembling faintly in ripples with a low rumble."
-      ],
-      "cut": [
-        false,
-        true
-      ],
-      "speech": [
-        "She came back every day. She didn't tell anyone. Some things, she understood, are too precious \u2014 and too dangerous \u2014 to share too soon.",
-        "Day by day, the dragon healed. And something else grew too \u2014 quieter than trust, deeper than friendship."
-      ]
-    },
-    {
-      "scene_num": 4,
-      "video_prompts": [
-        "The dragon, now healed, stands tall in the clearing for the first time. It stretches its great wings \u2014 a magnificent dark green canopy blocking the sky. Kael watches from below, breathless. Wide low-angle shot emphasizing power and scale.",
-        "The dragon lowers its head slowly to Kael's level. She reaches up and presses her palm to its snout. A warm golden light pulses from beneath her hand \u2014 a bond forming. Close-up, intimate, magical."
-      ],
-      "first_frame_prompt": [
-        "Dragon standing fully upright for first time, massive wings spread wide, feathers rippling with movement; Kael below with hands raised slightly, breathless awe on her face; wind swirling around them.",
-        "Kael's small palm pressed against the dragon's great dark snout; a soft pulse of golden light pulsing rhythmically beneath her skin where they touch; light waves expanding outward."
+        "Kael arriving at the clearing with arms full of herbs and a small clay jug; dragon's golden eye tracking her entrance; fallen leaves gently swirling around them in air currents. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael carefully binding the dragon's dark-scaled wing with pale cloth; dragon's head tilting slowly and deliberately in curiosity; ground surface visibly trembling faintly in ripples with a low rumble. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "The morning the dragon stood again\u2026 Kael said she felt the whole forest exhale.",
-        "And when their hands \u2014 and scales \u2014 finally met, the world around them went very, very quiet."
+        "She came back every day. She didn't tell anyone. Some things, she understood, are too precious — and too dangerous — to share too soon.",
+        "Day by day, the dragon healed. And something else grew too — quieter than trust, deeper than friendship."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The dragon, now healed, stands tall in the clearing for the first time. It stretches its great wings — a magnificent dark green canopy blocking the sky. Kael watches from below, breathless. Wide low-angle shot emphasizing power and scale.",
+        "The dragon lowers its head slowly to Kael's level. She reaches up and presses her palm to its snout. A warm golden light pulses from beneath her hand — a bond forming. Close-up, intimate, magical.",
+        "Tertiary shot: The dragon, now healed, stands tall in the clearing for the first time. It stretches its great wings — a magnificent dark green canopy blocking the sky. Kael watches from below, breathless. Wide low-angle shot emphasizing power and scale. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Dragon standing fully upright for first time, massive wings spread wide, feathers rippling with movement; Kael below with hands raised slightly, breathless awe on her face; wind swirling around them. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael's small palm pressed against the dragon's great dark snout; a soft pulse of golden light pulsing rhythmically beneath her skin where they touch; light waves expanding outward. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: The dragon, now healed, stands tall in the clearing for the first time. It stretches its great wings — a magnificent dark green canopy blocking the sky. Kael watches from below, breathless. Wide low-angle shot emphasizing power and scale. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "The morning the dragon stood again… Kael said she felt the whole forest exhale.",
+        "And when their hands — and scales — finally met, the world around them went very, very quiet.",
+        "What follows changes everything: The morning the dragon stood again… Kael said she felt the whole forest exhale."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
         "Night falls over the village. Dark tendrils of shadow creep across the fields from the distant mountains. Villagers notice crops withering, livestock growing restless. Wide establishing shot, ominous red-tinged sky at the horizon.",
-        "The village elder, an old woman with silver braids, stands at the edge of town staring at the dark horizon. Her face is grim and knowing. Close-up, candlelight from behind flickering against her weathered face.",
-        "Kael, hidden at the tree line, watches the village with worried eyes. She looks back toward the forest. A decision forming on her face. Medium shot, tension in her posture."
+        "The village elder, an old woman with silver braids, stands at the edge of town staring at the dark horizon. Her face is grim and knowing. Close-up, candlelight from behind flickering against her weathered face."
       ],
       "first_frame_prompt": [
-        "Village at dusk with dark tendrils slowly creeping from distant mountains like smoke; crops visibly wilting with swaying motion in foreground; sky bruised red-orange at the horizon shifting hues.",
-        "Elder woman with silver braids at village edge; grim expression in dancing, flickering candlelight; knowing eyes fixed on the darkness ahead, shadows moving across her weathered face.",
-        "Kael partially hidden at tree line watching the village; worry in her eyes; body half-turned back toward the forest \u2014 caught between two worlds; wind gently moving her hair and clothes."
+        "Village at dusk with dark tendrils slowly creeping from distant mountains like smoke; crops visibly wilting with swaying motion in foreground; sky bruised red-orange at the horizon shifting hues. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Elder woman with silver braids at village edge; grim expression in dancing, flickering candlelight; knowing eyes fixed on the darkness ahead, shadows moving across her weathered face. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "speech": [
+        "But not all stories begin in the light. Some begin with a darkness that has been waiting… a very long time.",
+        "The elders had a word for it. They called it the Unraveling. They thought it was only a legend."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Kael climbs onto the dragon's back for the first time. The dragon is still and patient as she settles between its great shoulder blades. She grips the base of a spine, heart hammering. Close-medium shot capturing the nervous energy.",
+        "The dragon spreads its wings fully — a thunderous sound — and with a single powerful leap, launches into the night sky. Kael screams, then laughs, then falls silent in breathless wonder. Wide dramatic shot, rising from forest into star-filled sky.",
+        "Tertiary shot: Kael climbs onto the dragon's back for the first time. The dragon is still and patient as she settles between its great shoulder blades. She grips the base of a spine, heart hammering. Close-medium shot capturing the nervous energy. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
+      ],
+      "first_frame_prompt": [
+        "Kael seated between dragon's shoulder blades, gripping a spine tightly; dragon perfectly still and breathing deeply, patient; forest clearing dark around them; mist swirling. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Dragon mid-leap into the night sky, wings fully spread and moving powerfully; Kael clinging on with a wild expression caught between terror and joy; stars above twinkling and streaking past; wind rushing around them. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Kael climbs onto the dragon's back for the first time. The dragon is still and patient as she settles between its great shoulder blades. She grips the base of a spine, heart hammering. Close-medium shot capturing the nervous energy. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -100,39 +123,20 @@
         true
       ],
       "speech": [
-        "But not all stories begin in the light. Some begin with a darkness that has been waiting\u2026 a very long time.",
-        "The elders had a word for it. They called it the Unraveling. They thought it was only a legend.",
-        "Kael looked at the shadow on the horizon, then back at the forest. She already knew what she had to do."
-      ]
-    },
-    {
-      "scene_num": 6,
-      "video_prompts": [
-        "Kael climbs onto the dragon's back for the first time. The dragon is still and patient as she settles between its great shoulder blades. She grips the base of a spine, heart hammering. Close-medium shot capturing the nervous energy.",
-        "The dragon spreads its wings fully \u2014 a thunderous sound \u2014 and with a single powerful leap, launches into the night sky. Kael screams, then laughs, then falls silent in breathless wonder. Wide dramatic shot, rising from forest into star-filled sky."
-      ],
-      "first_frame_prompt": [
-        "Kael seated between dragon's shoulder blades, gripping a spine tightly; dragon perfectly still and breathing deeply, patient; forest clearing dark around them; mist swirling.",
-        "Dragon mid-leap into the night sky, wings fully spread and moving powerfully; Kael clinging on with a wild expression caught between terror and joy; stars above twinkling and streaking past; wind rushing around them."
-      ],
-      "cut": [
-        true,
-        false
-      ],
-      "speech": [
         "She had never ridden anything faster than a cart horse. She had certainly never ridden the sky.",
-        "But the moment they left the ground \u2014 every fear she'd ever carried\u2026 simply fell away below her."
+        "But the moment they left the ground — every fear she'd ever carried… simply fell away below her.",
+        "What follows changes everything: She had never ridden anything faster than a cart horse. She had certainly never ridden the sky."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Aerial view \u2014 Kael and the dragon soar over the dark landscape. Below, the shadow-corruption spreads like ink across the valleys. The dragon banks sharply, heading toward the dark mountains. Sweeping cinematic wide shot with dramatic orchestral tone.",
-        "They land on a jagged obsidian cliff above a massive crater. Inside, a pulsing dark crystal \u2014 the source of the Unraveling \u2014 throbs with black energy. The dragon snarls. Kael stares down, wide-eyed. Wide establishing shot of the corrupted crater."
+        "Aerial view — Kael and the dragon soar over the dark landscape. Below, the shadow-corruption spreads like ink across the valleys. The dragon banks sharply, heading toward the dark mountains. Sweeping cinematic wide shot with dramatic orchestral tone.",
+        "They land on a jagged obsidian cliff above a massive crater. Inside, a pulsing dark crystal — the source of the Unraveling — throbs with black energy. The dragon snarls. Kael stares down, wide-eyed. Wide establishing shot of the corrupted crater."
       ],
       "first_frame_prompt": [
-        "Kael and dragon in flight over darkened valleys; below, shadow tendrils visible spreading like flowing ink in motion; distant black mountains ahead under sick-red sky with shifting clouds; wind trails behind them.",
-        "Obsidian cliff overlooking a crater; a massive black crystal pulsing rhythmically with dark energy at the center, waves of shadow rippling outward; Kael and dragon perched above, looking down; energy crackling around them."
+        "Kael and dragon in flight over darkened valleys; below, shadow tendrils visible spreading like flowing ink in motion; distant black mountains ahead under sick-red sky with shifting clouds; wind trails behind them. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Obsidian cliff overlooking a crater; a massive black crystal pulsing rhythmically with dark energy at the center, waves of shadow rippling outward; Kael and dragon perched above, looking down; energy crackling around them. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -140,20 +144,20 @@
       ],
       "speech": [
         "From the sky, she could see how bad it truly was. The darkness wasn't coming. It was already here.",
-        "And at the heart of it \u2014 something old. Something that should have stayed buried a thousand years ago."
+        "And at the heart of it — something old. Something that should have stayed buried a thousand years ago."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Kael slides off the dragon and descends toward the crater on foot, gripping a rocky ledge. Shadow creatures \u2014 dark wispy forms \u2014 begin rising from the crystal. The dragon roars and dives, breathing green flame. Intense action, wide shot capturing the scale of the battle.",
-        "Kael reaches the crystal. She pulls a small stone from her satchel \u2014 a memento from her late mother \u2014 and slams it against the dark crystal. A crack forms. Light begins to pour through. Close-up, hands trembling, face fierce and determined.",
-        "The dragon lands beside her, protecting her with its wing as shadow creatures surge. Together, girl and dragon hold their ground. Wide dynamic shot \u2014 fire, shadow, light all colliding."
+        "Kael slides off the dragon and descends toward the crater on foot, gripping a rocky ledge. Shadow creatures — dark wispy forms — begin rising from the crystal. The dragon roars and dives, breathing green flame. Intense action, wide shot capturing the scale of the battle.",
+        "Kael reaches the crystal. She pulls a small stone from her satchel — a memento from her late mother — and slams it against the dark crystal. A crack forms. Light begins to pour through. Close-up, hands trembling, face fierce and determined.",
+        "The dragon lands beside her, protecting her with its wing as shadow creatures surge. Together, girl and dragon hold their ground. Wide dynamic shot — fire, shadow, light all colliding."
       ],
       "first_frame_prompt": [
-        "Kael descending rocky cliff toward glowing black crystal below; shadow creatures swirling and rising around it; dragon mid-dive with mouth open, green flame erupting and streaming; wind rushing upward.",
-        "Kael's shaking hands pressing a small pale stone against the cracked dark crystal; brilliant white light pouring forcefully from the fracture, expanding outward in waves.",
-        "Dragon's great wing sheltering Kael as shadow creatures crash violently against it, swirling in turbulent motion; Kael standing firm, face lit by dancing green flame and pulsing white crystal light."
+        "Kael descending rocky cliff toward glowing black crystal below; shadow creatures swirling and rising around it; dragon mid-dive with mouth open, green flame erupting and streaming; wind rushing upward. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael's shaking hands pressing a small pale stone against the cracked dark crystal; brilliant white light pouring forcefully from the fracture, expanding outward in waves. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Dragon's great wing sheltering Kael as shadow creatures crash violently against it, swirling in turbulent motion; Kael standing firm, face lit by dancing green flame and pulsing white crystal light. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -162,19 +166,19 @@
       ],
       "speech": [
         "She wasn't a soldier. She wasn't a wizard. She was a girl with a broken stone and a dragon who believed in her.",
-        "But sometimes\u2026 that is enough.",
-        "They stood together against the dark. And the dark\u2026 blinked first."
+        "But sometimes… that is enough.",
+        "They stood together against the dark. And the dark… blinked first."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "The dark crystal shatters in a massive explosion of light. The shadow creatures dissolve instantly. The corrupted landscape begins to recede \u2014 color returning to the valleys below. Wide aerial shot of the light radiating outward from the crater like a sunrise.",
+        "The dark crystal shatters in a massive explosion of light. The shadow creatures dissolve instantly. The corrupted landscape begins to recede — color returning to the valleys below. Wide aerial shot of the light radiating outward from the crater like a sunrise.",
         "Kael sits exhausted on the cliff edge, the dragon curled protectively around her. She leans against its warm scales, eyes heavy. The sky above begins to turn gold with real dawn. Medium intimate shot, peaceful and earned."
       ],
       "first_frame_prompt": [
-        "Massive crystal explosion seen from above; white light radiating forcefully outward across dark valleys in expanding waves; shadow corruption visibly retreating rapidly in concentric circles.",
-        "Kael sitting on cliff edge, leaning against dragon's warm dark scales; dragon curled protectively around her, gently breathing; golden dawn beginning above them both, light spreading across the sky."
+        "Massive crystal explosion seen from above; white light radiating forcefully outward across dark valleys in expanding waves; shadow corruption visibly retreating rapidly in concentric circles. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael sitting on cliff edge, leaning against dragon's warm dark scales; dragon curled protectively around her, gently breathing; golden dawn beginning above them both, light spreading across the sky. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -188,14 +192,14 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Morning. The village below is alive again \u2014 bright, green, restored. Villagers step outside and look up in wonder at the sky. The dragon flies overhead in a slow, graceful arc, Kael on its back, silhouetted against the golden sunrise. Wide triumphant shot.",
-        "Kael looks down at the village she protected \u2014 the home she almost lost. A small smile. She reaches forward and pats the dragon's neck. It tilts its head back toward her. The camera slowly pulls back, the two of them growing smaller against the vast, open, beautiful sky.",
-        "Final shot \u2014 the sky, endless and golden, with only a tiny silhouette of a girl and her dragon climbing higher and higher into the blue. Fade to soft white."
+        "Morning. The village below is alive again — bright, green, restored. Villagers step outside and look up in wonder at the sky. The dragon flies overhead in a slow, graceful arc, Kael on its back, silhouetted against the golden sunrise. Wide triumphant shot.",
+        "Kael looks down at the village she protected — the home she almost lost. A small smile. She reaches forward and pats the dragon's neck. It tilts its head back toward her. The camera slowly pulls back, the two of them growing smaller against the vast, open, beautiful sky.",
+        "Final shot — the sky, endless and golden, with only a tiny silhouette of a girl and her dragon climbing higher and higher into the blue. Fade to soft white."
       ],
       "first_frame_prompt": [
-        "Villagers emerging into morning light, looking skyward with wonder; dragon in graceful flowing arc above, Kael's silhouette against brilliant golden sunrise; light rays streaming down.",
-        "Kael looking down at restored green village with a quiet smile; hand gently stroking dragon's dark neck; dragon turning its great head smoothly and deliberately toward her.",
-        "Final wide sky shot \u2014 pale gold and blue with clouds drifting slowly; tiny silhouette of dragon and rider climbing higher and higher; horizon glowing with spreading light; slow fade to white."
+        "Villagers emerging into morning light, looking skyward with wonder; dragon in graceful flowing arc above, Kael's silhouette against brilliant golden sunrise; light rays streaming down. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Kael looking down at restored green village with a quiet smile; hand gently stroking dragon's dark neck; dragon turning its great head smoothly and deliberately toward her. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Final wide sky shot — pale gold and blue with clouds drifting slowly; tiny silhouette of dragon and rider climbing higher and higher; horizon glowing with spreading light; slow fade to white. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -203,9 +207,9 @@
         true
       ],
       "speech": [
-        "They say you can still see them sometimes \u2014 just before sunrise \u2014 a shadow moving across the early gold of the sky.",
+        "They say you can still see them sometimes — just before sunrise — a shadow moving across the early gold of the sky.",
         "A girl and a dragon. Protecting a world that once told her she was too small to matter.",
-        "And if you are very still\u2026 and you look up at just the right moment\u2026 you might see them too."
+        "And if you are very still… and you look up at just the right moment… you might see them too."
       ]
     }
   ]

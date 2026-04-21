@@ -1,69 +1,91 @@
 {
   "story_name": "Odin's Sacrifice: The Price of Wisdom",
-  "character_description": "Odin, Norse all-father with one blazing eye that sees all timelines, flowing silver beard adorned with runes glowing with ancient magic. Wears deep blue cloak that seems to contain starlight. Eternal seeker sacrificing endlessly for knowledge\u2014bearing both power and profound weariness.",
+  "character_description": "Odin, Norse all-father with one blazing eye that sees all timelines, flowing silver beard adorned with runes glowing with ancient magic. Wears deep blue cloak that seems to contain starlight. Eternal seeker sacrificing endlessly for knowledge—bearing both power and profound weariness.",
   "setting": "Yggdrasil the World Tree and Nine Realms beyond",
   "theme": "The cost of wisdom and continuous sacrifice for understanding",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom."
+        "Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom.",
+        "Secondary shot: Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Odin stands before Yggdrasil's immense roots, ancient and eternal. His single blazing eye scans infinite timelines, glowing with knowledge and burden. Silver beard adorned with runes pulses with accumulated magic. His deep blue cloak streams with starlight energy. The weariness of infinite sacrifice visible in his posture."
+        "Odin stands before Yggdrasil's immense roots, ancient and eternal. His single blazing eye scans infinite timelines, glowing with knowledge and burden. Silver beard adorned with runes pulses with accumulated magic. His deep blue cloak streams with starlight energy. The weariness of infinite sacrifice visible in his posture. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "What wisdom remains undiscovered that I must sacrifice for?"
+        "What wisdom remains undiscovered that I must sacrifice for?",
+        "And there is more to this moment: What wisdom remains undiscovered that I must sacrifice for?"
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom."
+        "Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom.",
+        "Secondary shot: Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Odin stands before Yggdrasil's immense roots, ancient and eternal. His single blazing eye scans infinite timelines, glowing with knowledge and burden. Silver beard adorned with runes pulses with accumulated magic. His deep blue cloak streams with starlight energy. The weariness of infinite sacrifice visible in his posture."
+        "Odin stands before Yggdrasil's immense roots, ancient and eternal. His single blazing eye scans infinite timelines, glowing with knowledge and burden. Silver beard adorned with runes pulses with accumulated magic. His deep blue cloak streams with starlight energy. The weariness of infinite sacrifice visible in his posture. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Odin stands at base of Yggdrasil, blazing eye surveying all Nine Realms simultaneously. He contemplates latest sacrifice needed for greater wisdom. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "What wisdom remains undiscovered that I must sacrifice for?",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: What wisdom remains undiscovered that I must sacrifice for?"
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom."
+        "Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom.",
+        "Secondary shot: Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "At Well of Mimir, Odin kneels before ancient waters. His single blazing eye meets his reflection. The weight of ages presses down. He makes irreversible choice\u2014sacrificing perfect vision for transcendent wisdom. Beard runes pulse with intense golden light as sacrifice is made."
+        "At Well of Mimir, Odin kneels before ancient waters. His single blazing eye meets his reflection. The weight of ages presses down. He makes irreversible choice—sacrificing perfect vision for transcendent wisdom. Beard runes pulse with intense golden light as sacrifice is made. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "To see truly requires releasing what limits sight."
+        "To see truly requires releasing what limits sight.",
+        "And there is more to this moment: To see truly requires releasing what limits sight."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
         "Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "At Well of Mimir, Odin kneels before ancient waters. His single blazing eye meets his reflection. The weight of ages presses down. He makes irreversible choice\u2014sacrificing perfect vision for transcendent wisdom. Beard runes pulse with intense golden light as sacrifice is made."
+        "At Well of Mimir, Odin kneels before ancient waters. His single blazing eye meets his reflection. The weight of ages presses down. He makes irreversible choice—sacrificing perfect vision for transcendent wisdom. Beard runes pulse with intense golden light as sacrifice is made. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Odin reaches Well of Mimir, choosing to sacrifice his remaining eye for water of ultimate wisdom. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "To see truly requires releasing what limits sight."
+        "To see truly requires releasing what limits sight.",
+        "And there is more to this moment: To see truly requires releasing what limits sight.",
+        "What follows changes everything: To see truly requires releasing what limits sight."
       ]
     },
     {
@@ -73,70 +95,96 @@
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Odin hangs suspended on Yggdrasil, in ultimate position of surrender and sacrifice. His silver beard runes glow with transcendent power flowing through him. The nine days and nights of sacrifice become visible\u2014past, present, and future converging. His cloak of starlight becomes conduit for infinite magic descending into physical form."
+        "Odin hangs suspended on Yggdrasil, in ultimate position of surrender and sacrifice. His silver beard runes glow with transcendent power flowing through him. The nine days and nights of sacrifice become visible—past, present, and future converging. His cloak of starlight becomes conduit for infinite magic descending into physical form. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Death and rebirth teach truths that cannot be learned while living normally."
+        "Death and rebirth teach truths that cannot be learned while living normally.",
+        "And there is more to this moment: Death and rebirth teach truths that cannot be learned while living normally."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge."
+        "Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge.",
+        "Secondary shot: Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Odin hangs suspended on Yggdrasil, in ultimate position of surrender and sacrifice. His silver beard runes glow with transcendent power flowing through him. The nine days and nights of sacrifice become visible\u2014past, present, and future converging. His cloak of starlight becomes conduit for infinite magic descending into physical form."
+        "Odin hangs suspended on Yggdrasil, in ultimate position of surrender and sacrifice. His silver beard runes glow with transcendent power flowing through him. The nine days and nights of sacrifice become visible—past, present, and future converging. His cloak of starlight becomes conduit for infinite magic descending into physical form. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Odin hangs himself on Yggdrasil's branches to access deepest rune magic and shamanic knowledge. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Death and rebirth teach truths that cannot be learned while living normally."
+        "Death and rebirth teach truths that cannot be learned while living normally.",
+        "And there is more to this moment: Death and rebirth teach truths that cannot be learned while living normally.",
+        "What follows changes everything: Death and rebirth teach truths that cannot be learned while living normally."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice."
+        "Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice.",
+        "Secondary shot: Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Odin moves through Nine Realms as teacher and guide. His single blazing eye perceives each being's need for transformation. Every teaching given requires sacrifice of something Odin holds dear. Beard runes glow with endless compassion for those making difficult choices."
+        "Odin moves through Nine Realms as teacher and guide. His single blazing eye perceives each being's need for transformation. Every teaching given requires sacrifice of something Odin holds dear. Beard runes glow with endless compassion for those making difficult choices. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "The teacher must sacrifice most of all."
+        "The teacher must sacrifice most of all.",
+        "And there is more to this moment: The teacher must sacrifice most of all."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice."
+        "Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice.",
+        "Secondary shot: Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Odin moves through Nine Realms as teacher and guide. His single blazing eye perceives each being's need for transformation. Every teaching given requires sacrifice of something Odin holds dear. Beard runes glow with endless compassion for those making difficult choices."
+        "Odin moves through Nine Realms as teacher and guide. His single blazing eye perceives each being's need for transformation. Every teaching given requires sacrifice of something Odin holds dear. Beard runes glow with endless compassion for those making difficult choices. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Odin shares wisdom with gods and mortals, but each teaching requires further sacrifice. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "The teacher must sacrifice most of all."
+        "The teacher must sacrifice most of all.",
+        "And there is more to this moment: The teacher must sacrifice most of all.",
+        "What follows changes everything: The teacher must sacrifice most of all."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself."
+        "Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself.",
+        "Secondary shot: Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Odin climbs Yggdrasil endlessly, each sacrifice informing next quest for wisdom. His journey becomes eternal cycle\u2014not futile but purposeful in its commitment to understanding. Beard runes glow with acceptance that meaning comes from sincere pursuit, not ultimate achievement."
+        "Odin climbs Yggdrasil endlessly, each sacrifice informing next quest for wisdom. His journey becomes eternal cycle—not futile but purposeful in its commitment to understanding. Beard runes glow with acceptance that meaning comes from sincere pursuit, not ultimate achievement. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
         "The journey of seeking is greater than any final answer.",
@@ -146,19 +194,28 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself."
+        "Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself.",
+        "Secondary shot: Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Odin climbs Yggdrasil endlessly, each sacrifice informing next quest for wisdom. His journey becomes eternal cycle\u2014not futile but purposeful in its commitment to understanding. Beard runes glow with acceptance that meaning comes from sincere pursuit, not ultimate achievement."
+        "Odin climbs Yggdrasil endlessly, each sacrifice informing next quest for wisdom. His journey becomes eternal cycle—not futile but purposeful in its commitment to understanding. Beard runes glow with acceptance that meaning comes from sincere pursuit, not ultimate achievement. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Odin continues sacrificing and seeking despite knowing ultimate futility, finding meaning in the pursuit itself. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "The journey of seeking is greater than any final answer."
+        "The journey of seeking is greater than any final answer.",
+        "And there is more to this moment: The journey of seeking is greater than any final answer.",
+        "What follows changes everything: The journey of seeking is greater than any final answer."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Odin's Sacrifice: The Price of Wisdom explores The cost of wisdom and continuous sacrifice for understanding, set in Yggdrasil the World Tree and Nine Realms beyond."
 }

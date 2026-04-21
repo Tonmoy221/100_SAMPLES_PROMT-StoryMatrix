@@ -1,157 +1,173 @@
 {
   "story_name": "The Library at the End of the Road",
-  "story_overview": "Twelve-year-old twins Ida and Leo follow a road that doesn't appear on any map to a grand library that exists between worlds \u2014 a place where every book ever written or thought lives on its shelves. When they discover that someone is tearing pages from the books \u2014 erasing events that actually happened \u2014 they must journey through the living stories within to stop the Eraser before history itself unravels.",
+  "story_overview": "Twelve-year-old twins Ida and Leo follow a road that doesn't appear on any map to a grand library that exists between worlds — a place where every book ever written or thought lives on its shelves. When they discover that someone is tearing pages from the books — erasing events that actually happened — they must journey through the living stories within to stop the Eraser before history itself unravels.",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "A wide shot of an ordinary town at dusk. At the edge of the town, a road appears that wasn't there this morning \u2014 golden gravel, lined with lanterns that lit themselves. Twins Ida and Leo, 12, stand staring at it. Wide establishing shot.",
-        "Ida and Leo look at each other \u2014 Ida is decisive and reaches for Leo's hand. Leo is nervous but nods. Together they step onto the golden road. Medium shot from behind them, the road stretching forward into misty distance."
+        "A wide shot of an ordinary town at dusk. At the edge of the town, a road appears that wasn't there this morning — golden gravel, lined with lanterns that lit themselves. Twins Ida and Leo, 12, stand staring at it. Wide establishing shot.",
+        "Ida and Leo look at each other — Ida is decisive and reaches for Leo's hand. Leo is nervous but nods. Together they step onto the golden road. Medium shot from behind them, the road stretching forward into misty distance."
       ],
       "first_frame_prompt": [
-        "Edge of an ordinary town at dusk; a golden lantern-lit road appearing mysteriously where none existed; lanterns glowing softly; twins silhouetted at its entrance with wonder.",
-        "Ida and Leo stepping onto the golden road together, hands firmly clasped; road stretching invitingly into warm mist that gently swirls ahead; town ordinary and dark behind them fading into shadow."
+        "Edge of an ordinary town at dusk; a golden lantern-lit road appearing mysteriously where none existed; lanterns glowing softly; twins silhouetted at its entrance with wonder. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Ida and Leo stepping onto the golden road together, hands firmly clasped; road stretching invitingly into warm mist that gently swirls ahead; town ordinary and dark behind them fading into shadow. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "Some roads appear only when you are ready for them. Others appear when you are absolutely not ready \u2014 but need to go anyway.",
+        "Some roads appear only when you are ready for them. Others appear when you are absolutely not ready — but need to go anyway.",
         "The twins argued for three minutes about whether to follow it. Then Ida decided, and that was that."
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "They walk the road through shifting landscapes \u2014 countryside, forest, desert, sea-cliff \u2014 each transition seamless and dreamlike. Wide tracking shot, golden road constant through changing worlds.",
-        "The road ends at the base of an enormous library building \u2014 cathedral-like, made of warm amber stone, windows glowing with soft light. Books in every window. Steps wide and welcoming. Wide awe-inspiring establishing shot."
+        "They walk the road through shifting landscapes — countryside, forest, desert, sea-cliff — each transition seamless and dreamlike. Wide tracking shot, golden road constant through changing worlds.",
+        "The road ends at the base of an enormous library building — cathedral-like, made of warm amber stone, windows glowing with soft light. Books in every window. Steps wide and welcoming. Wide awe-inspiring establishing shot.",
+        "Tertiary shot: They walk the road through shifting landscapes — countryside, forest, desert, sea-cliff — each transition seamless and dreamlike. Wide tracking shot, golden road constant through changing worlds. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Ida and Leo walking the golden road through rapidly shifting impossible landscapes \u2014 forest transitioning to desert to sea-cliff flowing seamlessly around them; light constantly changing; wind always gentle.",
-        "The Library at road's end: vast amber cathedral of books appearing majestically; every window lit warmly and filled with book spines; wide welcoming steps; structure radiating warmth and welcome; magnificent and eternal."
+        "Ida and Leo walking the golden road through rapidly shifting impossible landscapes — forest transitioning to desert to sea-cliff flowing seamlessly around them; light constantly changing; wind always gentle. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "The Library at road's end: vast amber cathedral of books appearing majestically; every window lit warmly and filled with book spines; wide welcoming steps; structure radiating warmth and welcome; magnificent and eternal. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: They walk the road through shifting landscapes — countryside, forest, desert, sea-cliff — each transition seamless and dreamlike. Wide tracking shot, golden road constant through changing worlds. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
         false,
         true
       ],
       "speech": [
         "The road took them through every kind of landscape in less than an hour. They didn't question it. Some roads earn trust by being beautiful.",
-        "And at the end of it \u2014 a library. Not a small one."
+        "And at the end of it — a library. Not a small one.",
+        "What follows changes everything: The road took them through every kind of landscape in less than an hour. They didn't question it. Some roads earn trust by being beautiful."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Inside \u2014 the library is infinite. Shelves rise beyond sight. Books float gently between levels. A warm, paper-and-leather smell. A librarian \u2014 ancient and kind, with silver spectacles and a book for a face \u2014 greets them. Wide interior shot, breathtaking scale.",
-        "The Librarian explains to them: every book ever written, every story ever told or dreamed is here. And someone is tearing the pages out. Close-up of a damaged book on a display stand \u2014 pages missing, text visibly disappearing."
+        "Inside — the library is infinite. Shelves rise beyond sight. Books float gently between levels. A warm, paper-and-leather smell. A librarian — ancient and kind, with silver spectacles and a book for a face — greets them. Wide interior shot, breathtaking scale.",
+        "The Librarian explains to them: every book ever written, every story ever told or dreamed is here. And someone is tearing the pages out. Close-up of a damaged book on a display stand — pages missing, text visibly disappearing."
       ],
       "first_frame_prompt": [
-        "Infinite library interior extending beyond sight; shelves towering impossibly; books gently floating and drifting gracefully between levels; silver-spectacled Librarian with a gentle kind expression warmly greeting the twins.",
-        "A display book in devastating close-up; pages torn violently from its spine; remaining text visibly fading and dissolving away before their eyes as they watch in growing horror."
+        "Infinite library interior extending beyond sight; shelves towering impossibly; books gently floating and drifting gracefully between levels; silver-spectacled Librarian with a gentle kind expression warmly greeting the twins. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "A display book in devastating close-up; pages torn violently from its spine; remaining text visibly fading and dissolving away before their eyes as they watch in growing horror. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "The library was infinite. The Librarian told them it held every story \u2014 every one that was, every one that might be.",
-        "And someone was making some of those stories\u2026 disappear."
+        "The library was infinite. The Librarian told them it held every story — every one that was, every one that might be.",
+        "And someone was making some of those stories… disappear."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
         "The Librarian shows them: when pages are torn, the events they described unhappen in the world outside. A village that should exist is gone. A discovery is unmade. Wide shot of the Librarian gesturing to a glowing world-map showing gaps.",
-        "Leo picks up a torn page from the floor. As he touches it, the scene it describes plays out in a shimmer above his palm \u2014 a child being born, a field being planted. Then it fades. He looks up, determined. Close-up, page glowing."
+        "Leo picks up a torn page from the floor. As he touches it, the scene it describes plays out in a shimmer above his palm — a child being born, a field being planted. Then it fades. He looks up, determined. Close-up, page glowing.",
+        "Tertiary shot: The Librarian shows them: when pages are torn, the events they described unhappen in the world outside. A village that should exist is gone. A discovery is unmade. Wide shot of the Librarian gesturing to a glowing world-map showing gaps. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Librarian gesturing meaningfully to a glowing world-map mounted on a great stand; dark patches clearly visible where events have been erased and removed; twins watching with solemn understanding.",
-        "Leo holding a torn page aloft reverently; a shimmering ghostly scene playing vividly above it \u2014 a child being born, a field being planted, a precious moment captured in time; slowly fading away as the page crumbles at the edges."
+        "Librarian gesturing meaningfully to a glowing world-map mounted on a great stand; dark patches clearly visible where events have been erased and removed; twins watching with solemn understanding. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Leo holding a torn page aloft reverently; a shimmering ghostly scene playing vividly above it — a child being born, a field being planted, a precious moment captured in time; slowly fading away as the page crumbles at the edges. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: The Librarian shows them: when pages are torn, the events they described unhappen in the world outside. A village that should exist is gone. A discovery is unmade. Wide shot of the Librarian gesturing to a glowing world-map showing gaps. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
         false,
         true
       ],
       "speech": [
         "The Librarian explained it carefully and very badly, because it was a very bad thing. When the pages left, the moments left too. As if they had never been.",
-        "Leo held a torn page and saw what it held. He felt it in his chest \u2014 the weight of something almost lost. He put it in his pocket."
+        "Leo held a torn page and saw what it held. He felt it in his chest — the weight of something almost lost. He put it in his pocket.",
+        "What follows changes everything: The Librarian explained it carefully and very badly, because it was a very bad thing. When the pages left, the moments left too. As if they had never been."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Ida discovers a trail \u2014 torn pages leading through a bookshelf into a glowing portal within the stacks. Through it, the world of a book is visible \u2014 a winter palace. She calls to Leo. Wide shot of the bookshelf portal.",
-        "They step through together \u2014 and land in the world of the book. A vast frozen palace, chandeliers made of icicles, snow drifting through open windows. A figure in gray \u2014 the Eraser \u2014 moves through the far hall. Wide shot, cold beauty."
+        "Ida discovers a trail — torn pages leading through a bookshelf into a glowing portal within the stacks. Through it, the world of a book is visible — a winter palace. She calls to Leo. Wide shot of the bookshelf portal.",
+        "They step through together — and land in the world of the book. A vast frozen palace, chandeliers made of icicles, snow drifting through open windows. A figure in gray — the Eraser — moves through the far hall. Wide shot, cold beauty."
       ],
       "first_frame_prompt": [
-        "A bookshelf portal glowing brilliantly between two massive towering stacks; torn pages creating a trail leading toward the glowing opening on the floor; Ida pointing decisively into the shimmering scene visible beyond.",
-        "Twins landing hard inside a vast frozen palace; enormous icicle chandeliers hanging above; snow continuously drifting and swirling through open arched windows; a gray figure visible moving deliberately at the far end."
+        "A bookshelf portal glowing brilliantly between two massive towering stacks; torn pages creating a trail leading toward the glowing opening on the floor; Ida pointing decisively into the shimmering scene visible beyond. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Twins landing hard inside a vast frozen palace; enormous icicle chandeliers hanging above; snow continuously drifting and swirling through open arched windows; a gray figure visible moving deliberately at the far end. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "The pages led through the shelves. And the shelves led through the pages. Ida followed the trail the way she did everything \u2014 straight ahead and fast.",
+        "The pages led through the shelves. And the shelves led through the pages. Ida followed the trail the way she did everything — straight ahead and fast.",
         "They stepped into a story. A real one. The cold hit them first."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "The Eraser \u2014 a tall figure in gray robes with a face like a blank page \u2014 tears pages from a great book mounted on a palace wall. Each tear sends a ripple of erasure through the room. Dramatic mid shot, frightening stillness.",
-        "Ida confronts the Eraser directly. She stands in its path, small and absolutely furious. The Eraser regards her with its empty face. Tense standoff. Medium shot."
+        "The Eraser — a tall figure in gray robes with a face like a blank page — tears pages from a great book mounted on a palace wall. Each tear sends a ripple of erasure through the room. Dramatic mid shot, frightening stillness.",
+        "Ida confronts the Eraser directly. She stands in its path, small and absolutely furious. The Eraser regards her with its empty face. Tense standoff. Medium shot.",
+        "Tertiary shot: The Eraser — a tall figure in gray robes with a face like a blank page — tears pages from a great book mounted on a palace wall. Each tear sends a ripple of erasure through the room. Dramatic mid shot, frightening stillness. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "The Eraser in gray robes, face completely blank-white and featureless, methodically tearing pages from a mounted wall-book; each violent tear sending visible ripples of gray erasure spreading through the frozen room.",
-        "Ida standing defiantly directly in the Eraser's path, arms at her sides, jaw set with determination; the Eraser looming tall and imposing above her with its utterly blank face; Leo positioned behind Ida for support."
+        "The Eraser in gray robes, face completely blank-white and featureless, methodically tearing pages from a mounted wall-book; each violent tear sending visible ripples of gray erasure spreading through the frozen room. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Ida standing defiantly directly in the Eraser's path, arms at her sides, jaw set with determination; the Eraser looming tall and imposing above her with its utterly blank face; Leo positioned behind Ida for support. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: The Eraser — a tall figure in gray robes with a face like a blank page — tears pages from a great book mounted on a palace wall. Each tear sends a ripple of erasure through the room. Dramatic mid shot, frightening stillness. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
-        false
+        false,
+        true
       ],
       "speech": [
         "The Eraser did not have a face because it did not believe in faces. Or names. Or stories. It believed only in the blankness after.",
-        "Ida believed in none of that. She stood in its way and told it so."
+        "Ida believed in none of that. She stood in its way and told it so.",
+        "What follows changes everything: The Eraser did not have a face because it did not believe in faces. Or names. Or stories. It believed only in the blankness after."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Leo, behind the Eraser, begins reading aloud from one of the damaged books \u2014 his voice filling the frozen hall. The words repair the torn pages. The Eraser whips around, distracted. Close-medium shot of Leo reading with fierce focus.",
-        "Ida grabs the great wall-book and holds it closed while the Eraser struggles. Leo reads faster \u2014 the words glowing as they leave his mouth, pages repairing themselves, the ripples of erasure reversing. Dynamic split focus shot."
+        "Leo, behind the Eraser, begins reading aloud from one of the damaged books — his voice filling the frozen hall. The words repair the torn pages. The Eraser whips around, distracted. Close-medium shot of Leo reading with fierce focus.",
+        "Ida grabs the great wall-book and holds it closed while the Eraser struggles. Leo reads faster — the words glowing as they leave his mouth, pages repairing themselves, the ripples of erasure reversing. Dynamic split focus shot."
       ],
       "first_frame_prompt": [
-        "Leo standing bravely behind the Eraser, reading loudly and powerfully from a damaged book; golden words leaving his mouth in glowing streams and floating upward toward the torn pages; Eraser turning around sharply.",
-        "Ida bracing with all her determination and strength against the great wall-book, holding it firmly closed; Leo reading urgently and rapidly behind her; pages visibly repairing themselves, golden text spreading and flowing back."
+        "Leo standing bravely behind the Eraser, reading loudly and powerfully from a damaged book; golden words leaving his mouth in glowing streams and floating upward toward the torn pages; Eraser turning around sharply. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Ida bracing with all her determination and strength against the great wall-book, holding it firmly closed; Leo reading urgently and rapidly behind her; pages visibly repairing themselves, golden text spreading and flowing back. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "Leo had always been the reader. He read now the way other people breathe \u2014 because he had to, because the alternative was unthinkable.",
+        "Leo had always been the reader. He read now the way other people breathe — because he had to, because the alternative was unthinkable.",
         "And Ida held the door. Because that is what she did. She held things until they were safe."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "The repaired book glows brightly. The Eraser is drawn into the light \u2014 unable to resist \u2014 and is absorbed into the book's pages, contained within a blank chapter. A contained, quiet, final moment. Wide shot, the palace warming around them.",
-        "Ida and Leo look at each other \u2014 exhausted, relieved, a little amazed. The frozen palace begins to thaw. Color returns. The story they saved is alive again. Medium warm shot."
+        "The repaired book glows brightly. The Eraser is drawn into the light — unable to resist — and is absorbed into the book's pages, contained within a blank chapter. A contained, quiet, final moment. Wide shot, the palace warming around them.",
+        "Ida and Leo look at each other — exhausted, relieved, a little amazed. The frozen palace begins to thaw. Color returns. The story they saved is alive again. Medium warm shot.",
+        "Tertiary shot: The repaired book glows brightly. The Eraser is drawn into the light — unable to resist — and is absorbed into the book's pages, contained within a blank chapter. A contained, quiet, final moment. Wide shot, the palace warming around them. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "The restored book glowing with brilliant expanding light; the Eraser being irresistibly drawn toward it, arms outstretched helplessly; slowly absorbed completely into the white light of an endless blank chapter.",
-        "Ida and Leo facing each other in the thawing palace, eyes meeting; exhaustion and profound relief visible on both faces; color rapidly flooding back into the room and walls around them; ice melting."
+        "The restored book glowing with brilliant expanding light; the Eraser being irresistibly drawn toward it, arms outstretched helplessly; slowly absorbed completely into the white light of an endless blank chapter. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Ida and Leo facing each other in the thawing palace, eyes meeting; exhaustion and profound relief visible on both faces; color rapidly flooding back into the room and walls around them; ice melting. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: The repaired book glows brightly. The Eraser is drawn into the light — unable to resist — and is absorbed into the book's pages, contained within a blank chapter. A contained, quiet, final moment. Wide shot, the palace warming around them. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
-        false
+        false,
+        true
       ],
       "speech": [
-        "The Eraser was not destroyed. It was given what it had always wanted \u2014 blankness. A blank page of its own. Forever.",
-        "And the story breathed again around them, warm and thawed and very much alive."
+        "The Eraser was not destroyed. It was given what it had always wanted — blankness. A blank page of its own. Forever.",
+        "And the story breathed again around them, warm and thawed and very much alive.",
+        "What follows changes everything: The Eraser was not destroyed. It was given what it had always wanted — blankness. A blank page of its own. Forever."
       ]
     },
     {
@@ -161,29 +177,29 @@
         "Ida returns the torn page from Leo's pocket to its book. It slips back into place with a soft chime. On the world-map behind the Librarian, the dark gaps are filling with light. Medium hopeful shot."
       ],
       "first_frame_prompt": [
-        "Twins back in the vast library; Librarian beaming brightly with joy; books around them actively and visibly repairing themselves \u2014 text flowing luminously back onto pages, torn edges sealing seamlessly; soft healing light everywhere.",
-        "Ida's hand gently pressing a torn page back into a book; the page slipping into perfect place with a warm golden glow radiating; world-map behind them steadily showing dark gaps filling with spreading light."
+        "Twins back in the vast library; Librarian beaming brightly with joy; books around them actively and visibly repairing themselves — text flowing luminously back onto pages, torn edges sealing seamlessly; soft healing light everywhere. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Ida's hand gently pressing a torn page back into a book; the page slipping into perfect place with a warm golden glow radiating; world-map behind them steadily showing dark gaps filling with spreading light. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        false,
-        true
+        true,
+        false
       ],
       "speech": [
-        "The books repaired themselves. That is what stories do, when given the chance \u2014 they insist on being told.",
+        "The books repaired themselves. That is what stories do, when given the chance — they insist on being told.",
         "Ida put back what had been taken. It slid into place like it had never left. Like it had been waiting for exactly her hands."
       ]
     },
     {
       "scene_num": 10,
       "video_prompts": [
-        "The Librarian walks them to the library doors. Outside, the golden road is still there, waiting. The Librarian gives each of them one book \u2014 theirs, it says. The books have their names on the cover. Medium warm shot, the gift of stories.",
-        "Ida and Leo walk the golden road home \u2014 the landscapes shifting in reverse. They read as they walk, books open, not tripping because the road seems to anticipate their steps. Gentle charming medium shot.",
-        "Final wide shot \u2014 they step off the golden road back onto their ordinary street at dawn. The road fades behind them. They look at each other. Books tucked under their arms. The ordinary world, looking slightly more wonderful than before. Fade to warm gold."
+        "The Librarian walks them to the library doors. Outside, the golden road is still there, waiting. The Librarian gives each of them one book — theirs, it says. The books have their names on the cover. Medium warm shot, the gift of stories.",
+        "Ida and Leo walk the golden road home — the landscapes shifting in reverse. They read as they walk, books open, not tripping because the road seems to anticipate their steps. Gentle charming medium shot.",
+        "Final wide shot — they step off the golden road back onto their ordinary street at dawn. The road fades behind them. They look at each other. Books tucked under their arms. The ordinary world, looking slightly more wonderful than before. Fade to warm gold."
       ],
       "first_frame_prompt": [
-        "Librarian at the grand library doors solemnly and lovingly presenting each twin with their own book bearing their individual names; golden road glowing and inviting beyond the open doors.",
-        "Ida and Leo walking together down the golden road homeward, each absorbed in reading their own book while walking; landscapes shifting and flowing around them in transitions; golden road guiding their steps carefully.",
-        "The twins stepping back onto their ordinary familiar street at dawn; golden road gently fading and disappearing behind them; books tucked securely under their arms; familiar world now looking quietly extraordinary and full of wonder."
+        "Librarian at the grand library doors solemnly and lovingly presenting each twin with their own book bearing their individual names; golden road glowing and inviting beyond the open doors. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Ida and Leo walking together down the golden road homeward, each absorbed in reading their own book while walking; landscapes shifting and flowing around them in transitions; golden road guiding their steps carefully. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "The twins stepping back onto their ordinary familiar street at dawn; golden road gently fading and disappearing behind them; books tucked securely under their arms; familiar world now looking quietly extraordinary and full of wonder. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
@@ -191,9 +207,9 @@
         true
       ],
       "speech": [
-        "The Librarian gave them each a book. She said every person has one \u2014 the story of exactly who they are.",
+        "The Librarian gave them each a book. She said every person has one — the story of exactly who they are.",
         "They walked home reading. The road made sure they didn't fall.",
-        "And when they stepped back into the ordinary world, it looked \u2014 for the first time \u2014 like a story worth reading."
+        "And when they stepped back into the ordinary world, it looked — for the first time — like a story worth reading."
       ]
     }
   ]

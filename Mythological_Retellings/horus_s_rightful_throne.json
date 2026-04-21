@@ -1,142 +1,190 @@
 {
   "story_name": "Horus's Rightful Throne: Justice and Reclamation",
-  "character_description": "Horus, falcon-headed god with piercing amber eyes that see all truths, bronze skin glowing with warrior's intensity, bearing scars from battles fought for his birthright. His form embodies both fierce warrior and rightful heir\u2014power earned through struggle rather than inherited.",
+  "character_description": "Horus, falcon-headed god with piercing amber eyes that see all truths, bronze skin glowing with warrior's intensity, bearing scars from battles fought for his birthright. His form embodies both fierce warrior and rightful heir—power earned through struggle rather than inherited.",
   "setting": "Egyptian kingdoms fighting for justice and rightful authority",
   "theme": "Reclaiming what was stolen through courage, persistence, and refusal to accept injustice",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "Horus born in hiding\u2014child of murdered father Osiris, raised in sanctuary to reclaim stolen throne."
+        "Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne.",
+        "Secondary shot: Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Horus manifests as warrior-child in sanctuary, amber eyes already fierce with awareness of theft done to his father. Falcon-headed form represents connection to sky, to vision, to rising above. Bronze skin bears marks of training for battles ahead. His mother Isis has taught him that his birthright was stolen and his role is reclamation, not acceptance of theft."
+        "Horus manifests as warrior-child in sanctuary, amber eyes already fierce with awareness of theft done to his father. Falcon-headed form represents connection to sky, to vision, to rising above. Bronze skin bears marks of training for battles ahead. His mother Isis has taught him that his birthright was stolen and his role is reclamation, not acceptance of theft. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "My father was murdered. My throne was stolen. I will reclaim what belongs to me."
+        "My father was murdered. My throne was stolen. I will reclaim what belongs to me.",
+        "And there is more to this moment: My father was murdered. My throne was stolen. I will reclaim what belongs to me."
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Horus born in hiding\u2014child of murdered father Osiris, raised in sanctuary to reclaim stolen throne."
+        "Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne.",
+        "Secondary shot: Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Horus manifests as warrior-child in sanctuary, amber eyes already fierce with awareness of theft done to his father. Falcon-headed form represents connection to sky, to vision, to rising above. Bronze skin bears marks of training for battles ahead. His mother Isis has taught him that his birthright was stolen and his role is reclamation, not acceptance of theft."
+        "Horus manifests as warrior-child in sanctuary, amber eyes already fierce with awareness of theft done to his father. Falcon-headed form represents connection to sky, to vision, to rising above. Bronze skin bears marks of training for battles ahead. His mother Isis has taught him that his birthright was stolen and his role is reclamation, not acceptance of theft. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Horus born in hiding—child of murdered father Osiris, raised in sanctuary to reclaim stolen throne. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "My father was murdered. My throne was stolen. I will reclaim what belongs to me.",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: My father was murdered. My throne was stolen. I will reclaim what belongs to me."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Horus loses eye in battle\u2014sacrifice that strengthens his resolve rather than defeating it."
+        "Horus loses eye in battle—sacrifice that strengthens his resolve rather than defeating it.",
+        "Secondary shot: Horus loses eye in battle—sacrifice that strengthens his resolve rather than defeating it. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Horus in greatest battle loses one eye to Set. The loss is devastation\u2014yet becomes transformation. Amber eye remaining burns brighter with clarity. Falcon-headed form seems to pierce through all illusion. His missing eye represents cost of justice\u2014and his refusal to let cost defeat him. He loses sight of flesh while gaining sight of truth."
+        "Horus in greatest battle loses one eye to Set. The loss is devastation—yet becomes transformation. Amber eye remaining burns brighter with clarity. Falcon-headed form seems to pierce through all illusion. His missing eye represents cost of justice—and his refusal to let cost defeat him. He loses sight of flesh while gaining sight of truth. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Horus loses eye in battle—sacrifice that strengthens his resolve rather than defeating it. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "You took my eye. But you cannot take my vision."
+        "You took my eye. But you cannot take my vision.",
+        "And there is more to this moment: You took my eye. But you cannot take my vision."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
-        "Horus loses eye in battle\u2014sacrifice that strengthens his resolve rather than defeating it.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Horus loses eye in battle—sacrifice that strengthens his resolve rather than defeating it.",
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Horus loses eye in battle—sacrifice that strengthens his resolve rather than defeating it. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Horus in greatest battle loses one eye to Set. The loss is devastation\u2014yet becomes transformation. Amber eye remaining burns brighter with clarity. Falcon-headed form seems to pierce through all illusion. His missing eye represents cost of justice\u2014and his refusal to let cost defeat him. He loses sight of flesh while gaining sight of truth."
+        "Horus in greatest battle loses one eye to Set. The loss is devastation—yet becomes transformation. Amber eye remaining burns brighter with clarity. Falcon-headed form seems to pierce through all illusion. His missing eye represents cost of justice—and his refusal to let cost defeat him. He loses sight of flesh while gaining sight of truth. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Horus loses eye in battle—sacrifice that strengthens his resolve rather than defeating it. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "You took my eye. But you cannot take my vision."
+        "You took my eye. But you cannot take my vision.",
+        "And there is more to this moment: You took my eye. But you cannot take my vision.",
+        "What follows changes everything: You took my eye. But you cannot take my vision."
       ]
     },
     {
       "scene_num": 5,
       "video_prompts": [
-        "Horus ascends to rightful throne\u2014not without cost but with hard-won authority earned through struggle.",
+        "Horus ascends to rightful throne—not without cost but with hard-won authority earned through struggle.",
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Horus takes throne his father built, amber eye perceiving all Egypt beneath him. Falcon-headed form represents vision spanning entire kingdom. Bronze skin glows with earned kingship. He wears scars as badges of legitimacy\u2014proving through struggle rather than inheritance that he deserves rule. His authority comes from having fought for it."
+        "Horus takes throne his father built, amber eye perceiving all Egypt beneath him. Falcon-headed form represents vision spanning entire kingdom. Bronze skin glows with earned kingship. He wears scars as badges of legitimacy—proving through struggle rather than inheritance that he deserves rule. His authority comes from having fought for it. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I claim this throne not by inheritance but by courage and persistence."
+        "I claim this throne not by inheritance but by courage and persistence.",
+        "And there is more to this moment: I claim this throne not by inheritance but by courage and persistence."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Horus ascends to rightful throne\u2014not without cost but with hard-won authority earned through struggle."
+        "Horus ascends to rightful throne—not without cost but with hard-won authority earned through struggle.",
+        "Secondary shot: Horus ascends to rightful throne—not without cost but with hard-won authority earned through struggle. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Horus ascends to rightful throne—not without cost but with hard-won authority earned through struggle. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Horus takes throne his father built, amber eye perceiving all Egypt beneath him. Falcon-headed form represents vision spanning entire kingdom. Bronze skin glows with earned kingship. He wears scars as badges of legitimacy\u2014proving through struggle rather than inheritance that he deserves rule. His authority comes from having fought for it."
+        "Horus takes throne his father built, amber eye perceiving all Egypt beneath him. Falcon-headed form represents vision spanning entire kingdom. Bronze skin glows with earned kingship. He wears scars as badges of legitimacy—proving through struggle rather than inheritance that he deserves rule. His authority comes from having fought for it. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Horus ascends to rightful throne—not without cost but with hard-won authority earned through struggle. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Horus ascends to rightful throne—not without cost but with hard-won authority earned through struggle. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I claim this throne not by inheritance but by courage and persistence."
+        "I claim this throne not by inheritance but by courage and persistence.",
+        "And there is more to this moment: I claim this throne not by inheritance but by courage and persistence.",
+        "What follows changes everything: I claim this throne not by inheritance but by courage and persistence."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Horus's example teaches that justice requires persistent refusal to accept wrong as permanent."
+        "Horus's example teaches that justice requires persistent refusal to accept wrong as permanent.",
+        "Secondary shot: Horus's example teaches that justice requires persistent refusal to accept wrong as permanent. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Horus works with those learning about justice and rightful reclamation. Amber eye recognizes each person's buried claim. Falcon-headed form models rising above oppression. He teaches that giving up is not mercy\u2014it is allowing theft to succeed. He teaches that persistence is virtue when motivated by justice."
+        "Horus works with those learning about justice and rightful reclamation. Amber eye recognizes each person's buried claim. Falcon-headed form models rising above oppression. He teaches that giving up is not mercy—it is allowing theft to succeed. He teaches that persistence is virtue when motivated by justice. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Horus's example teaches that justice requires persistent refusal to accept wrong as permanent. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Never accept theft as permanent. Never let injustice become normalized."
+        "Never accept theft as permanent. Never let injustice become normalized.",
+        "And there is more to this moment: Never accept theft as permanent. Never let injustice become normalized."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Horus's example teaches that justice requires persistent refusal to accept wrong as permanent."
+        "Horus's example teaches that justice requires persistent refusal to accept wrong as permanent.",
+        "Secondary shot: Horus's example teaches that justice requires persistent refusal to accept wrong as permanent. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Horus's example teaches that justice requires persistent refusal to accept wrong as permanent. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Horus works with those learning about justice and rightful reclamation. Amber eye recognizes each person's buried claim. Falcon-headed form models rising above oppression. He teaches that giving up is not mercy\u2014it is allowing theft to succeed. He teaches that persistence is virtue when motivated by justice."
+        "Horus works with those learning about justice and rightful reclamation. Amber eye recognizes each person's buried claim. Falcon-headed form models rising above oppression. He teaches that giving up is not mercy—it is allowing theft to succeed. He teaches that persistence is virtue when motivated by justice. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Horus's example teaches that justice requires persistent refusal to accept wrong as permanent. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Horus's example teaches that justice requires persistent refusal to accept wrong as permanent. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Never accept theft as permanent. Never let injustice become normalized."
+        "Never accept theft as permanent. Never let injustice become normalized.",
+        "And there is more to this moment: Never accept theft as permanent. Never let injustice become normalized.",
+        "What follows changes everything: Never accept theft as permanent. Never let injustice become normalized."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Egyptian civilization prospers under Horus's rule\u2014justice, courage, and persistent reclamation of what is right becoming cultural values."
+        "Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values.",
+        "Secondary shot: Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Egypt thrives under Horus. Amber eye of justice shines through all systems. Falcon-headed vision spreads\u2014perception of injustice and refusal to accept it as permanent. His rule teaches that authority earned through struggle is more legitimate than authority inherited without cost. His kingdom reflects that justice is worth fighting for."
+        "Egypt thrives under Horus. Amber eye of justice shines through all systems. Falcon-headed vision spreads—perception of injustice and refusal to accept it as permanent. His rule teaches that authority earned through struggle is more legitimate than authority inherited without cost. His kingdom reflects that justice is worth fighting for. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
         "A throne claimed through courage is throne held with responsibility.",
@@ -146,19 +194,28 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Egyptian civilization prospers under Horus's rule\u2014justice, courage, and persistent reclamation of what is right becoming cultural values."
+        "Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values.",
+        "Secondary shot: Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Egypt thrives under Horus. Amber eye of justice shines through all systems. Falcon-headed vision spreads\u2014perception of injustice and refusal to accept it as permanent. His rule teaches that authority earned through struggle is more legitimate than authority inherited without cost. His kingdom reflects that justice is worth fighting for."
+        "Egypt thrives under Horus. Amber eye of justice shines through all systems. Falcon-headed vision spreads—perception of injustice and refusal to accept it as permanent. His rule teaches that authority earned through struggle is more legitimate than authority inherited without cost. His kingdom reflects that justice is worth fighting for. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Egyptian civilization prospers under Horus's rule—justice, courage, and persistent reclamation of what is right becoming cultural values. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "A throne claimed through courage is throne held with responsibility."
+        "A throne claimed through courage is throne held with responsibility.",
+        "And there is more to this moment: A throne claimed through courage is throne held with responsibility.",
+        "What follows changes everything: A throne claimed through courage is throne held with responsibility."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Horus's Rightful Throne: Justice and Reclamation explores Reclaiming what was stolen through courage, persistence, and refusal to accept injustice, set in Egyptian kingdoms fighting for justice and rightful authority."
 }

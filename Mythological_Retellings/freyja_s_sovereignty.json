@@ -1,69 +1,91 @@
 {
   "story_name": "Freyja's Sovereignty: Love and War United",
-  "character_description": "Freyja, Norse goddess with radiant golden hair that glows like sunlight, luminous bronze skin, fierce amber eyes holding both love's depth and warrior's intensity. Adorned with gold and amber jewelry that radiates energy. Embodies both fierce warrior and patron of love\u2014refusing false dichotomy.",
+  "character_description": "Freyja, Norse goddess with radiant golden hair that glows like sunlight, luminous bronze skin, fierce amber eyes holding both love's depth and warrior's intensity. Adorned with gold and amber jewelry that radiates energy. Embodies both fierce warrior and patron of love—refusing false dichotomy.",
   "setting": "Asgard, Midgard, and battlefields where love and war intertwine",
   "theme": "Sovereignty means refusing to be diminished into single role or identity",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
-        "Freyja in Asgard, watching male gods attempt to define her role\u2014warrior or lover, never both."
+        "Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both.",
+        "Secondary shot: Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja stands in Asgard's golden halls, her luminous bronze skin glowing with restrained frustration. Golden hair radiates light like captured sunlight. Fierce amber eyes observe male gods debating her nature\u2014trying to limit her to single role. Her gold and amber jewelry pulses with contained power. She refus to be diminished by their limited categories."
+        "Freyja stands in Asgard's golden halls, her luminous bronze skin glowing with restrained frustration. Golden hair radiates light like captured sunlight. Fierce amber eyes observe male gods debating her nature—trying to limit her to single role. Her gold and amber jewelry pulses with contained power. She refus to be diminished by their limited categories. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Why must I choose? I am warrior AND lover. Both define me equally."
+        "Why must I choose? I am warrior AND lover. Both define me equally.",
+        "And there is more to this moment: Why must I choose? I am warrior AND lover. Both define me equally."
       ]
     },
     {
       "scene_num": 2,
       "video_prompts": [
-        "Freyja in Asgard, watching male gods attempt to define her role\u2014warrior or lover, never both."
+        "Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both.",
+        "Secondary shot: Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja stands in Asgard's golden halls, her luminous bronze skin glowing with restrained frustration. Golden hair radiates light like captured sunlight. Fierce amber eyes observe male gods debating her nature\u2014trying to limit her to single role. Her gold and amber jewelry pulses with contained power. She refus to be diminished by their limited categories."
+        "Freyja stands in Asgard's golden halls, her luminous bronze skin glowing with restrained frustration. Golden hair radiates light like captured sunlight. Fierce amber eyes observe male gods debating her nature—trying to limit her to single role. Her gold and amber jewelry pulses with contained power. She refus to be diminished by their limited categories. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Freyja in Asgard, watching male gods attempt to define her role—warrior or lover, never both. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
         "Why must I choose? I am warrior AND lover. Both define me equally.",
-        "[Inner reflection/emotional deepening]"
+        "[Inner reflection/emotional deepening]",
+        "What follows changes everything: Why must I choose? I am warrior AND lover. Both define me equally."
       ]
     },
     {
       "scene_num": 3,
       "video_prompts": [
-        "Freyja leads warriors into battle\u2014showing that love and ferocity are not opposites but expressions of same force."
+        "Freyja leads warriors into battle—showing that love and ferocity are not opposites but expressions of same force.",
+        "Secondary shot: Freyja leads warriors into battle—showing that love and ferocity are not opposites but expressions of same force. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja rides into battle, warrior-woman embodiment of fierce protection and passionate commitment. Golden hair streams like banner of light. Luminous bronze skin glows with warrior's fire. Fierce amber eyes hold both murderous intent and protective love. She fights for those she cherishes\u2014love and battle inseparable. Warriors follow her willingly."
+        "Freyja rides into battle, warrior-woman embodiment of fierce protection and passionate commitment. Golden hair streams like banner of light. Luminous bronze skin glows with warrior's fire. Fierce amber eyes hold both murderous intent and protective love. She fights for those she cherishes—love and battle inseparable. Warriors follow her willingly. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Freyja leads warriors into battle—showing that love and ferocity are not opposites but expressions of same force. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "I fight with ferocity only matched by my depth of love for those I protect."
+        "I fight with ferocity only matched by my depth of love for those I protect.",
+        "And there is more to this moment: I fight with ferocity only matched by my depth of love for those I protect."
       ]
     },
     {
       "scene_num": 4,
       "video_prompts": [
-        "Freyja leads warriors into battle\u2014showing that love and ferocity are not opposites but expressions of same force.",
-        "Camera slowly zooms into details revealing inner truth"
+        "Freyja leads warriors into battle—showing that love and ferocity are not opposites but expressions of same force.",
+        "Camera slowly zooms into details revealing inner truth",
+        "Tertiary shot: Freyja leads warriors into battle—showing that love and ferocity are not opposites but expressions of same force. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja rides into battle, warrior-woman embodiment of fierce protection and passionate commitment. Golden hair streams like banner of light. Luminous bronze skin glows with warrior's fire. Fierce amber eyes hold both murderous intent and protective love. She fights for those she cherishes\u2014love and battle inseparable. Warriors follow her willingly."
+        "Freyja rides into battle, warrior-woman embodiment of fierce protection and passionate commitment. Golden hair streams like banner of light. Luminous bronze skin glows with warrior's fire. Fierce amber eyes hold both murderous intent and protective love. She fights for those she cherishes—love and battle inseparable. Warriors follow her willingly. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Freyja leads warriors into battle—showing that love and ferocity are not opposites but expressions of same force. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I fight with ferocity only matched by my depth of love for those I protect."
+        "I fight with ferocity only matched by my depth of love for those I protect.",
+        "And there is more to this moment: I fight with ferocity only matched by my depth of love for those I protect.",
+        "What follows changes everything: I fight with ferocity only matched by my depth of love for those I protect."
       ]
     },
     {
@@ -73,70 +95,96 @@
         "Camera slowly zooms into details revealing inner truth"
       ],
       "first_frame_prompt": [
-        "Freyja sits with warriors, teaching them that love\u2014fierce commitment to protecting what matters\u2014is foundation of all worthy action. Golden hair glows softly. Luminous bronze skin radiates wisdom earned through battle and relationship. Fierce amber eyes hold their gaze steadily. Warriors learn that strength without love becomes tyranny, love without strength becomes powerlessness."
+        "Freyja sits with warriors, teaching them that love—fierce commitment to protecting what matters—is foundation of all worthy action. Golden hair glows softly. Luminous bronze skin radiates wisdom earned through battle and relationship. Fierce amber eyes hold their gaze steadily. Warriors learn that strength without love becomes tyranny, love without strength becomes powerlessness. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Camera slowly zooms into details revealing inner truth Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Love is not sentimental weakness. Love is fierce commitment to protect what matters."
+        "Love is not sentimental weakness. Love is fierce commitment to protect what matters.",
+        "And there is more to this moment: Love is not sentimental weakness. Love is fierce commitment to protect what matters."
       ]
     },
     {
       "scene_num": 6,
       "video_prompts": [
-        "Freyja teaches that love is not weakness but foundation of all strength and meaningful action."
+        "Freyja teaches that love is not weakness but foundation of all strength and meaningful action.",
+        "Secondary shot: Freyja teaches that love is not weakness but foundation of all strength and meaningful action. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Freyja teaches that love is not weakness but foundation of all strength and meaningful action. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja sits with warriors, teaching them that love\u2014fierce commitment to protecting what matters\u2014is foundation of all worthy action. Golden hair glows softly. Luminous bronze skin radiates wisdom earned through battle and relationship. Fierce amber eyes hold their gaze steadily. Warriors learn that strength without love becomes tyranny, love without strength becomes powerlessness."
+        "Freyja sits with warriors, teaching them that love—fierce commitment to protecting what matters—is foundation of all worthy action. Golden hair glows softly. Luminous bronze skin radiates wisdom earned through battle and relationship. Fierce amber eyes hold their gaze steadily. Warriors learn that strength without love becomes tyranny, love without strength becomes powerlessness. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Freyja teaches that love is not weakness but foundation of all strength and meaningful action. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Freyja teaches that love is not weakness but foundation of all strength and meaningful action. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Love is not sentimental weakness. Love is fierce commitment to protect what matters."
+        "Love is not sentimental weakness. Love is fierce commitment to protect what matters.",
+        "And there is more to this moment: Love is not sentimental weakness. Love is fierce commitment to protect what matters.",
+        "What follows changes everything: Love is not sentimental weakness. Love is fierce commitment to protect what matters."
       ]
     },
     {
       "scene_num": 7,
       "video_prompts": [
-        "Freyja gathers followers\u2014women, men, warriors, lovers\u2014creating community honoring all aspects of human nature."
+        "Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature.",
+        "Secondary shot: Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja's hall becomes gathering place for those honoring both warrior nature and love nature. Golden hair glows as she welcomes all. Luminous bronze skin radiates acceptance of human complexity. Fierce amber eyes recognize each being's unique integration of strength and tenderness. Community forms around her model of refusal to diminish."
+        "Freyja's hall becomes gathering place for those honoring both warrior nature and love nature. Golden hair glows as she welcomes all. Luminous bronze skin radiates acceptance of human complexity. Fierce amber eyes recognize each being's unique integration of strength and tenderness. Community forms around her model of refusal to diminish. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
-        "Here, you need not pretend to be half of yourself."
+        "Here, you need not pretend to be half of yourself.",
+        "And there is more to this moment: Here, you need not pretend to be half of yourself."
       ]
     },
     {
       "scene_num": 8,
       "video_prompts": [
-        "Freyja gathers followers\u2014women, men, warriors, lovers\u2014creating community honoring all aspects of human nature."
+        "Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature.",
+        "Secondary shot: Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja's hall becomes gathering place for those honoring both warrior nature and love nature. Golden hair glows as she welcomes all. Luminous bronze skin radiates acceptance of human complexity. Fierce amber eyes recognize each being's unique integration of strength and tenderness. Community forms around her model of refusal to diminish."
+        "Freyja's hall becomes gathering place for those honoring both warrior nature and love nature. Golden hair glows as she welcomes all. Luminous bronze skin radiates acceptance of human complexity. Fierce amber eyes recognize each being's unique integration of strength and tenderness. Community forms around her model of refusal to diminish. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Freyja gathers followers—women, men, warriors, lovers—creating community honoring all aspects of human nature. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "Here, you need not pretend to be half of yourself."
+        "Here, you need not pretend to be half of yourself.",
+        "And there is more to this moment: Here, you need not pretend to be half of yourself.",
+        "What follows changes everything: Here, you need not pretend to be half of yourself."
       ]
     },
     {
       "scene_num": 9,
       "video_prompts": [
-        "Even in final battle, Freyja refuses to diminish\u2014fighting with full intensity while maintaining compassion for fallen enemies."
+        "Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies.",
+        "Secondary shot: Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja on final battlefield, luminous bronze skin glowing with transcendent power. Golden hair blazes like captured sun. Fierce amber eyes acknowledge fallen enemies with respect even as she defeats them. She demonstrates that true strength includes honoring opponents. Love and ferocity coexist in her integrated nature."
+        "Freyja on final battlefield, luminous bronze skin glowing with transcendent power. Golden hair blazes like captured sun. Fierce amber eyes acknowledge fallen enemies with respect even as she defeats them. She demonstrates that true strength includes honoring opponents. Love and ferocity coexist in her integrated nature. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
-        true
+        true,
+        false
       ],
       "speech": [
         "I honor my enemies even as I defeat them. This is sovereignty.",
@@ -146,19 +194,28 @@
     {
       "scene_num": 10,
       "video_prompts": [
-        "Even in final battle, Freyja refuses to diminish\u2014fighting with full intensity while maintaining compassion for fallen enemies."
+        "Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies.",
+        "Secondary shot: Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling.",
+        "Tertiary shot: Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling."
       ],
       "first_frame_prompt": [
-        "Freyja on final battlefield, luminous bronze skin glowing with transcendent power. Golden hair blazes like captured sun. Fierce amber eyes acknowledge fallen enemies with respect even as she defeats them. She demonstrates that true strength includes honoring opponents. Love and ferocity coexist in her integrated nature."
+        "Freyja on final battlefield, luminous bronze skin glowing with transcendent power. Golden hair blazes like captured sun. Fierce amber eyes acknowledge fallen enemies with respect even as she defeats them. She demonstrates that true strength includes honoring opponents. Love and ferocity coexist in her integrated nature. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Secondary medium detail frame: Secondary shot: Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies. Continue the same scene with a different cinematic camera move, stronger environmental motion, richer texture contrast, and heightened emotional clarity to support long-duration storytelling. Freeze the most expressive instant with crystal-clear subject silhouette, directional key light, environmental volumetrics, tactile material detail, and strong depth separation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
+        "Tertiary close-detail frame: Tertiary shot: Even in final battle, Freyja refuses to diminish—fighting with full intensity while maintaining compassion for fallen enemies. Continue the scene with a distinct camera move, richer environmental motion, clear emotional escalation, and cinematic continuity for long-duration storytelling. Freeze a high-tension instant with crisp silhouette separation, directional key light, atmospheric volumetrics, and strong depth layering for long-form horror-thriller video generation. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
+        true,
+        false,
         true
       ],
       "speech": [
-        "I honor my enemies even as I defeat them. This is sovereignty."
+        "I honor my enemies even as I defeat them. This is sovereignty.",
+        "And there is more to this moment: I honor my enemies even as I defeat them. This is sovereignty.",
+        "What follows changes everything: I honor my enemies even as I defeat them. This is sovereignty."
       ]
     }
   ],
   "duration_seconds": 360,
-  "duration_minutes": "6 minutes (360 seconds)"
+  "duration_minutes": "6 minutes (360 seconds)",
+  "story_overview": "Freyja's Sovereignty: Love and War United explores Sovereignty means refusing to be diminished into single role or identity, set in Asgard, Midgard, and battlefields where love and war intertwine."
 }
