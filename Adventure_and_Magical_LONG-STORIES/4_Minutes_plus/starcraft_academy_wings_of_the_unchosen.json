@@ -1,0 +1,316 @@
+{
+  "story_name": "StarCraft Academy: Wings of the Unchosen",
+  "story_overview": "Saya, a village girl with no visible magic, is mistakenly admitted to a floating academy and discovers her unseen gift: amplifying everyone around her to their highest potential.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 1: A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 1: A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 1: A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 1: A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 1: A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 1: freeze the defining instant of A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 1: capture A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 1: close emotional frame for A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 1: action-peak frame for A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 1: transition payoff frame for A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: A sunrise aerial over floating islands and StarCraft Academy above rivers of cloud.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 1, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 2: Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 2: Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 2: Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 2: Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 2: Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 2: freeze the defining instant of Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 2: capture Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 2: close emotional frame for Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 2: action-peak frame for Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 2: transition payoff frame for Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: Saya arriving by sky ferry in fish-eye perspective, overwhelmed by scale and color.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 2, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 3: An admissions hall reveal that her acceptance was a mistake and should be revoked. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 3: An admissions hall reveal that her acceptance was a mistake and should be revoked. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 3: An admissions hall reveal that her acceptance was a mistake and should be revoked. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 3: An admissions hall reveal that her acceptance was a mistake and should be revoked. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 3: An admissions hall reveal that her acceptance was a mistake and should be revoked. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 3: freeze the defining instant of An admissions hall reveal that her acceptance was a mistake and should be revoked; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 3: capture An admissions hall reveal that her acceptance was a mistake and should be revoked in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 3: close emotional frame for An admissions hall reveal that her acceptance was a mistake and should be revoked, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 3: action-peak frame for An admissions hall reveal that her acceptance was a mistake and should be revoked, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 3: transition payoff frame for An admissions hall reveal that her acceptance was a mistake and should be revoked, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: An admissions hall reveal that her acceptance was a mistake and should be revoked.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 3, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 4: Training class split-screen where prodigies bloom with magic while Saya struggles to cast. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 4: Training class split-screen where prodigies bloom with magic while Saya struggles to cast. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 4: Training class split-screen where prodigies bloom with magic while Saya struggles to cast. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 4: Training class split-screen where prodigies bloom with magic while Saya struggles to cast. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 4: Training class split-screen where prodigies bloom with magic while Saya struggles to cast. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 4: freeze the defining instant of Training class split-screen where prodigies bloom with magic while Saya struggles to cast; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 4: capture Training class split-screen where prodigies bloom with magic while Saya struggles to cast in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 4: close emotional frame for Training class split-screen where prodigies bloom with magic while Saya struggles to cast, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 4: action-peak frame for Training class split-screen where prodigies bloom with magic while Saya struggles to cast, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 4: transition payoff frame for Training class split-screen where prodigies bloom with magic while Saya struggles to cast, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: Training class split-screen where prodigies bloom with magic while Saya struggles to cast.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 4, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 5: A quiet dorm rooftop night where Saya refuses to leave and chooses to stay. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 5: A quiet dorm rooftop night where Saya refuses to leave and chooses to stay. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 5: A quiet dorm rooftop night where Saya refuses to leave and chooses to stay. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 5: A quiet dorm rooftop night where Saya refuses to leave and chooses to stay. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 5: A quiet dorm rooftop night where Saya refuses to leave and chooses to stay. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 5: freeze the defining instant of A quiet dorm rooftop night where Saya refuses to leave and chooses to stay; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 5: capture A quiet dorm rooftop night where Saya refuses to leave and chooses to stay in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 5: close emotional frame for A quiet dorm rooftop night where Saya refuses to leave and chooses to stay, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 5: action-peak frame for A quiet dorm rooftop night where Saya refuses to leave and chooses to stay, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 5: transition payoff frame for A quiet dorm rooftop night where Saya refuses to leave and chooses to stay, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: A quiet dorm rooftop night where Saya refuses to leave and chooses to stay.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 5, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 6: A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 6: A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 6: A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 6: A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 6: A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 6: freeze the defining instant of A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 6: capture A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 6: close emotional frame for A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 6: action-peak frame for A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 6: transition payoff frame for A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: A team exercise where Saya's presence suddenly amplifies classmates beyond normal limits.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 6, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 7: A storm-creature descending on the academy with lightning tearing through cloud bridges. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 7: A storm-creature descending on the academy with lightning tearing through cloud bridges. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 7: A storm-creature descending on the academy with lightning tearing through cloud bridges. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 7: A storm-creature descending on the academy with lightning tearing through cloud bridges. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 7: A storm-creature descending on the academy with lightning tearing through cloud bridges. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 7: freeze the defining instant of A storm-creature descending on the academy with lightning tearing through cloud bridges; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 7: capture A storm-creature descending on the academy with lightning tearing through cloud bridges in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 7: close emotional frame for A storm-creature descending on the academy with lightning tearing through cloud bridges, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 7: action-peak frame for A storm-creature descending on the academy with lightning tearing through cloud bridges, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 7: transition payoff frame for A storm-creature descending on the academy with lightning tearing through cloud bridges, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: A storm-creature descending on the academy with lightning tearing through cloud bridges.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 7, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 8: Students forming defense circles while Saya coordinates placements and boosts everyone. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 8: Students forming defense circles while Saya coordinates placements and boosts everyone. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 8: Students forming defense circles while Saya coordinates placements and boosts everyone. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 8: Students forming defense circles while Saya coordinates placements and boosts everyone. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 8: Students forming defense circles while Saya coordinates placements and boosts everyone. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 8: freeze the defining instant of Students forming defense circles while Saya coordinates placements and boosts everyone; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 8: capture Students forming defense circles while Saya coordinates placements and boosts everyone in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 8: close emotional frame for Students forming defense circles while Saya coordinates placements and boosts everyone, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 8: action-peak frame for Students forming defense circles while Saya coordinates placements and boosts everyone, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 8: transition payoff frame for Students forming defense circles while Saya coordinates placements and boosts everyone, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: Students forming defense circles while Saya coordinates placements and boosts everyone.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 8, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 9: A climax of united casting where every student glows brighter through Saya's amplification. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 9: A climax of united casting where every student glows brighter through Saya's amplification. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 9: A climax of united casting where every student glows brighter through Saya's amplification. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 9: A climax of united casting where every student glows brighter through Saya's amplification. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 9: A climax of united casting where every student glows brighter through Saya's amplification. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 9: freeze the defining instant of A climax of united casting where every student glows brighter through Saya's amplification; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 9: capture A climax of united casting where every student glows brighter through Saya's amplification in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 9: close emotional frame for A climax of united casting where every student glows brighter through Saya's amplification, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 9: action-peak frame for A climax of united casting where every student glows brighter through Saya's amplification, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 9: transition payoff frame for A climax of united casting where every student glows brighter through Saya's amplification, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: A climax of united casting where every student glows brighter through Saya's amplification.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 9, hope sounded like laughter in the clouds."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 10: A calm final morning with Saya looking at the sky and finally feeling she belongs. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 10: A calm final morning with Saya looking at the sky and finally feeling she belongs. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 10: A calm final morning with Saya looking at the sky and finally feeling she belongs. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 10: A calm final morning with Saya looking at the sky and finally feeling she belongs. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 10: A calm final morning with Saya looking at the sky and finally feeling she belongs. Visual style: Magical-girl sky-punk anime, pastel blues and pinks, glowing spell circles, sparkle overlays, flowing uniform capes, floating islands, and cloud waterfalls. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 10: freeze the defining instant of A calm final morning with Saya looking at the sky and finally feeling she belongs; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 10: capture A calm final morning with Saya looking at the sky and finally feeling she belongs in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 10: close emotional frame for A calm final morning with Saya looking at the sky and finally feeling she belongs, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 10: action-peak frame for A calm final morning with Saya looking at the sky and finally feeling she belongs, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 10: transition payoff frame for A calm final morning with Saya looking at the sky and finally feeling she belongs, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "I remember when it began: A calm final morning with Saya looking at the sky and finally feeling she belongs.",
+        "She had never been chosen, and still she did not step back.",
+        "Her hands shook, but her heart kept pace with the sky.",
+        "When others rose, it was her quiet strength beneath their wings.",
+        "By the end of scene 10, hope sounded like laughter in the clouds."
+      ]
+    }
+  ]
+}

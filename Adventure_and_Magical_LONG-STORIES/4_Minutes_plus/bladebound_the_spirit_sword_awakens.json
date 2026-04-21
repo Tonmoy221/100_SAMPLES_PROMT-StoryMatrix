@@ -1,0 +1,316 @@
+{
+  "story_name": "Bladebound: The Spirit Sword Awakens",
+  "story_overview": "A 14-year-old outcast named Kai pulls a sealed spirit sword from the ashes of his village and must partner with the fire spirit Ryuu to defeat the warlord who burned his home.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 1: A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 1: A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 1: A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 1: A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 1: A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 1: freeze the defining instant of A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 1: capture A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 1: close emotional frame for A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 1: action-peak frame for A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 1: transition payoff frame for A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: A ruined village at dawn, mist over ash, and a lone Kai walking through collapsed gates.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 1 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 2: Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 2: Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 2: Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 2: Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 2: Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 2: freeze the defining instant of Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 2: capture Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 2: close emotional frame for Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 2: action-peak frame for Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 2: transition payoff frame for Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: Kai kneeling at a cracked shrine, sensing heat beneath the earth, and gripping a buried hilt.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 2 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 3: The sealed sword tearing free as Ryuu erupts in a towering column of fire. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 3: The sealed sword tearing free as Ryuu erupts in a towering column of fire. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 3: The sealed sword tearing free as Ryuu erupts in a towering column of fire. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 3: The sealed sword tearing free as Ryuu erupts in a towering column of fire. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 3: The sealed sword tearing free as Ryuu erupts in a towering column of fire. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 3: freeze the defining instant of The sealed sword tearing free as Ryuu erupts in a towering column of fire; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 3: capture The sealed sword tearing free as Ryuu erupts in a towering column of fire in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 3: close emotional frame for The sealed sword tearing free as Ryuu erupts in a towering column of fire, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 3: action-peak frame for The sealed sword tearing free as Ryuu erupts in a towering column of fire, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 3: transition payoff frame for The sealed sword tearing free as Ryuu erupts in a towering column of fire, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: The sealed sword tearing free as Ryuu erupts in a towering column of fire.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 3 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 4: Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 4: Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 4: Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 4: Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 4: Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 4: freeze the defining instant of Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 4: capture Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 4: close emotional frame for Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 4: action-peak frame for Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 4: transition payoff frame for Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: Kai and Ryuu arguing while fending off warlord scouts on a wind-cut forest road.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 4 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 5: A hard training montage at a waterfall gorge where stance, breath, and timing are forged. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 5: A hard training montage at a waterfall gorge where stance, breath, and timing are forged. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 5: A hard training montage at a waterfall gorge where stance, breath, and timing are forged. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 5: A hard training montage at a waterfall gorge where stance, breath, and timing are forged. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 5: A hard training montage at a waterfall gorge where stance, breath, and timing are forged. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 5: freeze the defining instant of A hard training montage at a waterfall gorge where stance, breath, and timing are forged; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 5: capture A hard training montage at a waterfall gorge where stance, breath, and timing are forged in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 5: close emotional frame for A hard training montage at a waterfall gorge where stance, breath, and timing are forged, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 5: action-peak frame for A hard training montage at a waterfall gorge where stance, breath, and timing are forged, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 5: transition payoff frame for A hard training montage at a waterfall gorge where stance, breath, and timing are forged, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: A hard training montage at a waterfall gorge where stance, breath, and timing are forged.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 5 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 6: A twilight infiltration of the war camp where captive villagers are forced to forge blades. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 6: A twilight infiltration of the war camp where captive villagers are forced to forge blades. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 6: A twilight infiltration of the war camp where captive villagers are forced to forge blades. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 6: A twilight infiltration of the war camp where captive villagers are forced to forge blades. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 6: A twilight infiltration of the war camp where captive villagers are forced to forge blades. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 6: freeze the defining instant of A twilight infiltration of the war camp where captive villagers are forced to forge blades; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 6: capture A twilight infiltration of the war camp where captive villagers are forced to forge blades in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 6: close emotional frame for A twilight infiltration of the war camp where captive villagers are forced to forge blades, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 6: action-peak frame for A twilight infiltration of the war camp where captive villagers are forced to forge blades, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 6: transition payoff frame for A twilight infiltration of the war camp where captive villagers are forced to forge blades, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: A twilight infiltration of the war camp where captive villagers are forced to forge blades.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 6 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 7: A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 7: A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 7: A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 7: A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 7: A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 7: freeze the defining instant of A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 7: capture A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 7: close emotional frame for A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 7: action-peak frame for A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 7: transition payoff frame for A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: A rescue sprint through torchlit alleys as Kai and Ryuu guide survivors out.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 7 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 8: A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 8: A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 8: A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 8: A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 8: A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 8: freeze the defining instant of A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 8: capture A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 8: close emotional frame for A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 8: action-peak frame for A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 8: transition payoff frame for A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: A gatefront duel with the warlord's general, impact frames freezing inside shockwave rings.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 8 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 9: A final rooftop clash with the warlord where sword and flame split the stormed sky. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 9: A final rooftop clash with the warlord where sword and flame split the stormed sky. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 9: A final rooftop clash with the warlord where sword and flame split the stormed sky. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 9: A final rooftop clash with the warlord where sword and flame split the stormed sky. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 9: A final rooftop clash with the warlord where sword and flame split the stormed sky. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 9: freeze the defining instant of A final rooftop clash with the warlord where sword and flame split the stormed sky; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 9: capture A final rooftop clash with the warlord where sword and flame split the stormed sky in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 9: close emotional frame for A final rooftop clash with the warlord where sword and flame split the stormed sky, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 9: action-peak frame for A final rooftop clash with the warlord where sword and flame split the stormed sky, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 9: transition payoff frame for A final rooftop clash with the warlord where sword and flame split the stormed sky, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: A final rooftop clash with the warlord where sword and flame split the stormed sky.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 9 closed, and fate waited one step ahead."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 10: A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 10: A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 10: A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 10: A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 10: A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon. Visual style: Feudal fantasy Japan meets shonen anime, bold cel-shading, crimson and gold palette, speed lines, sakura petals, dramatic wind effects, watercolor-painted backgrounds, expressive large eyes, and spiky hair. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 10: freeze the defining instant of A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 10: capture A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 10: close emotional frame for A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 10: action-peak frame for A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 10: transition payoff frame for A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "They still tell this part softly: A still wide ending as wind settles, petals drift, and Kai stands with Ryuu over a healing horizon.",
+        "The boy was small, but his vow was not.",
+        "The spirit was old, proud, and never gentle with him.",
+        "Steel answered fire, and fire answered grief.",
+        "So scene 10 closed, and fate waited one step ahead."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "story_name": "Ink & Thunder: The Living Scroll",
+  "story_overview": "Wen discovers he is the last Ink Mage and must complete the final living seal stroke mid-battle before an ancient scroll demon fully escapes.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 1: A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 1: A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 1: A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 1: A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 1: A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 1: freeze the defining instant of A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 1: capture A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 1: close emotional frame for A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 1: action-peak frame for A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 1: transition payoff frame for A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: A rain-soaked village night with Wen writing at a wooden desk as ink blooms on paper.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 1 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 2: The first living character awakening and a brushstroke dragon coiling across the room. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 2: The first living character awakening and a brushstroke dragon coiling across the room. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 2: The first living character awakening and a brushstroke dragon coiling across the room. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 2: The first living character awakening and a brushstroke dragon coiling across the room. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 2: The first living character awakening and a brushstroke dragon coiling across the room. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 2: freeze the defining instant of The first living character awakening and a brushstroke dragon coiling across the room; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 2: capture The first living character awakening and a brushstroke dragon coiling across the room in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 2: close emotional frame for The first living character awakening and a brushstroke dragon coiling across the room, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 2: action-peak frame for The first living character awakening and a brushstroke dragon coiling across the room, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 2: transition payoff frame for The first living character awakening and a brushstroke dragon coiling across the room, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: The first living character awakening and a brushstroke dragon coiling across the room.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 2 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 3: Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 3: Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 3: Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 3: Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 3: Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 3: freeze the defining instant of Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 3: capture Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 3: close emotional frame for Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 3: action-peak frame for Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 3: transition payoff frame for Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: Archive elders revealing Wen as the final Ink Mage in a lineage thought extinct.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 3 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 4: Cliffside training where each stroke summons wind, barrier, and echoing glyph light. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 4: Cliffside training where each stroke summons wind, barrier, and echoing glyph light. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 4: Cliffside training where each stroke summons wind, barrier, and echoing glyph light. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 4: Cliffside training where each stroke summons wind, barrier, and echoing glyph light. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 4: Cliffside training where each stroke summons wind, barrier, and echoing glyph light. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 4: freeze the defining instant of Cliffside training where each stroke summons wind, barrier, and echoing glyph light; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 4: capture Cliffside training where each stroke summons wind, barrier, and echoing glyph light in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 4: close emotional frame for Cliffside training where each stroke summons wind, barrier, and echoing glyph light, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 4: action-peak frame for Cliffside training where each stroke summons wind, barrier, and echoing glyph light, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 4: transition payoff frame for Cliffside training where each stroke summons wind, barrier, and echoing glyph light, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: Cliffside training where each stroke summons wind, barrier, and echoing glyph light.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 4 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 5: The sealed demon scroll cracking, black ink spreading with red lightning through seams. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 5: The sealed demon scroll cracking, black ink spreading with red lightning through seams. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 5: The sealed demon scroll cracking, black ink spreading with red lightning through seams. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 5: The sealed demon scroll cracking, black ink spreading with red lightning through seams. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 5: The sealed demon scroll cracking, black ink spreading with red lightning through seams. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 5: freeze the defining instant of The sealed demon scroll cracking, black ink spreading with red lightning through seams; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 5: capture The sealed demon scroll cracking, black ink spreading with red lightning through seams in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 5: close emotional frame for The sealed demon scroll cracking, black ink spreading with red lightning through seams, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 5: action-peak frame for The sealed demon scroll cracking, black ink spreading with red lightning through seams, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 5: transition payoff frame for The sealed demon scroll cracking, black ink spreading with red lightning through seams, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: The sealed demon scroll cracking, black ink spreading with red lightning through seams.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 5 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 6: A town defense sequence where written walls and beasts rise in real-time strokes. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 6: A town defense sequence where written walls and beasts rise in real-time strokes. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 6: A town defense sequence where written walls and beasts rise in real-time strokes. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 6: A town defense sequence where written walls and beasts rise in real-time strokes. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 6: A town defense sequence where written walls and beasts rise in real-time strokes. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 6: freeze the defining instant of A town defense sequence where written walls and beasts rise in real-time strokes; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 6: capture A town defense sequence where written walls and beasts rise in real-time strokes in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 6: close emotional frame for A town defense sequence where written walls and beasts rise in real-time strokes, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 6: action-peak frame for A town defense sequence where written walls and beasts rise in real-time strokes, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 6: transition payoff frame for A town defense sequence where written walls and beasts rise in real-time strokes, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: A town defense sequence where written walls and beasts rise in real-time strokes.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 6 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 7: A march to the ruined temple where the incomplete seal circles the sky. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 7: A march to the ruined temple where the incomplete seal circles the sky. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 7: A march to the ruined temple where the incomplete seal circles the sky. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 7: A march to the ruined temple where the incomplete seal circles the sky. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 7: A march to the ruined temple where the incomplete seal circles the sky. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 7: freeze the defining instant of A march to the ruined temple where the incomplete seal circles the sky; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 7: capture A march to the ruined temple where the incomplete seal circles the sky in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 7: close emotional frame for A march to the ruined temple where the incomplete seal circles the sky, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 7: action-peak frame for A march to the ruined temple where the incomplete seal circles the sky, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 7: transition payoff frame for A march to the ruined temple where the incomplete seal circles the sky, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: A march to the ruined temple where the incomplete seal circles the sky.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 7 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 8: Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 8: Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 8: Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 8: Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 8: Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 8: freeze the defining instant of Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 8: capture Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 8: close emotional frame for Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 8: action-peak frame for Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 8: transition payoff frame for Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: Mid-battle improvisation as Wen writes bridges, chains, and storm marks around allies.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 8 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 9: The final rotating slow-motion shot of Wen's hand completing the last seal character. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 9: The final rotating slow-motion shot of Wen's hand completing the last seal character. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 9: The final rotating slow-motion shot of Wen's hand completing the last seal character. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 9: The final rotating slow-motion shot of Wen's hand completing the last seal character. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 9: The final rotating slow-motion shot of Wen's hand completing the last seal character. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 9: freeze the defining instant of The final rotating slow-motion shot of Wen's hand completing the last seal character; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 9: capture The final rotating slow-motion shot of Wen's hand completing the last seal character in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 9: close emotional frame for The final rotating slow-motion shot of Wen's hand completing the last seal character, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 9: action-peak frame for The final rotating slow-motion shot of Wen's hand completing the last seal character, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 9: transition payoff frame for The final rotating slow-motion shot of Wen's hand completing the last seal character, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: The final rotating slow-motion shot of Wen's hand completing the last seal character.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 9 ended, and the next character waited."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 10: A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 10: A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 10: A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 10: A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 10: A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs. Visual style: Chinese ink-painting fused with modern anime, black-white-red palette with electric blue accents, brush-stroke motion effects, floating calligraphy, ink-wash backdrops, and flowing hanfu-inspired silhouettes. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 10: freeze the defining instant of A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 10: capture A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs in a medium tracking-ready frame with directional key light, particle motion cues, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 10: close emotional frame for A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs, focused eyes, hands, and breath with shallow depth of field and tactile material contrast. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 10: action-peak frame for A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs, freeze impact posture, speed-line energy, and dynamic angle for escalation. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 10: transition payoff frame for A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs, balanced composition with atmosphere, motion residue, and clear narrative handoff. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "speech": [
+        "In that chapter, this was written: A one-breath ending: rain stops, ink settles, and dawn opens over quiet roofs.",
+        "Ink before voice. Stroke before thunder.",
+        "He wrote with the hand, then with breath, then with spirit.",
+        "What was sealed once demanded to be sealed again.",
+        "Thus scene 10 ended, and the next character waited."
+      ]
+    }
+  ]
+}
