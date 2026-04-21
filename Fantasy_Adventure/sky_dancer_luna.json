@@ -1,27 +1,24 @@
 {
   "story_name": "The Sky Dancer's Awakening",
   "story_overview": "Luna embarks on a transformative journey discovering finding inner strength through dance and rhythm.",
-  "character_description": "Luna, an ethereal anime girl with flowing silver hair, violet eyes that shimmer like stars, wearing a flowing white and purple dancer outfit with ribbons that move with magical energy. She has delicate pointed ears and a gentle, determined expression.",
-  "setting": "The Floating Sky Kingdom, a realm of clouds, floating islands, and wind currents",
-  "theme": "Finding inner strength through dance and rhythm",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
         "Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes.",
-        "Camera movement captures the fluid elegance of movement. Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiralin... The scene pulses with rhythm and motion."
+        "Secondary cinematic shot for scene 1: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. Continue with richer environmental motion, clear emotional progression, and coherent cinematic continuity."
       ],
       "first_frame_prompt": [
         "Luna stands gracefully on a cliff overlooking floating islands, her silver hair cascading like a waterfall. Her violet ribbon swirls upward in spiraling arcs, creating luminescent trails that pulse with soft amethyst light. Morning mist billows around her ankles, drifting gently with each ribbon movement. The sky glows with warm golden hues mixing with cool purples, casting her silhouette in ethereal silken contrast. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
-        "Luna stands gracefully on a cliff overlooking floating islands, her silver hair ... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+        "Secondary medium detail frame for scene 1: Secondary cinematic shot for scene 1: Cinematic wide shot of Luna standing on a misty cliff edge, violet ribbon flowing upward in spiraling arcs. Camera pulls back revealing the vast sky kingdom stretching endlessly below. Golden morning light breaks through clouds, illuminating her silhouette. The ribbon movements create glowing trails in the air like paint strokes. Continue with richer environmental motion, clear emotional progression, and coherent cinematic continuity. Freeze the most expressive instant with strong subject silhouette, directional key light, atmospheric volumetrics, and tactile material detail. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "[Internal reflection on the moment and its significance to the journey]"
+        "In The Sky Dancer's Awakening, the story opens with cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "At first it feels small, almost ordinary, but these are always the moments that begin everything."
       ]
     },
     {
@@ -42,9 +39,9 @@
         true
       ],
       "speech": [
-        "Scene 2: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "What follows changes everything: Scene 2: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "Then the path turns, and cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "What seemed manageable suddenly carries a much greater weight.",
+        "From here onward, there is no true way back."
       ]
     },
     {
@@ -62,8 +59,8 @@
         false
       ],
       "speech": [
-        "Scene 3: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "As the journey deepens, cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "Patterns begin to form, and the hidden truth starts to show its shape."
       ]
     },
     {
@@ -84,9 +81,9 @@
         true
       ],
       "speech": [
-        "Scene 4: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "What follows changes everything: Scene 4: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "In the place no one expected, cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "This is the revelation that reframes everything that came before.",
+        "And once it is seen, it can never be unseen."
       ]
     },
     {
@@ -104,8 +101,8 @@
         false
       ],
       "speech": [
-        "Scene 5: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "Allies gather, doubts sharpen, and cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "Trust becomes a choice that must be earned in real time."
       ]
     },
     {
@@ -126,9 +123,9 @@
         true
       ],
       "speech": [
-        "Scene 6: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "What follows changes everything: Scene 6: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "When pressure peaks, cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "Endurance becomes the language of survival, one step and one breath at a time.",
+        "Even in fear, the story refuses to stop moving."
       ]
     },
     {
@@ -146,8 +143,8 @@
         false
       ],
       "speech": [
-        "Scene 7: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "At the heart of the conflict, cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "Power is no longer just force now; it is purpose made visible."
       ]
     },
     {
@@ -168,9 +165,9 @@
         true
       ],
       "speech": [
-        "Scene 8: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "What follows changes everything: Scene 8: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "Now comes the hardest choice, and cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "Some victories are only possible when someone accepts the cost.",
+        "In that decision, courage becomes undeniable."
       ]
     },
     {
@@ -188,8 +185,8 @@
         false
       ],
       "speech": [
-        "Scene 9: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "At last, everything converges, and cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "All the threads of the journey tighten into a single decisive moment."
       ]
     },
     {
@@ -210,9 +207,9 @@
         true
       ],
       "speech": [
-        "Scene 10: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "And there is more to this moment: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin.",
-        "What follows changes everything: Scene 10: The kingdom's heartbeat flows through every wind current, through every cloud that drifts. I can feel it calling me—not to dance for an audience, but to dance with the very soul of the sky itself. Today, I stop hiding. Today, I truly begin."
+        "When the dust settles, cinematic wide shot of luna standing on a misty cliff edge violet ribbon flowing upward in.",
+        "The world remains, but it is no longer the same world as before.",
+        "And in the quiet after, the next story is already beginning."
       ]
     }
   ]

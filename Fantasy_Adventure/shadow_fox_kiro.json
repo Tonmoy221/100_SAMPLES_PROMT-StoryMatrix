@@ -1,27 +1,24 @@
 {
   "story_name": "The Shadow Fox's Redemption",
   "story_overview": "Kiro embarks on a transformative journey discovering breaking free from a dark past to find light.",
-  "character_description": "Kiro, an anime boy with fox-like features, black and silver hair with fox ears, amber eyes that glow in darkness, wearing tactical shadow-black clothing with silver accents. He has a mischievous but ultimately good-hearted expression and carries an air of mystery.",
-  "setting": "The Obsidian Forest, a realm of eternal twilight where shadows move independently",
-  "theme": "Breaking free from a dark past to find light",
   "scenes": [
     {
       "scene_num": 1,
       "video_prompts": [
         "Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows.",
-        "Shadows dance and swirl around the character. Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends i... Dark energy flowing and coalescing."
+        "Secondary cinematic shot for scene 1: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. Continue with richer environmental motion, clear emotional progression, and coherent cinematic continuity."
       ],
       "first_frame_prompt": [
         "Kiro perches on a twisted tree branch overlooking a devastated village, his imposing shadow stretching down the tree trunk and across the ground beneath. The shadow moves independently of his body, writhing and coiling like a dark serpent. The destroyed village glows with lingering embers, casting flickering amber light across his face. His fox ears twitch with barely suppressed emotion, and his amber eyes reflect the fires with troubling clarity. The very darkness around him seems to pulse and respond to his presence, as if it recognizes him as kin. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation.",
-        "Kiro perches on a twisted tree branch overlooking a devastated village, his impo... Light and movement harmonizing with emotion. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
+        "Secondary medium detail frame for scene 1: Secondary cinematic shot for scene 1: Establishing shot of Kiro perched on a high tree branch in the Obsidian Forest. His shadow extends impossibly long beneath him, moving slightly out of sync with his body. The camera slowly reveals a destroyed village below, half-consumed by expanding shadows. Continue with richer environmental motion, clear emotional progression, and coherent cinematic continuity. Freeze the most expressive instant with strong subject silhouette, directional key light, atmospheric volumetrics, and tactile material detail. Emphasize layered lighting, texture detail, foreground-midground-background depth, and cinematic realism suitable for long-form video generation."
       ],
       "cut": [
         true,
         false
       ],
       "speech": [
-        "I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "[Internal reflection on the moment and its significance to the journey]"
+        "In The Shadow Fox's Redemption, the story opens with establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "At first it feels small, almost ordinary, but these are always the moments that begin everything."
       ]
     },
     {
@@ -42,9 +39,9 @@
         true
       ],
       "speech": [
-        "Scene 2: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "What follows changes everything: Scene 2: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "Then the path turns, and establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "What seemed manageable suddenly carries a much greater weight.",
+        "From here onward, there is no true way back."
       ]
     },
     {
@@ -62,8 +59,8 @@
         false
       ],
       "speech": [
-        "Scene 3: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "As the journey deepens, establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "Patterns begin to form, and the hidden truth starts to show its shape."
       ]
     },
     {
@@ -84,9 +81,9 @@
         true
       ],
       "speech": [
-        "Scene 4: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "What follows changes everything: Scene 4: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "In the place no one expected, establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "This is the revelation that reframes everything that came before.",
+        "And once it is seen, it can never be unseen."
       ]
     },
     {
@@ -104,8 +101,8 @@
         false
       ],
       "speech": [
-        "Scene 5: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "Allies gather, doubts sharpen, and establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "Trust becomes a choice that must be earned in real time."
       ]
     },
     {
@@ -126,9 +123,9 @@
         true
       ],
       "speech": [
-        "Scene 6: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "What follows changes everything: Scene 6: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "When pressure peaks, establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "Endurance becomes the language of survival, one step and one breath at a time.",
+        "Even in fear, the story refuses to stop moving."
       ]
     },
     {
@@ -146,8 +143,8 @@
         false
       ],
       "speech": [
-        "Scene 7: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "At the heart of the conflict, establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "Power is no longer just force now; it is purpose made visible."
       ]
     },
     {
@@ -168,9 +165,9 @@
         true
       ],
       "speech": [
-        "Scene 8: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "What follows changes everything: Scene 8: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "Now comes the hardest choice, and establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "Some victories are only possible when someone accepts the cost.",
+        "In that decision, courage becomes undeniable."
       ]
     },
     {
@@ -188,8 +185,8 @@
         false
       ],
       "speech": [
-        "Scene 9: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "At last, everything converges, and establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "All the threads of the journey tighten into a single decisive moment."
       ]
     },
     {
@@ -210,9 +207,9 @@
         true
       ],
       "speech": [
-        "Scene 10: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "And there is more to this moment: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?",
-        "What follows changes everything: Scene 10: I did this. My shadow did this. There's no difference anymore—the darkness and I are one. I've become a weapon of destruction, and I don't know how to stop. Is there even a way back for someone like me?"
+        "When the dust settles, establishing shot of kiro perched on a high tree branch in the obsidian forest.",
+        "The world remains, but it is no longer the same world as before.",
+        "And in the quiet after, the next story is already beginning."
       ]
     }
   ]
