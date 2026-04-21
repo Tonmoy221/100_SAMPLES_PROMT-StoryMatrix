@@ -1,0 +1,206 @@
+{
+  "story_name": "The Iron Dreamer",
+  "story_overview": "An inventor boy named Cog, 13, builds a mechanical bird that accidentally opens a rift to a cloud-city from another era — a steampunk civilization that vanished a century ago and has been surviving in a sealed sky-pocket ever since. To close the rift safely and free the cloud-city to rejoin the world, Cog must rebuild an enormous resonance engine using parts from both worlds.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 1: Cluttered workshop at blue dusk with Cog at his workbench, mechanical bird half-built, gears spinning and steam rising. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 1: Cluttered workshop at blue dusk with Cog at his workbench, mechanical bird half-built, gears spinning and steam rising. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 1: Cluttered workshop at blue dusk with Cog at his workbench, mechanical bird half-built, gears spinning and steam rising. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 1: Cluttered workshop at blue dusk with Cog at his workbench, mechanical bird half-built, gears spinning and steam rising. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 1: Cluttered workshop at blue dusk with Cog at his workbench, mechanical bird half-built, gears spinning and steam rising. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 1: freeze the defining instant of Cog's workshop at blue dusk, his hands on the mechanical bird; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 1: capture Cog's workshop at blue dusk in a medium tracking-ready frame with amber key light, steam particle motion, and environmental storytelling. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 1: close emotional frame of Cog's focused eyes and steady hands on tiny brass gears, shallow depth of field, tactile contrast between skin and metal. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 1: action-peak frame of Cog inserting the final gear, freeze impact posture, speed-line energy around his moving hands, dynamic low angle. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 1: transition payoff frame of Cog stepping back from the completed bird, balanced composition with workshop atmosphere, steam residue, and narrative handoff to the bird's first flight. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "He built things because he believed things could be better. Most people dream about a better world. He reached for his wrench.",
+        "The workshop had a heartbeat. Not a living one. A mechanical one. Gears turned. Steam hissed. Something was almost ready.",
+        "His fingers knew each tool by weight and temperature. The bird on his bench had no eyes yet. But somehow, it was already watching him back.",
+        "Cog never thought of himself as an inventor. He thought of himself as someone who fixed what was broken. And the world had so many broken things.",
+        "The brass bird sat on his workbench, silent and patient. Cog took a breath. He turned the key. And then — the workshop held its breath with him."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 2: The mechanical bird's first flight — brass wings unfolding, steam puffing from tiny vents, rising unsteadily above the workbench. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 2: The mechanical bird's first flight — brass wings unfolding, steam puffing from tiny vents, rising unsteadily above the workbench. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 2: The mechanical bird's first flight — brass wings unfolding, steam puffing from tiny vents, rising unsteadily above the workbench. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 2: The mechanical bird's first flight — brass wings unfolding, steam puffing from tiny vents, rising unsteadily above the workbench. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 2: The mechanical bird's first flight — brass wings unfolding, steam puffing from tiny vents, rising unsteadily above the workbench. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 2: freeze the defining instant of the brass bird lifting off the workbench for the first time; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 2: capture the brass bird's mid-air hover in a medium tracking-ready frame with steam trails, gear motion blur, and Cog's reaction in background. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 2: close emotional frame of Cog's face as the bird hovers — wonder, fear, hope — eyes wide, breath held. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 2: action-peak frame of the bird suddenly surging upward toward the workshop ceiling, freeze impact posture, speed lines, directional ascent energy. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 2: transition payoff frame of the bird flying out the open window into the blue dusk sky, balanced composition with workshop interior fading behind, night sky ahead. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The bird's wings unfolded like a question. Would it fly? He had asked himself that same question a hundred times. Now the gears would answer.",
+        "It rose. Not perfectly. Not gracefully. But it rose. And in that moment, Cog understood something he had never understood before. He had made a life.",
+        "The brass bird circled the workshop once. Twice. Then it turned toward the window. As if it remembered something he had never told it.",
+        "He ran after it into the dusk. He had spent years building wings. He had never learned to run this fast. But he was learning now.",
+        "The bird flew higher. The sky above the workshop was not empty. Something was waiting up there. Something that had been waiting for a very long time."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 3: The rift opening — sky peeling back like paper, revealing a floating cloud-city of brass spires and glowing amber windows beyond. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 3: The rift opening — sky peeling back like paper, revealing a floating cloud-city of brass spires and glowing amber windows beyond. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 3: The rift opening — sky peeling back like paper, revealing a floating cloud-city of brass spires and glowing amber windows beyond. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 3: The rift opening — sky peeling back like paper, revealing a floating cloud-city of brass spires and glowing amber windows beyond. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 3: The rift opening — sky peeling back like paper, revealing a floating cloud-city of brass spires and glowing amber windows beyond. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 3: freeze the defining instant of the sky peeling open like paper, the cloud-city revealed beyond; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 3: capture the rift's expanding edges in a medium tracking-ready frame with torn-sky texture, cloud-light spill, and Cog's silhouette below. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 3: close emotional frame of Cog's face reflected in the brass bird's eye — the cloud-city burning tiny in the reflection. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 3: action-peak frame of the rift fully tearing open, freeze impact moment, energy lines radiating from the tear, light pouring through. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 3: transition payoff frame of the cloud-city in full view — brass spires, amber windows, floating islands connected by bridge-arches, balanced composition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The sky screamed. Not in pain. In surprise. Something had touched it that had not touched it in a hundred years. Something small and brass and beautiful.",
+        "The rift opened like a flower blooming backward. The clouds peeled apart. And behind them — a city. Floating. Waiting. Breathing.",
+        "Cog stood at the edge of everything he had ever known. On the other side of that tear was a place that should not exist. But there it was.",
+        "The brass bird chirped once. Then it flew straight through. It did not hesitate. It had never been taught how to be afraid.",
+        "Cog looked at the city. The city looked back at him with a hundred amber eyes. He took a step forward. He did not look back."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 4: Cog's first steps into the cloud-city — empty brass streets, steam rising from grates, glowing amber windows with no faces behind them. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 4: Cog's first steps into the cloud-city — empty brass streets, steam rising from grates, glowing amber windows with no faces behind them. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 4: Cog's first steps into the cloud-city — empty brass streets, steam rising from grates, glowing amber windows with no faces behind them. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 4: Cog's first steps into the cloud-city — empty brass streets, steam rising from grates, glowing amber windows with no faces behind them. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 4: Cog's first steps into the cloud-city — empty brass streets, steam rising from grates, glowing amber windows with no faces behind them. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 4: freeze the defining instant of Cog standing in an empty brass street, the cloud-city stretching silent before him; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 4: capture Cog walking past a brass streetlamp in medium tracking frame, steam rising from grates, his shadow long on the metal ground. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 4: close emotional frame of Cog touching a brass wall — his fingers leaving prints in dust a century thick. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 4: action-peak frame of Cog spinning around as a gear in the street suddenly turns on its own, freeze startled posture, motion lines from the gear. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 4: transition payoff frame of a door swinging open ahead of Cog — amber light spilling out, someone standing in the doorway, balanced composition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The city breathed. Not with lungs. With gears. Every clockwork heart in every building was still beating. After a hundred years, they had not stopped.",
+        "Cog walked down streets made of brass. Steam rose from grates beneath his feet. Amber windows glowed on every side. But there were no faces behind them.",
+        "He touched a wall. His fingers left prints in dust a century thick. Someone had built this place. Someone had loved it. Someone had left it waiting.",
+        "Then he heard it. A sound. Not wind. Not steam. A gear turning. Somewhere deep beneath the city. Something was waking up.",
+        "A door swung open ahead of him. Amber light spilled out. And in the doorway — a silhouette. Not a ghost. Someone real. Someone who had been waiting."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 5: Cog meeting the cloud-city survivors — a small community of steampunk citizens in brass goggles and copper-threaded coats, gathered in a resonance chamber. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 5: Cog meeting the cloud-city survivors — a small community of steampunk citizens in brass goggles and copper-threaded coats, gathered in a resonance chamber. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 5: Cog meeting the cloud-city survivors — a small community of steampunk citizens in brass goggles and copper-threaded coats, gathered in a resonance chamber. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 5: Cog meeting the cloud-city survivors — a small community of steampunk citizens in brass goggles and copper-threaded coats, gathered in a resonance chamber. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 5: Cog meeting the cloud-city survivors — a small community of steampunk citizens in brass goggles and copper-threaded coats, gathered in a resonance chamber. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 5: freeze the defining instant of Cog standing before the cloud-city survivors in the great resonance chamber; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 5: capture Cog walking through the gathered survivors in medium tracking frame, their brass goggles reflecting amber chamber light. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 5: close emotional frame of an elderly survivor touching Cog's face — wonder, grief, hope — tears on weathered cheeks. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 5: action-peak frame of the chamber's central engine suddenly humming to life, freeze impact moment, vibration lines, survivors turning in unison. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 5: transition payoff frame of Cog being led toward the enormous resonance engine, its scale dwarfing him, balanced composition with engine glowing ahead. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "They had been waiting so long they had stopped believing in waiting. And then a boy walked through a door with a brass bird on his shoulder.",
+        "The survivors gathered in the resonance chamber. Their goggles were brass. Their coats were threaded with copper. Their eyes had not seen a child in a hundred years.",
+        "An old woman stepped forward. She touched Cog's face. Her hands were warm. 'You have your grandmother's hands,' she said. He did not know his grandmother had ever been here.",
+        "Behind her, the resonance engine filled the chamber. It was the largest machine Cog had ever seen. It was also, he realized, the most broken.",
+        "He understood then why he had been brought here. Not because he was special. Because he was a tinkerer. And tinkerers fix what is broken. That is what they do."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 6: Cog working across both worlds — gathering parts from his workshop and the cloud-city, blueprints spread across two different floors. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 6: Cog working across both worlds — gathering parts from his workshop and the cloud-city, blueprints spread across two different floors. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 6: Cog working across both worlds — gathering parts from his workshop and the cloud-city, blueprints spread across two different floors. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 6: Cog working across both worlds — gathering parts from his workshop and the cloud-city, blueprints spread across two different floors. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 6: Cog working across both worlds — gathering parts from his workshop and the cloud-city, blueprints spread across two different floors. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 6: freeze the defining instant of Cog standing between two worlds — one foot in his workshop, one in the cloud-city; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 6: capture Cog carrying a brass gear through the rift in medium tracking frame, both worlds visible on either side of him. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 6: close emotional frame of Cog's hands — scarred, young, steady — fitting two gears together that had never been in the same world before. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 6: action-peak frame of Cog hammering a connector into place, freeze impact posture, spark trails, sweat on his forehead. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 6: transition payoff frame of the resonance engine beginning to take shape — part brass, part copper, part hope — balanced composition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "He worked for three days without sleeping. The cloud-city had no night. His workshop had no day. Time became something he borrowed, not something he owned.",
+        "The brass bird carried small parts between worlds. It had opened the rift by accident. Now it held it open by choice. Birds are loyal like that.",
+        "The survivors watched him work. They brought him food and tools and stories of the city before the silence. He listened with his hands while his hands kept working.",
+        "Every gear he fit was a conversation. Every bolt he turned was a promise. He was not just building a machine. He was mending a century of loneliness.",
+        "His hands bled through his bandages. He did not stop. The engine was almost whole. The rift was flickering. The city was holding its breath."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 7: The final activation sequence — Cog at the resonance engine's heart, every gear turning, steam rising, music beginning to play from the machine itself. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 7: The final activation sequence — Cog at the resonance engine's heart, every gear turning, steam rising, music beginning to play from the machine itself. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 7: The final activation sequence — Cog at the resonance engine's heart, every gear turning, steam rising, music beginning to play from the machine itself. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 7: The final activation sequence — Cog at the resonance engine's heart, every gear turning, steam rising, music beginning to play from the machine itself. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 7: The final activation sequence — Cog at the resonance engine's heart, every gear turning, steam rising, music beginning to play from the machine itself. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 7: freeze the defining instant of Cog pulling the final lever, the resonance engine coming alive around him; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 7: capture the engine's gears beginning to turn in medium tracking frame, each gear spinning in sequence, steam rising in waves. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 7: close emotional frame of Cog's face as the music begins — tears, exhaustion, joy — the moment he knows it worked. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 7: action-peak frame of light exploding from the engine's core, freeze impact moment, light waves radiating outward, survivors shielding their eyes. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 7: transition payoff frame of the rift slowly closing — but closing correctly, gently, like a door shutting after guests leave — balanced composition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "He pulled the lever. For a moment, nothing happened. The silence was so complete he could hear his own heartbeat. And then — the engine sang.",
+        "Not metaphorically. It sang. Gears were its voice. Steam was its breath. And the music was older than anyone in that room. Older than the city itself.",
+        "The rift began to close. Not like a wound. Like a mouth that had finished speaking. The cloud-city trembled. It had not moved in a hundred years.",
+        "Cog put his hand on the engine's heart-stone. The brass bird landed on his shoulder. Together, they held the world steady while the world remembered how to be whole.",
+        "Light flooded the chamber. Not from the rift. From the city itself. Every amber window in every building glowed at once. A hundred years of darkness ended in a single moment."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 8: Sunrise over the cloud-city descending into the world — Cog standing at the edge, the brass bird on his shoulder, the city below finally reunited with the earth. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 8: Sunrise over the cloud-city descending into the world — Cog standing at the edge, the brass bird on his shoulder, the city below finally reunited with the earth. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 8: Sunrise over the cloud-city descending into the world — Cog standing at the edge, the brass bird on his shoulder, the city below finally reunited with the earth. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 8: Sunrise over the cloud-city descending into the world — Cog standing at the edge, the brass bird on his shoulder, the city below finally reunited with the earth. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 8: Sunrise over the cloud-city descending into the world — Cog standing at the edge, the brass bird on his shoulder, the city below finally reunited with the earth. Visual style: Steampunk fantasy anime with warm bronze and copper tones, gear-work magic systems, steam-powered airships, glowing amber goggles, mechanical familiars with animal shapes, cloud-city settings. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 8: freeze the defining instant of the cloud-city touching the earth for the first time in a century, dust rising from the meeting; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 8: capture Cog walking away from the engine, toward the city's edge, in medium tracking frame, sunrise painting everything gold. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 8: close emotional frame of Cog's hand releasing the engine's heart-stone — his work done, his fingers finally still. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 8: action-peak frame of the brass bird taking flight one last time, circling the descending city, freeze impact moment, wing-spread silhouette against the sun. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 8: transition payoff frame of Cog and the survivors standing together as the city settles into the valley below — a new beginning, balanced composition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The city descended like a tired bird finally finding its nest. The earth rose to meet it. Two things that had been apart for a hundred years remembered each other.",
+        "Cog stood at the edge and watched. He had not built the city. He had only reminded it how to come home. Sometimes that is enough.",
+        "The brass bird circled once. Twice. Then it landed on his shoulder and tucked its wings. Its work was done too. They had done it together.",
+        "Behind him, the survivors stepped onto the earth for the first time in their lives. Some of them cried. Some of them laughed. Some of them just stood there, breathing.",
+        "Cog looked at the sunrise. Then he turned and walked home. He had a workshop to clean. And somewhere, he was sure, something else needed fixing."
+      ]
+    }
+  ]
+}

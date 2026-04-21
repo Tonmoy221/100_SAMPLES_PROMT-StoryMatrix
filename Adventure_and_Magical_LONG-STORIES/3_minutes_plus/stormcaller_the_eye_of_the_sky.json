@@ -1,0 +1,206 @@
+{
+  "story_name": "Stormcaller: The Eye of the Sky",
+  "story_overview": "A boy named Raiden discovers he can call lightning with his voice. He has been hiding this ability in a world that fears weather-mages after a great storm destroyed a kingdom a generation ago. When a drought begins killing crops and rivers dry up, Raiden must reveal himself and call a storm that will save the land — knowing it will also reveal what he is to people who may never forgive him.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 1: Cracked dry earth landscape under a white-hot sky — dead crops, empty riverbeds, a village in the distance shimmering in heat haze. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 1: Cracked dry earth landscape under a white-hot sky — dead crops, empty riverbeds, a village in the distance shimmering in heat haze. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 1: Cracked dry earth landscape under a white-hot sky — dead crops, empty riverbeds, a village in the distance shimmering in heat haze. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 1: Cracked dry earth landscape under a white-hot sky — dead crops, empty riverbeds, a village in the distance shimmering in heat haze. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 1: Cracked dry earth landscape under a white-hot sky — dead crops, empty riverbeds, a village in the distance shimmering in heat haze. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 1: freeze the defining instant of cracked earth stretching to the horizon under a white-hot sky, no clouds, no hope; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 1: capture a dead riverbed in medium tracking frame, cracked mud patterns, a single dry fish skeleton, heat shimmer rising. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 1: close emotional frame of Raiden's face — young, tired, thirsty — looking at the sky that will not give rain. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 1: action-peak frame of Raiden clenching his fist, a single involuntary crackle of blue lightning between his fingers, freeze impact moment. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 1: transition payoff frame of Raiden hiding his hand behind his back, looking around to see if anyone saw, balanced composition of fear and secrecy. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "He did not ask the storm for permission. He never did. That was, depending on who you asked, either his greatest flaw or his most important gift.",
+        "The earth was dying. You could see it in the cracks. You could feel it in the air. The sky had forgotten how to cry, and the land was paying the price.",
+        "Raiden walked home through fields that should have been gold. They were brown instead. Brown and brittle and begging for something that would not come.",
+        "He had a secret in his chest. It felt like thunder waiting to break. He had held it inside for so long he had forgotten what silence felt like.",
+        "That night, he stood at his window. The sky was empty. But somewhere deep in his bones, he felt clouds gathering. They were not in the sky yet. They were in him."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 2: Raiden alone in a dry field at midnight — no moon, no stars, just him and the weight of what he can do. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 2: Raiden alone in a dry field at midnight — no moon, no stars, just him and the weight of what he can do. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 2: Raiden alone in a dry field at midnight — no moon, no stars, just him and the weight of what he can do. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 2: Raiden alone in a dry field at midnight — no moon, no stars, just him and the weight of what he can do. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 2: Raiden alone in a dry field at midnight — no moon, no stars, just him and the weight of what he can do. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 2: freeze the defining instant of Raiden standing alone in the dark field, no moon, no stars, just his silhouette against nothing; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 2: capture Raiden raising his hand to the empty sky in medium tracking frame, his fingers trembling, electricity barely contained. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 2: close emotional frame of Raiden's eyes — fear, longing, power — as he whispers to the sky. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 2: action-peak frame of a single lightning bolt escaping his fingertips, striking the dead earth, freeze impact moment, blue light illuminating his face. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 2: transition payoff frame of Raiden lowering his hand, the ground smoking where the lightning hit, his expression unreadable — balanced composition of power and shame. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "He whispered to the sky. Not words. Something older than words. A sound that came from the back of his throat and the bottom of his lungs and somewhere even deeper than that.",
+        "The sky did not answer. It never did. But something in his chest answered. Something that had been sleeping since the day he was born.",
+        "Lightning jumped from his fingers. Just a flicker. Just a taste. The ground smoked where it hit. For one second, the field was blue. Then darkness again.",
+        "He looked at his hands. They were just hands. They had held tools and food and his mother's face. They had also just held lightning.",
+        "He went home before anyone saw. The secret was still safe. But the secret was getting heavier. Secrets do that when you carry them alone."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 3: The village well — empty. Women and children standing around it, buckets in hand, nothing to draw. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 3: The village well — empty. Women and children standing around it, buckets in hand, nothing to draw. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 3: The village well — empty. Women and children standing around it, buckets in hand, nothing to draw. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 3: The village well — empty. Women and children standing around it, buckets in hand, nothing to draw. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 3: The village well — empty. Women and children standing around it, buckets in hand, nothing to draw. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 3: freeze the defining instant of the empty well — dry stone, dust, a child peering over the edge into nothing; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 3: capture a woman lowering an empty bucket into the dry well in medium tracking frame, the rope slack, no splash. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 3: close emotional frame of a small child's face — thirsty, confused, trusting — looking up at the adults who have no answers. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 3: action-peak frame of an old man kicking the well in frustration, dust exploding, freeze impact moment of despair. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 3: transition payoff frame of Raiden watching from the edge of the crowd, his hands in his pockets, his jaw tight — balanced composition of guilt and hiding. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The well had given water for three hundred years. That morning, it gave dust. The bucket came up empty. So did the next one. And the next.",
+        "The women did not cry. They had used up their tears last month. Now they just stood there, holding buckets, waiting for a miracle that was late.",
+        "A child tugged on Raiden's sleeve. 'When will it rain?' The boy did not have an answer. But his bones did. His bones knew exactly when.",
+        "He looked at the sky. Still white. Still empty. Still cruel. And he felt the storm inside him pressing against his ribs like a caged animal.",
+        "He walked away from the well. He could feel their eyes on his back. They did not know what he was. If they knew, they would be afraid. And they would be right."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 4: Raiden's mother collapsing in the field — heatstroke, dehydration — Raiden catching her before she falls. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 4: Raiden's mother collapsing in the field — heatstroke, dehydration — Raiden catching her before she falls. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 4: Raiden's mother collapsing in the field — heatstroke, dehydration — Raiden catching her before she falls. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 4: Raiden's mother collapsing in the field — heatstroke, dehydration — Raiden catching her before she falls. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 4: Raiden's mother collapsing in the field — heatstroke, dehydration — Raiden catching her before she falls. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 4: freeze the defining instant of Raiden's mother falling, her body crumpling, Raiden's arms reaching for her; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 4: capture Raiden catching his mother in medium tracking frame, her weight in his arms, his face contorted with fear. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 4: close emotional frame of his mother's face — eyes closed, lips cracked, breath shallow — in Raiden's arms. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 4: action-peak frame of Raiden looking up at the sky, his mouth opening, his chest heaving — freeze moment before the scream. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 4: transition payoff frame of Raiden holding his mother, tears on his face, his hands beginning to glow blue — balanced composition of love and power about to collide. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "His mother fell like a dry leaf. No sound. No warning. Just the earth rising up to meet her and her son's arms barely fast enough to catch her.",
+        "He held her. She was light. Too light. The drought had been eating her from the inside, and he had been too afraid to notice.",
+        "Her lips moved. No sound came out. But he knew what she was trying to say. 'It's okay. It's not your fault.' But it was. It was.",
+        "He looked up at the sky. The white, empty, mocking sky. And for the first time in his life, he did not try to hold the storm back.",
+        "He opened his mouth. And the sound that came out was not a word. It was a thunderclap. It was a century of silence breaking all at once."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 5: Raiden standing in the field, arms raised, lightning arcing from his mouth and hands as clouds gather from nowhere. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 5: Raiden standing in the field, arms raised, lightning arcing from his mouth and hands as clouds gather from nowhere. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 5: Raiden standing in the field, arms raised, lightning arcing from his mouth and hands as clouds gather from nowhere. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 5: Raiden standing in the field, arms raised, lightning arcing from his mouth and hands as clouds gather from nowhere. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 5: Raiden standing in the field, arms raised, lightning arcing from his mouth and hands as clouds gather from nowhere. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 5: freeze the defining instant of Raiden screaming at the sky, lightning erupting from his mouth, clouds boiling overhead; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 5: capture the lightning arcing from Raiden's raised hands in medium tracking frame, blue electricity branching outward, the ground cracking beneath him. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 5: close emotional frame of Raiden's face mid-scream — eyes wide, tears streaming, lightning reflecting in his pupils. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 5: action-peak frame of a massive lightning bolt striking from sky to ground, connecting with Raiden's raised hand, freeze impact moment of perfect conduction. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 5: transition payoff frame of the clouds fully formed — dark, massive, pregnant with rain — over the village for the first time in months, balanced composition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "He screamed. And the sky answered. Not because it wanted to. Because it had no choice. His voice was not a request. It was a command.",
+        "Lightning poured from his mouth like he had been swallowing storms his whole life and finally decided to spit them back out.",
+        "The clouds came from nowhere. They boiled up from the horizon like an army finally arriving after a very long march. The wind picked up. The temperature dropped.",
+        "Raiden stood in the middle of the field with his arms raised. He was on fire with electricity. He was also crying. No one could see the tears through the rain that had not started yet.",
+        "The village heard the thunder. They came to their doors. They looked at the sky. And then they looked at the boy standing in the field with lightning in his hands. And they were afraid."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 6: Wide shot of the village watching — fear, awe, suspicion — as Raiden stands apart, the storm raging above him alone. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 6: Wide shot of the village watching — fear, awe, suspicion — as Raiden stands apart, the storm raging above him alone. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 6: Wide shot of the village watching — fear, awe, suspicion — as Raiden stands apart, the storm raging above him alone. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 6: Wide shot of the village watching — fear, awe, suspicion — as Raiden stands apart, the storm raging above him alone. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 6: Wide shot of the village watching — fear, awe, suspicion — as Raiden stands apart, the storm raging above him alone. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 6: freeze the defining instant of the village gathered at the edge of the field, watching Raiden with the storm behind him; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 6: capture a villager's face in medium tracking frame — an old man, his expression shifting from fear to something like recognition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 6: close emotional frame of a child pointing at Raiden — not afraid, amazed — a small smile on a dusty face. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 6: action-peak frame of a man stepping forward with a pitchfork, freeze impact moment of threat — then another man pulling him back. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 6: transition payoff frame of Raiden's mother waking up in the field, sitting up slowly, seeing her son wreathed in lightning — balanced composition of mother and son across the distance. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The village came out to watch. Some of them held tools that could become weapons. Some of them held children. Some of them just held their breath.",
+        "An old man who remembered the last weather-mage squinted at Raiden. 'He has her eyes,' he said. No one asked who 'her' was. They already knew.",
+        "A child pointed. 'He's making it rain.' The sky was still dry. But the child was not wrong. The rain was coming. You could feel it in the air now.",
+        "A man with a pitchfork stepped forward. Another man grabbed his arm. 'Wait,' he said. 'Let him finish. We can be afraid after the rain.'",
+        "Raiden's mother opened her eyes. She saw her son standing in a field of lightning. She did not look afraid. She looked like she had always known."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 7: The rain begins — first drop in close-up, then the deluge, the village lifting their faces to the sky. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 7: The rain begins — first drop in close-up, then the deluge, the village lifting their faces to the sky. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 7: The rain begins — first drop in close-up, then the deluge, the village lifting their faces to the sky. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 7: The rain begins — first drop in close-up, then the deluge, the village lifting their faces to the sky. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 7: The rain begins — first drop in close-up, then the deluge, the village lifting their faces to the sky. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 7: freeze the defining instant of the first raindrop hitting dry earth — a small dark circle on cracked ground; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 7: capture the rain beginning to fall in medium tracking frame, drops hitting faces, hands reaching up, mouths opening to drink. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 7: close emotional frame of an old woman's face as rain runs down her wrinkles — tears or rain, impossible to tell. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 7: action-peak frame of a child jumping in a puddle that was not there a minute ago, freeze impact moment of joy, water splashing. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 7: transition payoff frame of Raiden still standing in the field, rain pouring over him, the lightning gone, just a boy in a storm — balanced composition. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The first drop hit the earth like a whisper. The second was louder. By the third, the sky was shouting.",
+        "The village did not run for cover. They had been running from the sun for months. They stood in the rain and let it wash them clean.",
+        "An old woman opened her mouth and let the rain fall on her tongue. She had forgotten what water tasted like. Now she would never forget again.",
+        "Children splashed in puddles that had not existed five minutes ago. Their laughter was louder than the thunder. Almost.",
+        "Raiden stood alone in the field. The lightning had stopped. The storm was just a storm now. He lowered his arms. And then he felt it — his mother's arms around him from behind."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Primary cinematic slot 1 for scene 8: After the storm — the village green again, rivers flowing, and Raiden walking through the fields as people nod to him instead of staring. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: wide establishing composition, strong environmental motion, and narrative clarity for long-form pacing.",
+        "Secondary cinematic slot 2 for scene 8: After the storm — the village green again, rivers flowing, and Raiden walking through the fields as people nod to him instead of staring. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: medium tracking composition, layered foreground-midground-background blocking, and controlled motion blur.",
+        "Tertiary cinematic slot 3 for scene 8: After the storm — the village green again, rivers flowing, and Raiden walking through the fields as people nod to him instead of staring. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: close emotional composition, expressive facial detail, breath, hands, and emotional beat emphasis.",
+        "Quaternary cinematic slot 4 for scene 8: After the storm — the village green again, rivers flowing, and Raiden walking through the fields as people nod to him instead of staring. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: dynamic action composition, impact timing, directional effects, and escalation momentum.",
+        "Final cinematic slot 5 for scene 8: After the storm — the village green again, rivers flowing, and Raiden walking through the fields as people nod to him instead of staring. Visual style: High fantasy shonen anime with electric blue and storm-grey palette, lightning motion effects, cloud-dragon creatures, dramatic weather magic, hero poses mid-lightning strike, rain-slicked dramatic close-ups. Camera language: payoff transition composition, clean silhouette, atmospheric depth, and a strong bridge into the next scene."
+      ],
+      "first_frame_prompt": [
+        "First-frame slot 1, scene 8: freeze the defining instant of green fields where brown used to be — Raiden walking through new grass; wide composition, readable silhouette, cinematic depth. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 2, scene 8: capture the river running again in medium tracking frame — water over stones, fish returning, children playing at the edge. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 3, scene 8: close emotional frame of Raiden's face — not happy exactly, but lighter — as a farmer nods to him in passing. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 4, scene 8: action-peak frame of Raiden raising his hand to the sky — not to call lightning, just to feel the sun — freeze moment of peace. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism.",
+        "First-frame slot 5, scene 8: transition payoff frame of Raiden sitting on a hill overlooking the village — green, alive, recovering — with his mother beside him, balanced composition of closure. Emphasize layered lighting, texture detail, foreground-midground-background separation, and long-form anime realism."
+      ],
+      "cut": [true, false, true, false, true],
+      "speech": [
+        "The rain lasted three days. When it stopped, the world was different. The cracks in the earth had closed. The cracks in the village were still there. But they were smaller.",
+        "Raiden walked through the fields. Green was coming back. Small green shoots pushing through mud that used to be dust. Life is stubborn that way.",
+        "A farmer nodded at him. Not a bow. Not a accusation. Just a nod. The kind of nod you give someone who saved your life when you were not looking.",
+        "The river was running again. Children splashed in it. Their parents did not tell them to come out. Some things are more important than being dry.",
+        "Raiden sat on a hill with his mother. Neither of them spoke. The storm was over. The secret was out. And for the first time in his life, he did not have to hide. That, he decided, was almost as good as rain."
+      ]
+    }
+  ]
+}
